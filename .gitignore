@@ -1,0 +1,89 @@
+# ========== Allgemeine sensible Dateien ==========
+# Ignoriere überall diese Dateinamen (in allen Unterordnern!)
+**/data.json
+**/main.js
+**/.env
+**/.env.*
+**/secrets.*
+**/*.key
+**/*.pem
+**/*.crt
+**/*.p12
+**/*token*
+**/*oauth*
+**/*secret*
+**/auth.json
+**/private.json
+**/user.json
+**/credentials.json
+**/config.json
+**/settings.json
+**/credentials
+**/*.password
+
+# Beispiel: Falls du Beispiel-Konfigs teilen willst
+!**/*.example.json
+
+# ========== Obsidian: Nutzer- und Sitzungsdaten ==========
+**/.obsidian/app.json
+**/.obsidian/appearance.json
+**/.obsidian/graph.json
+**/.obsidian/hotkeys.json
+**/.obsidian/core-plugins.json
+**/.obsidian/core-plugins-migration.json
+**/.obsidian/types.json
+**/.obsidian/text-generator.json
+**/.obsidian/community-plugins.json
+**/.obsidian/templates.json
+**/.obsidian/workspace.json
+
+# ========== Obsidian Plugins: sensible Dateien & Artefakte ==========
+**/.obsidian/plugins/*/main.js
+**/.obsidian/plugins/*/data.json
+**/.obsidian/plugins/*/*.env
+**/.obsidian/plugins/*/secrets.*
+**/.obsidian/plugins/*/*key*
+**/.obsidian/plugins/*/*token*
+**/.obsidian/plugins/*/*oauth*
+**/.obsidian/plugins/*/*.pem
+**/.obsidian/plugins/*/*.crt
+**/.obsidian/plugins/*/*.p12
+**/.obsidian/plugins/*/config.json
+
+# ========== Node.js/JS-Plugins & Build-Artefakte ==========
+**/node_modules/
+**/dist/
+**/package-lock.json
+**/yarn.lock
+
+# ========== Temporäre Dateien & Backups ==========
+**/*.bak
+**/*.tmp
+**/*.swp
+**/*.log
+
+# ========== Editor & Systemdateien ==========
+**/.vscode/
+**/.idea/
+**/.DS_Store
+**/Thumbs.db
+
+# ========== Office/Zeichnungen/sonstiges ==========
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.drawio
+*.dio
+*.xml
+
+# ========= Persönliche/Projektordner ==========
+.trash/
+stefan/
+
+# ========== Plugins und Themes dürfen rein! ==========
+!.obsidian/plugins/
+!.obsidian/themes/
