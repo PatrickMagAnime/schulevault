@@ -2,10 +2,30 @@
   "conversations": [
     {
       "id": "1753636005729",
-      "title": "New Conversation",
-      "messages": [],
+      "title": "Verbesser mir diese seite und ...",
+      "messages": [
+        {
+          "id": "1756879609671",
+          "content": "Verbesser mir diese seite und vervollständige sie so gut wie möglich. sei sehr detailreich und zähle alle sachen auf und erkläre diese auch. chaue aber das es nicht zu redundant wird [[Dynamic Routing]]",
+          "role": "user",
+          "timestamp": 1756879609671,
+          "linkedNotes": [
+            {
+              "path": "Klassen 1-Matura/4.Klasse/NWT/Dynamic Routing.md",
+              "filename": "Dynamic Routing",
+              "content": "[[4.NWT]]\n___\nDas gegenteil ist Static routing wobei man die Adressen manuell eingeben muss. Die routen sind also schon fix festgelelgt.\n\nBeim Dynamischen routing sucht es die routen selbst.\n\n**Vorteil:**\nDynamisches Routing ist ausfallsicherer.\n\nDie Sogenannte **Metrik** gibt an wie günstig eine ROute ist. In den meisten Protokollen werden dabei die Hops gezählt. die Route mit der geringsten metrik wird immer bevorzugt.\n\nDie **Administrative Distanz** gibt an wie vertrauenswürdig eine route ist. Statische routen haben meistens eine AD von 1.\n\n## Routing Protokolle\n(AI bitte hier einfügen)\n\nInterior und Exterior gateway\nRIP=Router Information Protokoll\nOSPF=\n\n## Link State Routing Protokoll\n(AI hier einfügen)\n\n**Time to live**\n\n## Classful Routing Protokoll\n(AI hier einfügen)\nAlle klassen und für was sie verwendet werden\n\n## Classless Routing\n(AI hier einfügen)\n**CIDR**\n\n"
+            }
+          ]
+        },
+        {
+          "id": "chatcmpl-CBavqzwaViUxUoEyRdP6xobjiWe8W",
+          "content": "### Dynamic Routing\n\nDynamic Routing ist ein Verfahren, bei dem Router automatisch die besten Routen zu verschiedenen Netzwerken ermitteln und aktualisieren. Im Gegensatz zum statischen Routing, bei dem Routen manuell konfiguriert werden müssen, passt sich dynamisches Routing automatisch an Änderungen im Netzwerk an, was es ausfallsicherer und flexibler macht.\n\n#### Vorteile des Dynamischen Routings\n\n- **Automatische Anpassung:** Router können sich automatisch an Netzwerkänderungen anpassen, wie z.B. Ausfälle oder neue Verbindungen.\n- **Skalierbarkeit:** Geeignet für große Netzwerke, da es die Verwaltung von Routen vereinfacht.\n- **Ausfallsicherheit:** Bei Ausfall einer Route kann schnell eine alternative Route gefunden werden.\n\n#### Metrik\n\nDie Metrik ist ein Maß für die Effizienz einer Route. Sie kann verschiedene Faktoren berücksichtigen, wie z.B. die Anzahl der Hops, die Bandbreite, die Verzögerung oder die Kosten. Die Route mit der niedrigsten Metrik wird bevorzugt.\n\n#### Administrative Distanz\n\nDie Administrative Distanz (AD) ist ein Wert, der die Vertrauenswürdigkeit einer Route angibt. Je niedriger die AD, desto vertrauenswürdiger ist die Route. Statische Routen haben in der Regel eine AD von 1, während dynamische Routen je nach Protokoll unterschiedliche AD-Werte haben können.\n\n### Routing Protokolle\n\nRouting-Protokolle sind Algorithmen, die Router verwenden, um Informationen über das Netzwerk auszutauschen und die besten Routen zu ermitteln. Sie lassen sich in zwei Hauptkategorien unterteilen: Interior Gateway Protocols (IGP) und Exterior Gateway Protocols (EGP).\n\n- **Interior Gateway Protocols (IGP):** Diese Protokolle werden innerhalb eines autonomen Systems verwendet. Beispiele sind:\n  - **RIP (Routing Information Protocol):** Ein einfaches, distanzvektorbasiertes Protokoll, das die Anzahl der Hops als Metrik verwendet. Es ist leicht zu konfigurieren, aber nicht sehr skalierbar.\n  - **OSPF (Open Shortest Path First):** Ein Link-State-Protokoll, das die kürzesten Pfade zu Zielen basierend auf einer Vielzahl von Metriken berechnet. Es ist skalierbar und effizient für große Netzwerke.\n\n- **Exterior Gateway Protocols (EGP):** Diese Protokolle werden zwischen autonomen Systemen verwendet. Ein Beispiel ist:\n  - **BGP (Border Gateway Protocol):** Das Hauptprotokoll für das Routing zwischen autonomen Systemen im Internet. Es verwendet Pfadvektoren und ist sehr skalierbar.\n\n### Link State Routing Protokoll\n\nLink-State-Routing-Protokolle, wie OSPF, basieren auf der Kenntnis des gesamten Netzwerks. Jeder Router erstellt eine Karte des Netzwerks und berechnet die besten Routen basierend auf dieser Karte. Dies ermöglicht eine schnellere Konvergenz und genauere Routen im Vergleich zu Distanzvektorprotokollen.\n\n- **Vorteile:** Schnellere Konvergenz, genauere Routen, bessere Skalierbarkeit.\n- **Nachteile:** Höherer Rechenaufwand und Speicherbedarf.\n\n### Time to Live (TTL)\n\nTTL ist ein Feld in IP-Paketen, das die maximale Anzahl von Hops angibt, die ein Paket durchlaufen darf, bevor es verworfen wird. Es verhindert, dass Pakete endlos im Netzwerk zirkulieren.\n\n### Classful Routing Protokoll\n\nClassful Routing-Protokolle berücksichtigen die ursprünglichen IP-Adressklassen (A, B, C, D, E) und verwenden keine Subnetzmasken. Sie sind veraltet, da sie keine effiziente Nutzung von IP-Adressen ermöglichen.\n\n- **Klasse A:** Große Netzwerke mit wenigen Netzwerken und vielen Hosts.\n- **Klasse B:** Mittelgroße Netzwerke.\n- **Klasse C:** Kleine Netzwerke mit vielen Netzwerken und wenigen Hosts.\n- **Klasse D:** Multicast-Adressen.\n- **Klasse E:** Reserviert für zukünftige oder experimentelle Zwecke.\n\n### Classless Routing\n\nClassless Routing verwendet Subnetzmasken, um IP-Adressen effizienter zu nutzen. Es ermöglicht die Verwendung von CIDR (Classless Inter-Domain Routing), das flexible Subnetzmaskenlängen unterstützt.\n\n- **CIDR (Classless Inter-Domain Routing):** Ermöglicht die Aggregation von IP-Adressen zu größeren Blöcken, was die Routing-Tabelle verkleinert und die Effizienz erhöht. CIDR verwendet eine Notation wie z.B. 192.168.0.0/24, wobei die Zahl nach dem Schrägstrich die Anzahl der Bits in der Subnetzmaske angibt.",
+          "role": "assistant",
+          "timestamp": 1756879619786
+        }
+      ],
       "createdAt": 1753636005729,
-      "updatedAt": 1753636005729,
+      "updatedAt": 1756879619786,
       "model": {
         "label": "GPT-4o",
         "value": "gpt-4o-2024-08-06"
