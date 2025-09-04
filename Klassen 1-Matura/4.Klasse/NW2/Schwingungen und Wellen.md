@@ -208,10 +208,12 @@ Mit $k\approx 4{,}0243035275\ \text{s}^2/\text{m}$ folgt $g\approx 9{,}81\ \text
 
 ---
 
-## Zusammenfassung (für dein Vault)
+## Zusammenfassung
 
 - **Mess-Tipp:** immer mehrere Schwingungen messen und mitteln.
     
 - **Wichtig:** $T$ hängt **nicht** von der Masse ab. $T$ steigt mit $L$ wie $T\propto\sqrt{L}$. Wenn man $T^2$ gegen $L$ aufträgt, erhält man eine Gerade; die Steigung liefert $\dfrac{4\pi^2}{g}$.
     
 - **Formel:** $T = 2\pi\sqrt{\dfrac{L}{g}}$
+
+Wenn sich Wellen ausbreiten stört man das System. von oben nach unten ist die Auslenkung. Die Ausbreitung nennt sich Medium.
