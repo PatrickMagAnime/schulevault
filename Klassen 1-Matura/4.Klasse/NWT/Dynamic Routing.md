@@ -10,7 +10,7 @@ Beim Dynamischen routing sucht es die routen selbst.
 - **Skalierbarkeit:** Geeignet für große Netzwerke, da es die Verwaltung von Routen vereinfacht.
 - **Ausfallsicherheit:** Bei Ausfall einer Route kann schnell eine alternative Route gefunden werden.
 
-Die Sogenannte **Metrik** gibt an wie günstig eine ROute ist. In den meisten Protokollen werden dabei die Hops gezählt. die Route mit der geringsten metrik wird immer bevorzugt.
+Die Sogenannte **Metrik** gibt an wie günstig eine Route ist. In den meisten Protokollen werden dabei die Hops gezählt. die Route mit der geringsten metrik wird immer bevorzugt.
 
 Die **Administrative Distanz** gibt an wie vertrauenswürdig eine route ist. Statische routen haben meistens eine AD von 1.
 
