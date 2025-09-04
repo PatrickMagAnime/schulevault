@@ -76,4 +76,30 @@ Angenommen, ein Unternehmen hat ein Netzwerk mit der IP-Adresse 192.168.1.0/24 u
 - 192.168.1.64/27 für ein Subnetz mit 30 Hosts
 - 192.168.1.96/28 für ein Subnetz mit 14 Hosts
 
-Diese Flexibilität ermöglicht eine maßgeschneiderte Netzwerkarchitektur, die den spezifischen Anforderungen des Unternehmens entspricht.
+### RIP und RIP v2
+
+Das Routing Information Protocol (RIP) ist eines der ältesten Routing-Protokolle und verwendet einen Distanzvektor-Algorithmus. Es ist einfach zu konfigurieren und verwendet die Anzahl der Hops als Metrik, wobei die maximale Anzahl von Hops auf 15 begrenzt ist. Dies bedeutet, dass ein Netzwerk mit mehr als 15 Hops als unerreichbar gilt.
+
+#### RIP
+
+- **Update-Intervall:** RIP sendet alle 30 Sekunden Routing-Updates an benachbarte Router. Diese regelmäßigen Updates können zu einer hohen Netzwerklast führen, insbesondere in großen Netzwerken.
+- **Schleifenvermeidung:** RIP verwendet Techniken wie Split Horizon, Route Poisoning und Hold-Down-Timer, um Routing-Schleifen zu vermeiden.
+  - **Split Horizon:** Verhindert, dass Informationen über eine Route über die Schnittstelle gesendet werden, von der sie empfangen wurden.
+  - **Route Poisoning:** Markiert eine Route als unerreichbar, indem sie mit einer Metrik von 16 versehen wird.
+  - **Hold-Down-Timer:** Verhindert, dass Änderungen an einer Route für eine bestimmte Zeit akzeptiert werden, um instabile Routen zu stabilisieren.
+
+#### RIP v2
+
+RIP v2 ist eine Weiterentwicklung von RIP und bietet einige Verbesserungen:
+
+- **Classless Routing:** Unterstützt VLSM und CIDR, was eine effizientere Nutzung von IP-Adressen ermöglicht.
+- **Authentifizierung:** Bietet die Möglichkeit, Routing-Updates zu authentifizieren, um die Sicherheit zu erhöhen.
+- **Multicast-Updates:** Verwendet Multicast anstelle von Broadcast, um Routing-Updates zu senden, was die Netzwerklast reduziert.
+
+#### Beispiel für Schleifen und deren Lösung
+
+Angenommen, ein Netzwerk besteht aus drei Routern A, B und C, die in einer Schleife verbunden sind. Wenn eine Route von A zu einem Ziel über B und C führt und ein Link ausfällt, könnte es zu einer Schleife kommen, wenn die Router nicht korrekt aktualisiert werden. RIP löst dieses Problem durch die oben genannten Techniken:
+
+- **Split Horizon:** Verhindert, dass Router B die Route zu A über C zurücksendet.
+- **Route Poisoning:** Markiert die Route als unerreichbar, um sicherzustellen, dass sie nicht mehr verwendet wird.
+- **Hold-Down-Timer:** Verhindert, dass Router B und C die Route zu A für eine bestimmte Zeit ändern, um die Stabilität zu gewährleisten.
