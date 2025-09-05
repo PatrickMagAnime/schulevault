@@ -10,3 +10,8 @@ Das **SMART-Prinzip** ist ein bekanntes Werkzeug im Projektmanagement, um Ziele 
 - **A**ttraktiv (manchmal auch: Akzeptiert, Ambitioniert, Achievable) – Das Ziel muss für die Beteiligten erstrebenswert bzw. erreichbar sein.
 - **R**ealistisch – Das Ziel muss mit den vorhandenen Ressourcen und Möglichkeiten umsetzbar sein.
 - **T**erminierbar – Es muss ein klarer Zeitrahmen und ein Endtermin für die Zielerreichung definiert sein.
+
+**HÜ**
+Also ich habe ein spezifisches Ziel: und zwar muskeln im gym aufzubauen.
+Das ganze ist auch messbar, man kann es überprüfen indem man sieht das ich muskeln aufgebaut habe. Attraktiv ist es auch für mich. Realistisch ist es weil wenn ich regelmäßig ins gym gehe kann ich nur muskeln aufbauen.
+Es ist auch terminierbar weil es fixe zeiten gibt an denen ich ins gym gehe.
