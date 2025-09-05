@@ -101,3 +101,8 @@ EIGRP ist ein hybrides Routing-Protokoll, das von Cisco entwickelt wurde. Es kom
 - **Inkrementelle Updates:** Anstatt vollständige Routing-Tabellen zu senden, überträgt EIGRP nur inkrementelle Updates, was die Netzwerklast reduziert.
 - **VLSM und CIDR:** EIGRP unterstützt VLSM und CIDR, was eine effiziente Nutzung von IP-Adressen ermöglicht.
 - **Automatische Zusammenfassung:** EIGRP kann Routen automatisch zusammenfassen, um die Größe der Routing-Tabellen zu reduzieren, bietet aber auch die Möglichkeit, diese Funktion zu deaktivieren.
+
+### Autonome System
+- **Einheitliche Routing-Strategie:** Innerhalb eines AS wird eine konsistente Routing-Politik angewendet, die von der Organisation festgelegt wird, die das AS verwaltet.
+- **Grenzrouter:** Diese Router verbinden das AS mit anderen autonomen Systemen und verwenden Exterior Gateway Protocols (EGP) wie BGP (Border Gateway Protocol), um Routing-Informationen auszutauschen.
+- **Interior Gateway Protocols (IGP):** Innerhalb eines AS werden IGPs wie OSPF oder EIGRP verwendet, um Routing-Informationen zwischen den Routern des AS auszutauschen.
