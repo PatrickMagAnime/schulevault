@@ -1,6 +1,6 @@
 Prozess management ist wenn man eine schon bekannte aufgabe vollbringt und diese optimiert.
 
-Projektmanagement ist die planung ohne es zuvor getestet zu haben. Dabei versucht man ebenfalls es so gut wie möglich zu optimieren. Risikomanagement hat viel mit risiken und chancen zu tun wobei man dabei mit positiv und negativ unterscheidet. 
+Projektmanagement **(neu eunzigartig und hat ein start und ein ende)** ist die planung ohne es zuvor getestet zu haben. Dabei versucht man ebenfalls es so gut wie möglich zu optimieren. Risikomanagement hat viel mit risiken und chancen zu tun wobei man dabei mit positiv und negativ unterscheidet. 
 
 Das **SMART-Prinzip** ist ein bekanntes Werkzeug im Projektmanagement, um Ziele klar zu formulieren und deren Erreichbarkeit zu prüfen.  
 **SMART** ist ein Akronym und steht für:
