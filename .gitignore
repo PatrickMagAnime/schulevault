@@ -79,6 +79,7 @@
 *.drawio
 *.dio
 *.xml
+*.dat
 
 # ========= Persönliche/Projektordner ==========
 .trash/
