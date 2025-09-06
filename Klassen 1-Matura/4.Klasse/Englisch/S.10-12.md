@@ -1,6 +1,6 @@
 [[4.Englisch]]
 ___
-## New word I've learned
+## New words I've learned
 fired = made be redundant
 to be unemployed = on the dole
 sugarcoating = euphemism (ganz nett formulierter satz)
@@ -45,7 +45,7 @@ sugarcoating = euphemism (ganz nett formulierter satz)
 - to attend a job interview
 - to get your first / a new job
 - to get promoted
-- to be laid off / made redundat
+- to be laid off / made redundant
 - to be unemployed / on the dole
 - to undergo retraining
 - to have a career change
