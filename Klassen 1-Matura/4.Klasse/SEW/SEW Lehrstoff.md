@@ -1,2 +1,0 @@
-- Wiederholung
-- nebenläufige programmierung (Async und Threads)
