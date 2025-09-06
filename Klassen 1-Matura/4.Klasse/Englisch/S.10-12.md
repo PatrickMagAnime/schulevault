@@ -38,6 +38,7 @@ sugarcoating = euphemism (ganz nett formulierter satz)
 - flexitime
 - overtime
 - time off in lieu
+- premises
 
 ### Highlighted things on these sites
 - to apply for a job
@@ -51,4 +52,15 @@ sugarcoating = euphemism (ganz nett formulierter satz)
 - to found a start-up
 - to retire
 
-- 
+- casuasl worker
+	employed for irregular hours/days as needed
+- contractor
+	runs own company, works for one specific client at a time
+- freelancer
+	self-employed, hired for a specific project, usually works for several clients at a time
+- gig worker
+	hired and paid for a single task
+- nomad worker
+	works mostly away from the company premises
+- temp(orary worker)
+	employed for a short time (e.g. to cover for a sick employee)
