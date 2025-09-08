@@ -1,6 +1,30 @@
 {
   "conversations": [
     {
+      "id": "1757316012802",
+      "title": "was für sachen fallen dir für ...",
+      "messages": [
+        {
+          "id": "1757316062816",
+          "content": "was für sachen fallen dir für sicherheit grob ein, verschlüsselung ist schon vil zu detailiert. zb IT sicherheit",
+          "role": "user",
+          "timestamp": 1757316062816
+        },
+        {
+          "id": "chatcmpl-CDQTWEqUJlO8lXIBrbki2cqf2G5e8",
+          "content": "- Governance & Sicherheitsstrategie (Rollen, Verantwortlichkeiten, Policies)\n- Risiko- & Bedrohungsmanagement (Risikoanalyse, Bedrohungsmodellierung)\n- Compliance & Datenschutz (ISO 27001, NIST, DSGVO)\n- Sicherheitskultur & Awareness (Phishing-Training, Guidelines)\n- Asset-Management & Inventarisierung (IT/OT, Shadow IT)\n- Identitäts- & Zugriffsmanagement (IAM, MFA, Rollen, Least Privilege)\n- Netzwerk- & Perimetersicherheit (Segmentierung, Zero Trust, Firewalls)\n- Endpunktsicherheit (Hardening, EDR, MDM)\n- Server- & Infrastruktur-Sicherheit (Patching, sichere Konfiguration)\n- Cloud-Sicherheit (Shared Responsibility, Governance, CSPM/CIEM)\n- Anwendungssicherheit (Secure SDLC, Code-Reviews, Testen)\n- API-Sicherheit (AuthZ, Ratenbegrenzung, Discovery)\n- DevSecOps & Software-Lieferkette (SBOM, Signaturen, Abhängigkeiten)\n- Datenklassifizierung & -lebenszyklus (Retention, DLP, sichere Löschung)\n- Backup & Wiederherstellung (3-2-1, Offsite, Immutable)\n- Business Continuity & Disaster Recovery (BCP/DRP)\n- Überwachung & Erkennung (Logging, SIEM, UEBA)\n- Incident Response & Forensik (Playbooks, Retainer, Lessons Learned)\n- Schwachstellen- & Patchmanagement (Scans, Priorisierung)\n- Konfigurations- & Änderungsmanagement (Baseline, IaC-Governance)\n- Privilegien-Management & PAM (Break-Glass, Session Monitoring)\n- Physische Sicherheit (Zutritt, CCTV, Umweltsensorik)\n- Third-Party- & Lieferkettenrisiken (Due Diligence, Verträge)\n- OT/ICS- & IoT-Sicherheit (Segmentierung, Asset Discovery)\n- E-Mail- & Kollaborationssicherheit (Phishing-Schutz, DMARC)\n- Social Engineering & Betrugsprävention (Betrugsszenarien, Prozesse)\n- Täuschung/Deception & Honeypots (Früherkennung)\n- Sicherheitsmetriken & Reporting (KPIs, KRIs, Dashboards)\n- Red/Blue/Purple Teaming & Penetrationstests (Kontinuierliche Übung)\n- Sicherheitsarchitektur & Referenzmodelle (SABSA, NIST CSF)\n- Privacy by Design & Default (Datenminimierung)\n- Rechts- & Ermittlungsfähigkeit (Chain of Custody, Beweissicherung)\n- Geheimhaltungs- & Informationsschutz (Need-to-know, Klassifizierung)\n- Branchenspezifische Anforderungen (KRITIS, PCI DSS, HIPAA)\n- Krisen- & Kommunikationsmanagement (Stakeholder, Meldewege)",
+          "role": "assistant",
+          "timestamp": 1757316108807
+        }
+      ],
+      "createdAt": 1757316012802,
+      "updatedAt": 1757316108807,
+      "model": {
+        "label": "GPT-5",
+        "value": "gpt-5"
+      }
+    },
+    {
       "id": "1757170933416",
       "title": "gib mireinen satz für mein pro...",
       "messages": [
@@ -344,5 +368,5 @@
       }
     }
   ],
-  "activeConversationId": "1757170933416"
+  "activeConversationId": "1757316012802"
 }
