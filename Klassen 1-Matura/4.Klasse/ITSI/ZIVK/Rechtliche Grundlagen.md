@@ -19,6 +19,14 @@ Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für
 **TOM= Technische und Organisatorische Maßnahme**
 
 §118a Wiederrechtlicher zugriff auf ein Gerät
-Bsp: eif ein Laptop ohne Passwort dursuchen.
+Bsp: Einfach ein Laptop ohne Passwort dursuchen.
+
+§123 Auskundschaftung eines Geschäfts/Netzwerks
+Bsp: Im betrieb sich einloggen mit fremden account und Daten manipulieren oder schreibgeschützte daten ansehen.
+
+§126b Störung der Sicherheit eines Computersystems
+Bsp: DDOS Angriff. Oder MC.Donalds bestellfenster manipulieren so dass man die Kassenkonsole deaktiviert/sperrt.
+
+
 
 
