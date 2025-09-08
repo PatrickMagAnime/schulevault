@@ -1,6 +1,17 @@
 {
   "conversations": [
     {
+      "id": "1757316336202",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1757316336202,
+      "updatedAt": 1757316336202,
+      "model": {
+        "label": "GPT-5-mini",
+        "value": "gpt-5-mini"
+      }
+    },
+    {
       "id": "1757316012802",
       "title": "was für sachen fallen dir für ...",
       "messages": [
@@ -15,10 +26,16 @@
           "content": "- Governance & Sicherheitsstrategie (Rollen, Verantwortlichkeiten, Policies)\n- Risiko- & Bedrohungsmanagement (Risikoanalyse, Bedrohungsmodellierung)\n- Compliance & Datenschutz (ISO 27001, NIST, DSGVO)\n- Sicherheitskultur & Awareness (Phishing-Training, Guidelines)\n- Asset-Management & Inventarisierung (IT/OT, Shadow IT)\n- Identitäts- & Zugriffsmanagement (IAM, MFA, Rollen, Least Privilege)\n- Netzwerk- & Perimetersicherheit (Segmentierung, Zero Trust, Firewalls)\n- Endpunktsicherheit (Hardening, EDR, MDM)\n- Server- & Infrastruktur-Sicherheit (Patching, sichere Konfiguration)\n- Cloud-Sicherheit (Shared Responsibility, Governance, CSPM/CIEM)\n- Anwendungssicherheit (Secure SDLC, Code-Reviews, Testen)\n- API-Sicherheit (AuthZ, Ratenbegrenzung, Discovery)\n- DevSecOps & Software-Lieferkette (SBOM, Signaturen, Abhängigkeiten)\n- Datenklassifizierung & -lebenszyklus (Retention, DLP, sichere Löschung)\n- Backup & Wiederherstellung (3-2-1, Offsite, Immutable)\n- Business Continuity & Disaster Recovery (BCP/DRP)\n- Überwachung & Erkennung (Logging, SIEM, UEBA)\n- Incident Response & Forensik (Playbooks, Retainer, Lessons Learned)\n- Schwachstellen- & Patchmanagement (Scans, Priorisierung)\n- Konfigurations- & Änderungsmanagement (Baseline, IaC-Governance)\n- Privilegien-Management & PAM (Break-Glass, Session Monitoring)\n- Physische Sicherheit (Zutritt, CCTV, Umweltsensorik)\n- Third-Party- & Lieferkettenrisiken (Due Diligence, Verträge)\n- OT/ICS- & IoT-Sicherheit (Segmentierung, Asset Discovery)\n- E-Mail- & Kollaborationssicherheit (Phishing-Schutz, DMARC)\n- Social Engineering & Betrugsprävention (Betrugsszenarien, Prozesse)\n- Täuschung/Deception & Honeypots (Früherkennung)\n- Sicherheitsmetriken & Reporting (KPIs, KRIs, Dashboards)\n- Red/Blue/Purple Teaming & Penetrationstests (Kontinuierliche Übung)\n- Sicherheitsarchitektur & Referenzmodelle (SABSA, NIST CSF)\n- Privacy by Design & Default (Datenminimierung)\n- Rechts- & Ermittlungsfähigkeit (Chain of Custody, Beweissicherung)\n- Geheimhaltungs- & Informationsschutz (Need-to-know, Klassifizierung)\n- Branchenspezifische Anforderungen (KRITIS, PCI DSS, HIPAA)\n- Krisen- & Kommunikationsmanagement (Stakeholder, Meldewege)",
           "role": "assistant",
           "timestamp": 1757316108807
+        },
+        {
+          "id": "1757316230691",
+          "content": "wasist das cia dreieck",
+          "role": "user",
+          "timestamp": 1757316230691
         }
       ],
       "createdAt": 1757316012802,
-      "updatedAt": 1757316108807,
+      "updatedAt": 1757316230691,
       "model": {
         "label": "GPT-5",
         "value": "gpt-5"
@@ -342,31 +359,7 @@
         "label": "GPT-4o",
         "value": "gpt-4o-2024-08-06"
       }
-    },
-    {
-      "id": "1749132979679",
-      "title": "wie lade ich mir auf linux wor...",
-      "messages": [
-        {
-          "id": "1749160467840",
-          "content": "wie lade ich mir auf linux wormhole herunter",
-          "role": "user",
-          "timestamp": 1749160467840
-        },
-        {
-          "id": "chatcmpl-BfCpY7UTXBrA1vhmawMSpOheLb6SZ",
-          "content": "Um \"Wormhole\" auf Linux herunterzuladen und zu installieren, kannst du das Tool \"Magic Wormhole\" verwenden, das es ermöglicht, Dateien sicher und einfach zwischen Computern zu übertragen. Hier sind die Schritte, um es zu installieren:\n\n1. **Paketmanager verwenden**: Die einfachste Methode ist die Installation über den Paketmanager deiner Linux-Distribution. Für Ubuntu oder Debian-basierte Systeme kannst du den folgenden Befehl verwenden:\n\n   ```bash\n   sudo apt update\n   sudo apt install magic-wormhole\n   ```\n\n   Für Fedora:\n\n   ```bash\n   sudo dnf install magic-wormhole\n   ```\n\n   Für Arch Linux:\n\n   ```bash\n   sudo pacman -S magic-wormhole\n   ```\n\n2. **Installation über `pip`**: Wenn es nicht in deinem Paketmanager verfügbar ist, kannst du es auch über `pip` installieren. Stelle sicher, dass Python und `pip` installiert sind, und führe dann den folgenden Befehl aus:\n\n   ```bash\n   pip install magic-wormhole\n   ```\n\n3. **Verwendung**: Nach der Installation kannst du `wormhole` im Terminal verwenden. Zum Beispiel, um eine Datei zu senden:\n\n   ```bash\n   wormhole send dateiname\n   ```\n\n   Und um eine Datei zu empfangen:\n\n   ```bash\n   wormhole receive\n   ```\n\nDas sollte dir helfen, Magic Wormhole auf deinem Linux-System zu installieren und zu verwenden.",
-          "role": "assistant",
-          "timestamp": 1749160471725
-        }
-      ],
-      "createdAt": 1749132979679,
-      "updatedAt": 1749160471725,
-      "model": {
-        "label": "GPT-4o",
-        "value": "gpt-4o-2024-08-06"
-      }
     }
   ],
-  "activeConversationId": "1757316012802"
+  "activeConversationId": "1757316336202"
 }
