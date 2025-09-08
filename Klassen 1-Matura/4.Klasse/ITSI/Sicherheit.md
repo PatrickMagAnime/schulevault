@@ -7,13 +7,6 @@ ___
 
 #### Grundlegende Begriffe und Schutzziele der Informationssicherheit
 
-##### Die Bedeutung von Informationswerten
-Nicht nur in der heutigen Informationsgesellschaft bilden Informationen eine wesentliche Grundlage unseres geschäftlichen wie persönlichen Handelns. Ohne Informationen kann keine objektiv abgewogene Entscheidung getroffen werden.  
-Durch Wissensvorsprung bei technischem Know-how, Herstellungsverfahren oder Kundeninformationen werden Informationen zu einem entscheidenden Wettbewerbsfaktor.  
-Folglich stellen Informationen wertvolle Vermögenswerte von Unternehmen dar, deren Schutz von großer Bedeutung zur Verhinderung von wirtschaftlichen Schäden ist.  
-
----
-
 ##### Was bedeutet Informationssicherheit?
 Informationssicherheit hat das Ziel, Informationen jeglicher Art und Herkunft zu schützen. Dies umfasst:  
 - Informationen in den Köpfen der Beteiligten  
@@ -26,7 +19,6 @@ Ziel: Risiken auf ein akzeptables Niveau minimieren.
 Zusatznutzen: Schutz personenbezogener Daten → Synergie mit **Datenschutz**.  
 
 ---
-
 ##### Schutzziele der Informationssicherheit
 Die drei primären Schutzziele sind:  
 1. **Vertraulichkeit (Confidentiality)**  
