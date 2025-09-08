@@ -2,4 +2,4 @@
 ___
 - Rechtliche Grundlagen
 - Systemsicherheit
-- Netzwerkfor
+- Netzwerkforensik
