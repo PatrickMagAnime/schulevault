@@ -18,3 +18,7 @@ Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für
 
 **TOM= Technische und Organisatorische Maßnahme**
 
+§118a Wiederrechtlicher zugriff auf ein Gerät
+Bsp: eif ein Laptop ohne Passwort dursuchen.
+
+
