@@ -1,7 +1,6 @@
 [[4.GGP]]
 ___
 ![[Pasted image 20250908105943.png]]
-Klar! Ich gebe dir zu allen Punkten aus dem Bild eine knappe, lernfreundliche Übersicht: Begriffe, Zeitrahmen und nennenswerte Ereignisse. Das 19. Jahrhundert im engeren Sinn ist 1801–1900; oft spricht man aber vom „langen 19. Jahrhundert“ ca. 1776/1789–1914, was gut zu deiner Zeitleiste passt.
 
 Geistige Strömungen und Epochen
 - Aufklärung (ca. 1680–1800, Ausläufer bis um 1800)
@@ -78,5 +77,3 @@ Wie die Stränge zusammenhängen (Kurzüberblick)
 - Im Habsburgerreich folgt auf das Scheitern 1848 Neoabsolutismus → danach Verfassungswege → 1867 Doppelmonarchie.
 - Nationalstaatenbildung kulminiert in Italien (1861) und Deutschland (1871).
 - Spätes 19. Jh.: Hochimperialismus und zweite Industrielle Revolution prägen die Welt bis 1914.
-
-Wenn du willst, fasse ich das als Lernzettel oder Karteikarten zusammen oder markiere die wichtigsten Daten speziell für Österreich/Deutschland.
