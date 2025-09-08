@@ -1,1 +1,3 @@
 [[1.Deutsch]]
+___
+"Tschick" von Wolfgang Herrndorf ist ein Coming-of-Age-Roman über die ungewöhnliche Freundschaft zwischen dem 14-jährigen Maik Klingenberg, einem Außenseiter aus gutem Hause, und dem russlanddeutschen Spätaussiedler Tschick. Während der Sommerferien, in denen Maiks Mutter in der Entzugsklinik und sein Vater mit seiner Assistentin unterwegs ist, begeben sich die beiden mit einem gestohlenen Lada auf eine ziellose Reise durch Ostdeutschland. Sie erleben dabei skurrile Abenteuer, begegnen interessanten Menschen und lernen, was Freundschaft und Freiheit wirklich bedeuten. Die Reise wird zu einer Flucht vor ihren Problemen und einer Suche nach sich selbst.

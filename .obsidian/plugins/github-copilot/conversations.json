@@ -1,11 +1,103 @@
 {
   "conversations": [
     {
+      "id": "1757328734137",
+      "title": "welche sprecharten gibt es im ...",
+      "messages": [
+        {
+          "id": "1757328749293",
+          "content": "welche sprecharten gibt es im deutaschen",
+          "role": "user",
+          "timestamp": 1757328749293
+        },
+        {
+          "id": "1757328752123-assistant",
+          "content": "Im Deutschen gibt es folgende Sprecharten:\n\n*   **Aussagesatz (Deklarativsatz):** Stellt eine Aussage fest. Beispiel: \"Die Sonne scheint.\"\n*   **Fragesatz (Interrogativsatz):** Fordert eine Antwort. Beispiel: \"Scheint die Sonne?\"\n*   **Aufforderungssatz (Imperativsatz):** Drückt eine Aufforderung, einen Befehl oder eine Bitte aus. Beispiel: \"Schein die Sonne!\" (im übertragenen Sinne, z.B. als Ermutigung)\n*   **Ausrufesatz (Exklamativsatz):** Drückt einen Ausruf, eine Verwunderung oder ein Gefühl aus. Beispiel: \"Scheint die Sonne schön!\"\n*   **Wunschsatz (Optativsatz):** Drückt einen Wunsch aus (oft mit Konjunktiv). Beispiel: \"Wenn die Sonne doch scheinen würde!\"",
+          "role": "assistant",
+          "timestamp": 1757328752123
+        },
+        {
+          "id": "1757328788873",
+          "content": "schreib eine kurze zusammenfassung über das buch tschik",
+          "role": "user",
+          "timestamp": 1757328788873
+        },
+        {
+          "id": "1757328790987-assistant",
+          "content": "\"Tschick\" von Wolfgang Herrndorf ist ein Coming-of-Age-Roman über die ungewöhnliche Freundschaft zwischen dem 14-jährigen Maik Klingenberg, einem Außenseiter aus gutem Hause, und dem russlanddeutschen Spätaussiedler Tschick. Während der Sommerferien, in denen Maiks Mutter in der Entzugsklinik und sein Vater mit seiner Assistentin unterwegs ist, begeben sich die beiden mit einem gestohlenen Lada auf eine ziellose Reise durch Ostdeutschland. Sie erleben dabei skurrile Abenteuer, begegnen interessanten Menschen und lernen, was Freundschaft und Freiheit wirklich bedeuten. Die Reise wird zu einer Flucht vor ihren Problemen und einer Suche nach sich selbst.",
+          "role": "assistant",
+          "timestamp": 1757328790987
+        },
+        {
+          "id": "1757328825466",
+          "content": "gib mir ein kurzes beispiel für einen lebenslauf für meine deutsch mitschrift mit tipps usw",
+          "role": "user",
+          "timestamp": 1757328825466
+        },
+        {
+          "id": "1757328830210-assistant",
+          "content": "**Max Mustermann**\n\nMusterstraße 123, 12345 Musterstadt\n\nTelefon: 0123/456789\n\nE-Mail: max.mustermann@email.de\n\n**Persönliche Daten**\n\n*   Geburtsdatum: 01.01.2000\n*   Geburtsort: Musterstadt\n\n**Schulbildung**\n\n*   08/2016 – 06/2024: Mustergymnasium, Musterstadt (voraussichtlicher Abschluss: Abitur)\n*   08/2012 – 07/2016: Musterschule, Musterstadt\n\n**Praktika & Berufserfahrung**\n\n*   07/2023 – 08/2023: Praktikum bei Musterfirma GmbH, Musterstadt (Bereich: Marketing)\n*   Seit 09/2022: Nachhilfelehrer für Mathematik (privat)\n\n**Kenntnisse & Fähigkeiten**\n\n*   Sprachen: Deutsch (Muttersprache), Englisch (fließend), Französisch (Grundkenntnisse)\n*   EDV: MS Office (Word, Excel, PowerPoint), Grundlagen in \\[ggf. weitere Programme]\n*   Sonstiges: Führerschein Klasse B (optional)\n\n**Interessen & Engagement**\n\n*   Fußball (aktives Mitglied im Musterverein)\n*   Lesen, Reisen\n\nMusterstadt, 16. Mai 2024\n\n*Max Mustermann*\n\n**Tipps:**\n\n*   **Klar und übersichtlich:** Verwende eine gut lesbare Schriftart (z.B. Arial, Calibri) und eine klare Struktur.\n*   **Aktuell:** Passe den Lebenslauf immer an die jeweilige Stelle an.\n*   **Vollständig:** Achte darauf, dass alle relevanten Informationen enthalten sind.\n*   **Wahrheitsgemäß:** Mache keine falschen Angaben.\n*   **Foto:** Ein professionelles Foto ist optional, aber empfehlenswert.\n*   **Unterschrift:** Unterschreibe den Lebenslauf handschriftlich.\n*   **Reihenfolge:** Die Reihenfolge der Abschnitte kann je nach Schwerpunkt variieren (z.B. bei viel Berufserfahrung diese vor die Ausbildung).\n*   **Formulierungen:** Verwende aktive und präzise Formulierungen (z.B. \"Durchführung von...\", \"Mitarbeit bei...\").\n*   **Lücken vermeiden:** Erkläre eventuelle Lücken im Lebenslauf (z.B. durch Auslandsaufenthalt, Jobsuche).\n*   **Anschreiben:** Der Lebenslauf ist eine Ergänzung zum Anschreiben, nicht dessen Ersatz. Im Anschreiben gehst du detaillierter auf die Stelle und deine Motivation ein.",
+          "role": "assistant",
+          "timestamp": 1757328830210
+        },
+        {
+          "id": "1757328874513",
+          "content": "erzähl mir was über die erzählung im deutschen für meine mitschrift. damit ist eine erzählart gemeint",
+          "role": "user",
+          "timestamp": 1757328874513
+        },
+        {
+          "id": "1757328879053-assistant",
+          "content": "Im Deutschen unterscheidet man hauptsächlich zwischen folgenden Erzählarten:\n\n**1. Ich-Erzählung:**\n\n*   Der Erzähler ist Teil der Geschichte und berichtet aus seiner eigenen Perspektive.\n*   Der Leser erfährt die Gedanken und Gefühle des Ich-Erzählers, aber nicht die der anderen Figuren.\n*   Beispiel: \"Ich ging die Straße entlang und sah, wie ein Mann stolperte.\"\n\n**2. Er/Sie-Erzählung (auktorialer Erzähler):**\n\n*   Der Erzähler steht außerhalb der Geschichte und ist allwissend.\n*   Er kennt die Gedanken, Gefühle und Hintergründe aller Figuren.\n*   Er kann kommentieren, bewerten und in die Handlung eingreifen.\n*   Beispiel: \"Er wusste, dass sie ihn belog, aber er wollte es nicht wahrhaben.\"\n\n**3. Er/Sie-Erzählung (personaler Erzähler):**\n\n*   Der Erzähler steht außerhalb der Geschichte, schildert die Ereignisse aber aus der Perspektive einer bestimmten Figur.\n*   Der Leser erfährt die Gedanken und Gefühle dieser Figur, aber nicht die der anderen.\n*   Beispiel: \"Sie sah ihn an und fragte sich, was er wohl dachte.\"\n\n**4. Neutrale Erzählung:**\n\n*   Der Erzähler beschreibt die Ereignisse objektiv, ohne die Gedanken oder Gefühle der Figuren zu kennen.\n*   Er verhält sich wie eine Kamera, die das Geschehen aufzeichnet.\n*   Beispiel: \"Der Mann öffnete die Tür und ging hinaus.\"\n\n**Zusätzliche Informationen für deine Mitschrift:**\n\n*   **Erzählperspektive:** Die Perspektive, aus der die Geschichte erzählt wird (Ich-Perspektive, Er/Sie-Perspektive).\n*   **Erzählstandort:** Der räumliche und zeitliche Abstand des Erzählers zum Geschehen.\n*   **Erzählverhalten:** Die Art und Weise, wie der Erzähler die Geschichte präsentiert (z.B. kommentierend, wertend, neutral).\n*   **Wechsel der Erzählperspektive:** In manchen Texten wechselt die Erzählperspektive zwischen verschiedenen Figuren.\n*   **Zuverlässigkeit des Erzählers:** Ist der Erzähler glaubwürdig oder unzuverlässig? (Unreliable Narrator)\n\nEs ist wichtig zu beachten, dass diese Kategorien nicht immer trennscharf sind und in der Literatur oft Mischformen vorkommen. Die Wahl der Erzählart hat einen großen Einfluss auf die Wirkung der Geschichte auf den Leser.",
+          "role": "assistant",
+          "timestamp": 1757328879053
+        },
+        {
+          "id": "1757328905977",
+          "content": "jz für die doppel ss schreibung mit erklärung",
+          "role": "user",
+          "timestamp": 1757328905977
+        },
+        {
+          "id": "1757328909771-assistant",
+          "content": "Die Schreibung mit \"ss\" oder \"ß\" im Deutschen ist ein Thema, das oft zu Verwirrung führt. Hier eine kurze Erklärung für deine Mitschrift:\n\n**Grundregel:**\n\n*   Nach kurzem Vokal schreibt man \"ss\".\n*   Nach langem Vokal oder Diphthong schreibt man \"ß\".\n\n**Beispiele:**\n\n*   **Kurzer Vokal:**\n    *   Kuss (kurzes \"u\")\n    *   Fluss (kurzes \"u\")\n    *   Nuss (kurzes \"u\")\n*   **Langer Vokal:**\n    *   Straße (langes \"a\")\n    *   Fuß (langes \"u\")\n    *   weiß (Diphthong \"ei\")\n\n**Wichtig:**\n\n*   \"ß\" gibt es nur im Kleinbuchstaben. In der Großschreibung wird \"ß\" durch \"SS\" ersetzt (z.B. \"Straße\" wird zu \"STRASSE\").\n*   In der Schweiz und in Liechtenstein wird generell kein \"ß\" verwendet, sondern immer \"ss\".\n\n**Reform der deutschen Rechtschreibung (1996):**\n\nDie Rechtschreibreform hat die Regeln zur \"ss\"- und \"ß\"-Schreibung vereinfacht. Die obige Grundregel gilt weiterhin, aber es gibt einige Änderungen:\n\n*   **Stammprinzip:** Wörter, die vom gleichen Stamm abgeleitet sind, werden gleich geschrieben (z.B. \"fließen\" -> \"Fluss\").\n*   **Silbentrennung:** Wenn nach einem kurzen Vokal eine Silbentrennung erfolgt, wird \"ss\" geschrieben (z.B. \"Kissen\" -> \"Kis-sen\").\n\n**Zusammenfassend:**\n\n| Fall                               | Schreibung | Beispiel    |\n| ---------------------------------- | ---------- | ----------- |\n| Nach kurzem Vokal                  | ss         | Kuss        |\n| Nach langem Vokal oder Diphthong   | ß          | Straße      |\n| In der Schweiz und Liechtenstein   | ss         | Strasse     |\n\n**Tipp:**\n\nIm Zweifelsfall hilft ein Blick in den Duden oder eine Online-Rechtschreibprüfung.",
+          "role": "assistant",
+          "timestamp": 1757328909772
+        }
+      ],
+      "createdAt": 1757328734137,
+      "updatedAt": 1757328909772,
+      "model": {
+        "label": "Gemini 2.0 Flash",
+        "value": "gemini-2.0-flash-001"
+      }
+    },
+    {
       "id": "1757321998845",
-      "title": "New Conversation",
-      "messages": [],
+      "title": "[[Rechtliche Grundlagen]] was ...",
+      "messages": [
+        {
+          "id": "1757328432480",
+          "content": "[[Rechtliche Grundlagen]] was wäre da ganz kurz in wenigen worten bei NISV Gesetz",
+          "role": "user",
+          "timestamp": 1757328432480,
+          "linkedNotes": [
+            {
+              "path": "Klassen 1-Matura/4.Klasse/ITSI/ZIVK/Rechtliche Grundlagen.md",
+              "filename": "Rechtliche Grundlagen",
+              "content": "[[4.ITSI]]\n___\n### Ransomware in einem Krankenhaus\n###### Folgen:\n- Medizinische Maschinen fallen aus\n- Arbeit nmöglich\n- Data Leak\n- Keinen Zugriff auf Daten\n\n###### Sicherheit gewährleisten:\nEin **Audit** ist ein Penetrationstest.\nNISV Gesetz:\n- Sorgfaltspflicht\n- Rechenschaftspflicht\n- Haftung\nSollte man seinen Pflichten nicht nachgehen muss man dafür haften.\nDas gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.\n\n**TOM= Technische und Organisatorische Maßnahme**\n\n"
+            }
+          ]
+        },
+        {
+          "id": "1757328437295-assistant",
+          "content": "NISV Gesetz: Sorgfaltspflicht, Rechenschaftspflicht, Haftung bei Nichteinhaltung.\n",
+          "role": "assistant",
+          "timestamp": 1757328437295
+        }
+      ],
       "createdAt": 1757321998845,
-      "updatedAt": 1757321998845,
+      "updatedAt": 1757328437295,
       "model": {
         "label": "GPT-5-mini",
         "value": "gpt-5-mini"
@@ -335,31 +427,7 @@
         "label": "GPT-4o",
         "value": "gpt-4o-2024-08-06"
       }
-    },
-    {
-      "id": "1749213318265",
-      "title": "du kannst mir dosch sicher ein...",
-      "messages": [
-        {
-          "id": "1749213327580",
-          "content": "du kannst mir dosch sicher ein richtig gutes md file erstellen welches diese aufgabe erfüllt: Betriebssysteme\nThemen: Grundlagen, Von-Neumann-Prinzip, Schichtenmodell, Prozesse,\nSpeicherverwaltung, Dateiverwaltung\nEinführung & Von-Neumann-Prinzipien\nAufgabe 1: Zusammenfassung lesen\nLest im Skriptum „1.2.2 Die Von-Neumann-Prinzipien“ (Seite 8–10). Markiert die\nwichtigsten Sätze.\nAufgabe 2: Fragen beantworten\n1. Was sind die 3 Grundprinzipien der Von-Neumann-Architektur?\n2. Warum war diese Architektur ein Meilenstein in der Computerentwicklung?\n3. Wie sieht der typische „Fetch-Decode-Execute“-Zyklus aus?\nAufgabe 3: Zeichnung erstellen\nErstelle eine beschriftete Skizze eines Von-Neumann-Rechners. Enthalten sein müssen:\n- CPU\n- Hauptspeicher\n- Ein-/Ausgabe\n- Steuerwerk & Rechenwerk\n- Daten- und Befehlsbus\nSchichtenmodell eines Computersystems\nAufgabe 4: Skriptum durcharbeiten\nKapitel 1.2.3 – Das Schichtenmodell (Seite 11–14) lesen.\nAufgabe 5: Zuordnungsaufgabe\nOrdne die folgenden Begriffe der richtigen Schicht zu:\nMikrocode, Compiler, Webbrowser, CPU, Linker, Dateimanager, ROM, Kommandozeile\nBeispiel: CPU -> Physikalische Geräte\nAufgabe 6: Eigenständige Erklärung\nErkläre in je 1–2 Sätzen:\n- Warum ist das Schichtenmodell hilfreich?\n- Welche Vorteile ergeben sich für Programmierer?\nAufgaben des Betriebssystems & Prozesse\nAufgabe 7: Leseauftrag\nLies Kapitel 1.2.5 + 2.1 über Aufgaben und Prozesse in Betriebssystemen.\nAufgabe 8: Tabelle ausfüllen\nFülle eine Tabelle mit Betriebssystemaufgaben, Beschreibung und Beispiel aus.\nAufgabe 9: Kurze Textanalyse\nWas ist ein Deadlock und wie kann das Betriebssystem damit umgehen?\nBeschreibe in 5–6 Sätzen ein eigenes Beispiel aus dem Alltag.\nDateiverwaltung & Client-Server-Modell\nAufgabe 10: Recherche & Skizze\nLies Kapitel 2.4 und 2.5.\nErstelle ein Flussdiagramm: Wie wird eine Datei geöffnet, gelesen und geschlossen?\nOptional: Wie funktioniert eine Kommunikation im Client-Server-Modell?\nAufgabe 11: Reflexionsfragen\n1. Welche Rolle spielt Sicherheit beim Zugriff auf Dateien?\n2. Warum ist das Client-Server-Modell heute so wichtig?\n3. Wie unterscheidet sich dein PC zuhause von einem Server?\nAufgabe 12: Freie Schlussfrage\nWelche Aufgaben eines Betriebssystems findest du persönlich am wichtigsten – und\nwarum?",
-          "role": "user",
-          "timestamp": 1749213327580
-        },
-        {
-          "id": "chatcmpl-BfQa8n2r80DjRN3AiEn9J2AkElH4S",
-          "content": "Hier ist ein Markdown-Dokument, das die von dir beschriebenen Aufgaben und Themen abdeckt:\n\n```markdown\n# Betriebssysteme\n\n## Themen\n- Grundlagen\n- Von-Neumann-Prinzip\n- Schichtenmodell\n- Prozesse\n- Speicherverwaltung\n- Dateiverwaltung\n\n---\n\n## Einführung & Von-Neumann-Prinzipien\n\n### Aufgabe 1: Zusammenfassung lesen\nLest im Skriptum „1.2.2 Die Von-Neumann-Prinzipien“ (Seite 8–10). Markiert die wichtigsten Sätze.\n\n### Aufgabe 2: Fragen beantworten\n1. **Was sind die 3 Grundprinzipien der Von-Neumann-Architektur?**\n   - Prinzip der gespeicherten Programme\n   - Einheitlicher Speicher für Daten und Programme\n   - Sequentielle Ausführung von Befehlen\n\n2. **Warum war diese Architektur ein Meilenstein in der Computerentwicklung?**\n   - Sie ermöglichte die Entwicklung universeller Computer, die flexibel programmiert werden konnten.\n\n3. **Wie sieht der typische „Fetch-Decode-Execute“-Zyklus aus?**\n   - **Fetch**: Der nächste Befehl wird aus dem Speicher geholt.\n   - **Decode**: Der Befehl wird interpretiert.\n   - **Execute**: Der Befehl wird ausgeführt.\n\n### Aufgabe 3: Zeichnung erstellen\nErstelle eine beschriftete Skizze eines Von-Neumann-Rechners. Enthalten sein müssen:\n- CPU\n- Hauptspeicher\n- Ein-/Ausgabe\n- Steuerwerk & Rechenwerk\n- Daten- und Befehlsbus\n\n---\n\n## Schichtenmodell eines Computersystems\n\n### Aufgabe 4: Skriptum durcharbeiten\nKapitel 1.2.3 – Das Schichtenmodell (Seite 11–14) lesen.\n\n### Aufgabe 5: Zuordnungsaufgabe\nOrdne die folgenden Begriffe der richtigen Schicht zu:\n- **Mikrocode** -> Physikalische Geräte\n- **Compiler** -> Systemsoftware\n- **Webbrowser** -> Anwendungssoftware\n- **CPU** -> Physikalische Geräte\n- **Linker** -> Systemsoftware\n- **Dateimanager** -> Systemsoftware\n- **ROM** -> Physikalische Geräte\n- **Kommandozeile** -> Systemsoftware\n\n### Aufgabe 6: Eigenständige Erklärung\n- **Warum ist das Schichtenmodell hilfreich?**\n  - Es strukturiert die Komplexität eines Computersystems und erleichtert die Fehlersuche und Wartung.\n\n- **Welche Vorteile ergeben sich für Programmierer?**\n  - Programmierer können sich auf eine Schicht konzentrieren, ohne die Details der darunterliegenden Schichten verstehen zu müssen.\n\n---\n\n## Aufgaben des Betriebssystems & Prozesse\n\n### Aufgabe 7: Leseauftrag\nLies Kapitel 1.2.5 + 2.1 über Aufgaben und Prozesse in Betriebssystemen.\n\n### Aufgabe 8: Tabelle ausfüllen\n\n| Betriebssystemaufgabe | Beschreibung | Beispiel |\n|-----------------------|--------------|----------|\n| Prozessverwaltung     | Verwaltung der Ausführung von Prozessen | Multitasking |\n| Speicherverwaltung    | Zuweisung und Freigabe von Speicher | RAM-Management |\n| Dateiverwaltung       | Organisation und Zugriff auf Dateien | Dateisysteme |\n| Gerätesteuerung       | Verwaltung von Ein-/Ausgabegeräten | Druckersteuerung |\n| Benutzerverwaltung    | Verwaltung von Benutzerkonten und Berechtigungen | Login-System |\n\n### Aufgabe 9: Kurze Textanalyse\n**Was ist ein Deadlock und wie kann das Betriebssystem damit umgehen?**\nEin Deadlock ist eine Situation, in der zwei oder mehr Prozesse auf Ressourcen warten, die von den anderen gehalten werden, und keiner der Prozesse fortfahren kann. Das Betriebssystem kann Deadlocks durch Techniken wie Ressourcenallokationsgraphen, Deadlock-Vermeidung oder -Erkennung und -Behebung handhaben.\n\n**Beispiel aus dem Alltag:**\nStellen Sie sich vor, zwei Autos stehen sich in einer engen Straße gegenüber, und keines kann weiterfahren, weil beide darauf warten, dass das andere zurücksetzt. Eine Lösung könnte sein, dass ein Auto zurücksetzt, um den Weg freizumachen.\n\n---\n\n## Dateiverwaltung & Client-Server-Modell\n\n### Aufgabe 10: Recherche & Skizze\nLies Kapitel 2.4 und 2.5.\n\n**Flussdiagramm: Wie wird eine Datei geöffnet, gelesen und geschlossen?**\n1. Datei öffnen\n2. Datei lesen\n3. Datei schließen\n\n**Optional: Wie funktioniert eine Kommunikation im Client-Server-Modell?**\n1. Client sendet Anfrage\n2. Server empfängt Anfrage\n3. Server verarbeitet Anfrage\n4. Server sendet Antwort\n5. Client empfängt Antwort\n\n### Aufgabe 11: Reflexionsfragen\n1. **Welche Rolle spielt Sicherheit beim Zugriff auf Dateien?**\n   - Sicherheit ist entscheidend, um unbefugten Zugriff und Datenverlust zu verhindern.\n\n2. **Warum ist das Client-Server-Modell heute so wichtig?**\n   - Es ermöglicht verteilte Anwendungen und Dienste, die über das Internet zugänglich sind.\n\n3. **Wie unterscheidet sich dein PC zuhause von einem Server?**\n   - Ein PC ist für den persönlichen Gebrauch optimiert, während ein Server für die Bereitstellung von Diensten und die Verarbeitung vieler gleichzeitiger Anfragen ausgelegt ist.\n\n### Aufgabe 12: Freie Schlussfrage\n**Welche Aufgaben eines Betriebssystems findest du persönlich am wichtigsten – und warum?**\nDie Prozessverwaltung ist besonders wichtig, da sie die Ausführung von Anwendungen ermöglicht und die Systemleistung optimiert. Ohne effiziente Prozessverwaltung wäre Multitasking nicht möglich.\n```\n\nDieses Dokument deckt alle von dir genannten Aufgaben ab und bietet eine strukturierte Übersicht über die Themen. Du kannst es in Obsidian verwenden, um deine Notizen zu organisieren und die Aufgaben zu bearbeiten.",
-          "role": "assistant",
-          "timestamp": 1749213339995
-        }
-      ],
-      "createdAt": 1749213318265,
-      "updatedAt": 1749213339995,
-      "model": {
-        "label": "GPT-4o",
-        "value": "gpt-4o-2024-08-06"
-      }
     }
   ],
-  "activeConversationId": "1757321998845"
+  "activeConversationId": "1757328734137"
 }

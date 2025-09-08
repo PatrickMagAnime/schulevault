@@ -9,9 +9,10 @@ ___
 
 ###### Sicherheit gewährleisten:
 Ein **Audit** ist ein Penetrationstest.
+NISV Gesetz: 
 - Sorgfaltspflicht
 - Rechenschaftspflicht
-- Haftung
+- Haftung bei nicht einhaltung
 Sollte man seinen Pflichten nicht nachgehen muss man dafür haften.
 Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.
 
