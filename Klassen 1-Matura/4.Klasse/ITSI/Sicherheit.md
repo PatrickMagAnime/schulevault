@@ -30,7 +30,7 @@ Die drei primären Schutzziele sind:
 
 - Beispiele: Kundendaten, Patente, Forschungsdaten  
 - Verstöße: Whiteboards nach Meetings nicht gereinigt, Kundendaten offen zugänglich  
-- Maßnahme: klare Zugriffsrechte  
+- Maßnahme: klare Zugriffsrechte, (Authentizierung), Verschlüsselung, Zugriffkontrolle, Kontrolle von Informationsflüssen
 
 ###### 2. Integrität (Integrity)
 „Integrität bezeichnet die Sicherstellung der Korrektheit (Unversehrtheit) von Daten und der korrekten Funktionsweise von Systemen.“
@@ -65,3 +65,10 @@ Neben den drei primären Zielen gibt es zusätzliche, je nach Kontext relevante 
 
 - **Zuverlässigkeit (Reliability)**  
   Technische Funktionsfähigkeit von IT-Systemen, zusätzlich zur Verfügbarkeit wichtig.  
+
+- **Zurechenbarkeit (Attribution)**  
+  Stellt sicher, dass Aktionen und Daten eindeutig einer bestimmten Quelle zugeordnet werden können.  
+
+- **Privatsphäre (Privacy)**  
+  Schützt persönliche Daten und die Privatsphäre des Einzelnen vor unbefugtem Zugriff und Missbrauch.  
+
