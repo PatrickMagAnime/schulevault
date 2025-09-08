@@ -30,14 +30,14 @@ Die drei primären Schutzziele sind:
 
 - Beispiele: Kundendaten, Patente, Forschungsdaten  
 - Verstöße: Whiteboards nach Meetings nicht gereinigt, Kundendaten offen zugänglich  
-- Maßnahme: klare Zugriffsrechte, (Authentizierung), Verschlüsselung, Zugriffkontrolle, Kontrolle von Informationsflüssen
+- Maßnahme: klare Zugriffsrechte, (Authentizierung), Verschlüsselung, Zugriffkontrolle, Kontrolle von Informationsflüssen, Sicherheits-klassen
 
 ###### 2. Integrität (Integrity)
 „Integrität bezeichnet die Sicherstellung der Korrektheit (Unversehrtheit) von Daten und der korrekten Funktionsweise von Systemen.“
 
 - Beispiele: Manipulation von Messdaten in Medizingeräten → Patientengefährdung  
 - Gefahr: unautorisiertes Ändern, Löschen oder Einfügen von Daten  
-- Maßnahme: Änderungsprotokolle, Hash-Verfahren, Manipulationsschutz  
+- Maßnahme: Änderungsprotokolle, (Check/Prüfsummen) Hash-Verfahren, Manipulationsschutz, Zugriffkontrolle, Digitale Signatur, 
 
 ###### 3. Verfügbarkeit (Availability)
 „Verfügbarkeit liegt vor, wenn Dienste, Funktionen, IT-Systeme oder Informationen von den Anwendern wie vorgesehen genutzt werden können.“
