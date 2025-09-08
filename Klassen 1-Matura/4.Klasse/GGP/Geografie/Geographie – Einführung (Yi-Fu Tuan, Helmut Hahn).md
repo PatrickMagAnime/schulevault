@@ -1,4 +1,5 @@
-# Laut Yi-Fu Tuan ist Geographie:
+[[4.GGP]]
+___
 
 Das umfasst laut Helmut Hahn (1957) den „Bereich der Erdhülle – der 1) Litho-, 2) Hydro-, 3) Atmo-, 4) Bio- und 5) Anthroposphäre – in seiner gesamten Ausstattung und Gestaltung. […] Es geht hier [der Geographie] dabei nicht nur um das wahrnehmbare Erscheinungsbild, sondern auch um das Wirkungsgefüge, das dahintersteht und um sein genetisches bzw. geschichtliches Werden, d. h. die Summe der Wirkungsgefüge der Vergangenheit. Alle geographische Forschung ist daher 4-dimensional auf die raumzeitlichen Erscheinungskomplexe ihres Objektes gerichtet.“
 
