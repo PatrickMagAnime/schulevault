@@ -76,4 +76,3 @@ Neben den drei primären Zielen gibt es zusätzliche, je nach Kontext relevante 
 
 - **Privatsphäre (Privacy)**  
   Schützt persönliche Daten und die Privatsphäre des Einzelnen vor unbefugtem Zugriff und Missbrauch.  
-
