@@ -26,6 +26,8 @@ Die drei primären Schutzziele sind:
 3. **Verfügbarkeit (Availability)**  
 
 ###### 1. Vertraulichkeit (Confidentiality)
+Schutz vor umbefugten zugriff.
+
 „Vertraulichkeit ist der Schutz vor unbefugter Preisgabe von Informationen. Vertrauliche Daten dürfen ausschließlich Befugten zugänglich sein.“
 
 - Beispiele: Kundendaten, Patente, Forschungsdaten  
@@ -33,6 +35,8 @@ Die drei primären Schutzziele sind:
 - Maßnahme: klare Zugriffsrechte, (Authentizierung), Verschlüsselung, Zugriffkontrolle, Kontrolle von Informationsflüssen, Sicherheits-klassen
 
 ###### 2. Integrität (Integrity)
+Schutz vor unbefugter und unbemerkter manipulation.
+
 „Integrität bezeichnet die Sicherstellung der Korrektheit (Unversehrtheit) von Daten und der korrekten Funktionsweise von Systemen.“
 
 - Beispiele: Manipulation von Messdaten in Medizingeräten → Patientengefährdung  
@@ -40,12 +44,13 @@ Die drei primären Schutzziele sind:
 - Maßnahme: Änderungsprotokolle, (Check/Prüfsummen) Hash-Verfahren, Manipulationsschutz, Zugriffkontrolle, Digitale Signatur, 
 
 ###### 3. Verfügbarkeit (Availability)
+Schutz vor ausfall / unautorisierter Berechtigung von Daten / Diensten
 „Verfügbarkeit liegt vor, wenn Dienste, Funktionen, IT-Systeme oder Informationen von den Anwendern wie vorgesehen genutzt werden können.“
 
 - Beispiele:  
   - Gehaltsabrechnungsdaten → monatlich verfügbar  
   - Onlinehändler-Plattform → nahezu permanent verfügbar  
-- Maßnahme: Risikoanalyse zu Ausfallwahrscheinlichkeit, -zeit und -schaden  
+- Maßnahme: Risikoanalyse, Backups (Redundanz), DDOS-Schutz (Firewall), Monitoring (Systemnutzung und resourcen Verbrauch überwachen), Protokollieren (Accounting).
 
 ---
 ##### Erweiterte Schutzziele
