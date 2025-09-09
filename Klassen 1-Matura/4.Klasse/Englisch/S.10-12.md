@@ -14,10 +14,14 @@ premises = (privat grund)
 - offshoring
 - laws
 - lax
+- wage != salary
+	montly you get salary, weekly or per hour = wage
 - compensated for
 - shift work
 - zero-hour contracts
+	worker can decide his working hours and has no strict working time. Company will call you. You will have minimum wage
 - all-in contracts
+	overtime is included. You need to work more than normal workers
 - temporary
 - casual employment agency
 - job security
