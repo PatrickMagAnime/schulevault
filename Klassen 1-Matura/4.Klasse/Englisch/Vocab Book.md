@@ -23,6 +23,8 @@ premises = (privat grund)
 - all-in contracts
 	overtime is included. You need to work more than normal workers
 - temporary
+- part-time
+	
 - casual employment agency
 - job security
 - collective bargaining
