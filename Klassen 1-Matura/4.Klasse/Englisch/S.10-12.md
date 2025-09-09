@@ -9,6 +9,7 @@ subcontractor = (less payed person)
 
 - emerging economies
 - imbecile
+- ambidextrous
 - offshoring
 - laws
 - lax
