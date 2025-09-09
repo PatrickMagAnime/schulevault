@@ -4,6 +4,7 @@ ___
 fired = made be redundant
 to be unemployed = on the dole
 sugarcoating = euphemism (ganz nett formulierter satz)
+sweatshops = cheap shops (Workers have bad conditions)
 
 - emerging economies
 - offshoring
