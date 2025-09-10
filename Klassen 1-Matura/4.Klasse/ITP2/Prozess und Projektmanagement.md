@@ -18,4 +18,4 @@ Also ich habe ein spezifisches Ziel: und zwar muskeln im gym aufzubauen.
 Das ganze ist auch messbar, man kann es überprüfen indem man sieht das ich muskeln aufgebaut habe. Attraktiv ist es auch für mich. Realistisch ist es weil wenn ich regelmäßig ins gym gehe kann ich nur muskeln aufbauen.
 Es ist auch terminierbar weil es fixe zeiten gibt an denen ich ins gym gehe.
 
-Ich baue bis zum 30.12.2025 im Gym Muskelmasse auf, indem ich 3-mal pro Woche nach einem Ganzkörperplan trainiere; der Fortschritt ist messbar an +2 kg fettfreier Masse, +10 kg imehr im Bankdrücken und +2 cm Oberarmumfang; das Ziel ist für mich attraktiv und verbindlich, realistisch durch regelmäßiges Training, angepasste Ernährung und Regeneration.
+Ich baue bis zum 30.12.2025 im Gym Muskelmasse auf, indem ich 3-mal pro Woche nach einem Ganzkörperplan trainiere; der Fortschritt ist messbar an +2 kg fettfreier Masse, +10 kg mehr im Bankdrücken und +2 cm Oberarmumfang; das Ziel ist für mich attraktiv und verbindlich, realistisch durch regelmäßiges Training, angepasste Ernährung und Regeneration.Congratulations!!!
