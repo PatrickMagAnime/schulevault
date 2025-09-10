@@ -3,3 +3,5 @@ ___
 ## Datenspeicherung
 
 ## Firewalls
+___
+Linux ist sowieso besser
