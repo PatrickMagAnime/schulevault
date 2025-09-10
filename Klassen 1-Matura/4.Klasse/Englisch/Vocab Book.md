@@ -9,8 +9,12 @@ subcontractor = (less payed person)
 premises = (privat grund)
 
 - emerging economies
+	are nations who are in development and have an increase in industrialisation and population
 - imbecile
+	you tell a stupid/silly person that he is imbecile
+	Antonyms: fool, idiot, dunce, stupid
 - ambidextrous
+	someone who is able to use the right and left hands equally well
 - offshoring
 - laws
 - lax
