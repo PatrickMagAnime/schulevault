@@ -14,7 +14,7 @@ schulevault provides a glimpse into my actual school note-taking system. It show
 
 1. **Clone or Download the Repository**
    - Clone via Git:
-     ``git clone https://github.com/PatrickMagAnime/schulevault.git```
+     ```git clone https://github.com/PatrickMagAnime/schulevault.git```
    - Or download as ZIP from the [GitHub page](https://github.com/PatrickMagAnime/schulevault).
 
 2. **Install Obsidian**
