@@ -1,7 +1,5 @@
 [[3.Sew]]
-
----
-
+___
 ## **Kodierungsarten (z. B. UTF-8)**
 
 ### **Was ist UTF-8?**
