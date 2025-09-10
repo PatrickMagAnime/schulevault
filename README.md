@@ -125,3 +125,5 @@ This repository is published under the MIT License.
 
 For questions or inspiration, browse the folders and plugin setups.  
 This vault is a showcase of real school note-taking—no more, no less!
+
+I use Arch btw :3
