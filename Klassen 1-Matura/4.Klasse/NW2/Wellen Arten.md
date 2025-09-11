@@ -9,3 +9,6 @@ ___
 4.  **Elektromagnetische Wellen:** Diese Wellen bestehen aus schwingenden elektrischen und magnetischen Feldern, die sich senkrecht zueinander und zur Ausbreitungsrichtung ausbreiten. Beispiele sind Radiowellen, Mikrowellen, Infrarotstrahlung, sichtbares Licht, UV-Strahlung, Röntgenstrahlung und Gammastrahlung.
 
 5.  **Materiewellen:** In der Quantenmechanik beschreiben Materiewellen die Wahrscheinlichkeitsverteilung von Teilchen wie Elektronen oder Atomen.
+
+Ausbreitungsgeschwindigkeit:
+$$c=\frac{\lambda}{T}$$
