@@ -11,12 +11,15 @@ ___
 Ein **Audit** ist ein Penetrationstest.
 NISV Gesetz: 
 - Sorgfaltspflicht
+	Man muss seine rechtlichen Vorlagen erfüllen
 - Rechenschaftspflicht
+	Man muss für seine Fehler einstehen
 - Haftung bei nicht einhaltung
 Sollte man seinen Pflichten nicht nachgehen muss man dafür haften.
 Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.
 
-**TOM= Technische und Organisatorische Maßnahme**
+**TOM= Technische und Organisatorische Maßnahme**:
+Sicherheitsgruppen (Aufte)
 
 §118a Wiederrechtlicher zugriff auf ein Gerät
 Bsp: Einfach ein Laptop ohne Passwort dursuchen.
