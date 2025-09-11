@@ -18,6 +18,8 @@ NISG: Netz und Informations Sicherheits Gesetz
 Sollte man seinen Pflichten nicht nachgehen muss man dafür haften.
 Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.
 
+Verstöße müssen an CERT.at gemeldet werden!
+
 **TOM= Technische und Organisatorische Maßnahme**:
 Sicherheitsgruppen (Aufteilung der Benutzer)
 Protokollierung (Beweise)
