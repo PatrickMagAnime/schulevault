@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-launcher",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "node esbuild.config.mjs --watch",
+    "build": "node esbuild.config.mjs",
+    "clean": "rimraf main.js main.js.map node_modules"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.9",
+    "obsidian": "^1.5.0",
+    "typescript": "^5.4.0",
+    "rimraf": "^5.0.5"
+  }
+}

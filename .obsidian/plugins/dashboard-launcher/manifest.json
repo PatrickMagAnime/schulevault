@@ -1,0 +1,10 @@
+{
+  "id": "dashboard-launcher",
+  "name": "Dashboard Launcher",
+  "version": "0.2.0",
+  "minAppVersion": "1.4.0",
+  "description": "Ein flexibles Dashboard: Notiz-Templates + Webseiten (eingebettet oder extern). Template-Folder frei konfigurierbar.",
+  "author": "Patrick + Copilot",
+  "authorUrl": "https://github.com/PatrickRiedl-Student",
+  "isDesktopOnly": false
+}
