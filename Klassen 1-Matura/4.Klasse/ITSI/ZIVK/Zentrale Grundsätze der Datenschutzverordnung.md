@@ -244,6 +244,16 @@ Eselsbrücke: RZDRSIA (eigene Merkhilfe formulieren)
 - Wo liegt die aktuelle Policy-Version & wer hat sie freigegeben?
 - Welche Löschjobs sind automatisiert, welche manuell?
 
----
-
-Ende der strukturierten Markdown-Fassung.
+### Rechte der Betroffenen Personen
+- Auskunft (Art. 15): Bestätigung, ob Daten verarbeitet werden + Kopie + Zwecke, Kategorien, Empfänger, Speicherdauer, Herkunft, Rechte.
+- Berichtigung (Art. 16): Unrichtige oder unvollständige Daten korrigieren.
+- Löschung (Art. 17): Entfernung personenbezogener Daten (z. B. nach Zweckerreichung, Widerruf, unrechtmäßiger Verarbeitung) – Ausnahmen beachten.
+- Einschränkung (Art. 18): Markierung/Blockierung der Verarbeitung (z. B. bei Prüfbedarf Richtigkeit oder Widerspruch).
+- Datenübertragbarkeit (Art. 20): Erhalt in strukturiertem, gängigem, maschinenlesbarem Format und Übermittlung an anderen Verantwortlichen (bei Einwilligung oder Vertrag, automatisiert).
+- Widerspruch (Art. 21): Gegen Verarbeitung aufgrund berechtigter Interessen oder Direktwerbung.
+- Widerruf Einwilligung: Jederzeit für die Zukunft ohne Nachteile (wenn Rechtsgrund Einwilligung).
+- Recht auf Nicht-Unterworfenwerden ausschließlich automatisierter Entscheidungen inkl. Profiling (Art. 22) mit erheblichen Auswirkungen.
+- Unterrichtung (Art. 19): Info über Empfänger bei Berichtigung/Löschung/Einschränkung auf Wunsch.
+- Benachrichtigung bei hohem Risiko nach Datenpanne (Art. 34).
+- Beschwerde bei Aufsichtsbehörde (Art. 77).
+- Gerichtlicher Rechtsbehelf (Art. 79) & Schadensersatz (Art. 82).
