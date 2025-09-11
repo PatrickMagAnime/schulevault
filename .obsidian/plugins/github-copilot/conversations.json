@@ -1,6 +1,37 @@
 {
   "conversations": [
     {
+      "id": "1757582430651",
+      "title": "[[Link State Advertisements]] ...",
+      "messages": [
+        {
+          "id": "1757582465909",
+          "content": "[[Link State Advertisements]] sag mir was darüber. die typen usw. ip header von verschiedenen sachen auch",
+          "role": "user",
+          "timestamp": 1757582465909,
+          "linkedNotes": [
+            {
+              "path": "Klassen 1-Matura/4.Klasse/NWT/Link State Advertisements.md",
+              "filename": "Link State Advertisements",
+              "content": "[[4.NWT]]\n___\n"
+            }
+          ]
+        },
+        {
+          "id": "chatcmpl-CEXmEESNREfDMzHQ01bnG737n6Iqc",
+          "content": "Begriff / Zweck:\n- LSAs (Link State Advertisements) sind die OSPF-internen Dateneinheiten, mit denen Topologie- und Routing-Informationen innerhalb festgelegter Flooding-Scopes verteilt werden (Link / Area / AS).\n- Jede LSA-Art beschreibt bestimmte Aspekte: eigene Links, Multiaccess-Netze, Zusammenfassungen, Externals, Opaque/Erweiterungen usw.\n- Alle LSAs landen (je nach Scope) in der Link State Database (LSDB) und bilden die Basis für SPF-Berechnung (Dijkstra), woraus der Routing-Table entsteht.\n\nAllgemeiner OSPF LSA-Header (v2):\n- LS Age (16 Bit): Zeit in Sekunden seit Erzeugung (Max 3600).\n- Options (8 Bit): Fähigkeits-Bits (z.B. E, N/P, DC, L, O).\n- LS Type (8 Bit): LSA-Typnummer.\n- Link State ID (32 Bit): Bedeutung abhängig vom Typ (z.B. Router-ID Zielnetz, Netz-ID, ASBR-ID).\n- Advertising Router (32 Bit): Router-ID des erzeugenden Routers.\n- LS Sequence Number (32 Bit): Versionskontrolle (0x80000001 bis 0x7fffffff).\n- LS Checksum (16 Bit): Fletcher-Checksum über LSA-Inhalt (ohne LS Age).\n- Length (16 Bit): Gesamtlänge LSA inkl. Header.\n\nFlooding-Scopes:\n- Link-Local (nur auf einem Link): v2 via Opaque Type 9, v3 über Scope Bits.\n- Area-Local: klassische Typen (1–5,7) plus Opaque Type 10.\n- AS-Weit: Externals, Opaque Type 11 etc.\n\nOSPFv2 Standard LSA-Typen (RFC 2328 + Erweiterungen):\n1 Router-LSA: Pro Router je Area; listet alle aktiven Interfaces (Links), Link-Typ, Metrik, Flags (V,E,B, etc.).\n2 Network-LSA: Von DR auf Multiaccess-Netz; enthält alle teilnehmenden Router-IDs.\n3 Summary LSA (Netz-Zusammenfassung): Von ABR in andere Areas exportierte Präfixe (inter-area).\n4 ASBR Summary LSA: Erreichtbarkeit eines ASBR über Bereiche.\n5 AS-External LSA: Externe Routen (z.B. aus BGP, statisch); enthält External-Metrik (Type 1/2).\n6 (Veraltet für MOSPF Multicast).\n7 NSSA External LSA: Externals innerhalb NSSA; später durch ABR in Type 5 übersetzt (außer wenn P-Bit=0).\n8 External Attributes LSA (selten genutzt: BGP-Attributtransport, praktisch obsolet).\n9 Opaque LSA (Link-Local Scope): Traffic Engineering, GMPLS etc.\n10 Opaque LSA (Area Scope): Erweiterungsstrukturen (z.B. TE LSAs für MPLS).\n11 Opaque LSA (AS Scope): Globale Erweiterungen (z.B. Graceful Restart Informationen).\n(12–13 reserviert; 14–15 nicht genutzt.)\n\nWichtige Erweiterungen (OSPFv2):\n- Traffic Engineering LSAs: Opaque Type 10, LS ID strukturiert (Router-ID + Typfelder) für MPLS/RSVP.\n- Grace LSAs: Unterstützen Non-Stop-Restart.\n- Extended Link / Extended Prefix LSAs (RFC 7684/9394): Neue Formate (statt Opaque) zur Trennung von Attributen; Kodierungen TLV-basiert (ersetzt älteres Opaque-Ansatzmodell schrittweise).\n\nOSPFv3 (IPv6) Unterschiede:\n- LS Type Feld besitzt Struktur: LS Type = (U | S2 S1) | (13-bit Type Value)\n  - U-Bit: Verhalten bei unbekannt (0=verwerfen,1=weiter,2=weiter+instanz).\n  - S2/S1 bestimmen Scope: 00=Link, 01=Area, 10=AS, 11=reserviert.\n- IPv6-Adressen nicht direkt in Router-/Network-LSAs; Präfixe ausgelagert in Intra-Area-Prefix-LSAs.\n- Authentifizierung nicht mehr im OSPF Header, sondern über IPv6 Security (AH/ESP) oder IPsec.\n\nOSPFv3 Kern-LSAs (Type Value, mit Scope Bits codiert; hier symbolisch dargestellt):\n- Router-LSA (0x2001 Area Scope): Topologie des Routers (ohne Präfixe).\n- Network-LSA (0x2002 Area Scope): Multiaccess-Link Teilnehmer.\n- Inter-Area-Prefix-LSA (0x2003): Präfixzusammenfassung zwischen Areas.\n- Inter-Area-Router-LSA (0x2004): Erreichbarkeit zu einem Router (ABR/ASBR) zwischen Areas.\n- AS-External-LSA (0x4005 AS Scope): Externe Prefixe.\n- NSSA-LSA (0x2007 Area Scope): Externals in NSSA (wie Type 7).\n- Link-LSA (0x0008 Link Scope): Pro Interface; liefert Link-Local-Adresse + Options für Nachbarn.\n- Intra-Area-Prefix-LSA (0x2009): IPv6-Präfixe, die zu Router- oder Network-LSAs gehören.\n- (Group-Membership-LSA veraltet, Grace-LSAs existieren als neue Typen mit entsprechenden Scope Bits.)\nNeue Extended-LSAs (RFC 9357 ff.): Bieten generische TLV-Erweiterung für zukünftige Attribute (z.B. Segment Routing, RI LSA für Router Information).\n\nWichtige Flags / Bits:\n- Router-LSA Flags: V (Virtual Link Endpoint), E (ASBR), B (ABR), NP (NSSA Translator), etc.\n- Options-Feld (v2/v3): Bits wie E (External Routing), N/P (NSSA), DC (Demand Circuit), O (Opaque), L (Link-Local Signaling), AF (Address Families, v3 Erweiterungen), R, S bits je nach RFC.\n\nSPF-Berechnung:\n- LSAs mit Topologie (Router/Network) bauen Graph.\n- Summary/External LSAs fügen Kanten/Leafs mit Metriken hinzu.\n- Cost Aggregation: Intra-Area < Inter-Area < External Type 1 < External Type 2 (mit besonderer Metrikbehandlung für Type 2: interne Kosten nur bis ASBR signifikant).\n\nBeziehung Pakete vs LSAs:\n- OSPF Paket-Typen: 1 Hello, 2 Database Description (DBD), 3 Link State Request (LSR), 4 Link State Update (LSU – enthält ein oder mehrere LSAs), 5 Link State Acknowledgment (LSAck).\n- LSUs transportieren LSAs; LSAck bestätigt Empfang (entweder explizit oder implizit durch erneutes Flooding unterdrückt).\n\nIP Header (OSPFv2 über IPv4):\n- Protocol Number: 89\n- TTL: 1 (lokale Nachbarschaft, verhindert Weiterleitung)\n- DSCP/ToS: meist 0 (manchmal QoS-Klassen konfigurierbar)\n- Source: Interface-IP des sendenden Routers\n- Destination Multicast:\n  - 224.0.0.5 (AllSPFRouters) für: Hello, DBD, LSR, LSU (normal), LSAck (meist)\n  - 224.0.0.6 (AllDRouters) für: DR/BDR-spezifische Kommunikation (z.B. DBD vom DR zu DROthers, LSAcks Richtung DR)\n  - Unicast: Während Adjacency-Aufbau (DBD/LSR/LSU) häufig auch unicast genutzt (Implementationsabhängig)\n- Fragmentierung: Möglich, aber wegen MTU-Mismatch DBD-Exchange wichtig (MTU-Feld im DBD).\n\nIP Header (OSPFv3 über IPv6):\n- Next Header: 89\n- Hop Limit: 1\n- Source: Link-Local-Adresse (fe80::/10) des Interfaces\n- Destination Multicast:\n  - ff02::5 (AllSPFRouters)\n  - ff02::6 (AllDRouters)\n- Authentisierung: Nicht im OSPF Header; IPsec (ESP/AH) oder Null-Sicherheit.\n\nOSPF Paket-Header (v2 und v3 ähnliche Struktur):\n- Version: 2 oder 3\n- Type: 1–5\n- Packet Length\n- Router ID (32 Bit)\n- Area ID (32 Bit)\n- Checksum\n- AuType (nur v2 veraltet) / Authentication (v2 veraltet wenn nicht MD5) / In v3: Instance ID + 0-Felder\n- Instance ID (v3): Mehrere OSPFv3 Instanzen auf gleichem Link (z.B. VRF)\n- Weitere Felder je nach Packet Type (Hello: Dead Interval, DR/BDR, Neighbor List; DBD: Flags (I,M,MS), MTU; LSR: (Type, LS ID, Adv Router); LSU: Anzahl LSAs; LSAck: LSA Headers).\n\nLSA Aging & Refresh:\n- LS Age erhöht jede Sekunde.\n- MaxAge = 3600s: LSA wird aus LSDB entfernt nach Flooding.\n- Refresh-Zyklus: Alle 30 Minuten (1800s) neu publiziert (neue Sequence Number).\n- Premature Aging (Flush): LS Age direkt auf MaxAge setzen (z.B. bei Withdraw).\n\nSequence Number Handling:\n- Startwert für neue LSA: 0x80000001\n- Bei Änderung +1\n- Erreicht oberes Limit (0x7fffffff): LSA wird mit MaxAge geflutet, danach Neustart Zyklus.\n\nVergleich OSPFv2 vs OSPFv3 Schlüsselunterschiede in LSAs:\n- Adressinformationen getrennt (v3 entkoppelt Topologie von Präfixen).\n- OSPFv3 Link-LSA liefert Interface-spezifische Daten (inkl. Link-Local).\n- Optionen ausgebaut für neue Features (z.B. Flooding Scope Bits im LS Type).\n- Unterstützung multipler Address Families über Erweiterungen (RFC 5838).\n\nNSSA Besonderheiten:\n- Type 7 LSAs bleiben innerhalb NSSA.\n- ABR übersetzt Type 7 -> Type 5 wenn P-Bit (Propagate) gesetzt.\n- Übersetzung nur ein ABR (Priorität per Highest Router ID / Konfig).\n\nWichtige Praxispunkte:\n- MTU-Mismatch: DBD Austausch scheitert -> Adjacency nicht Full.\n- LSA Flood Control: Retransmit Interval; Nachbarn Tracking per LS Acks.\n- Graceful Restart: Grace-LSAs signalisieren Neustart ohne Routing-Flap.\n- Fast Convergence: Incremental SPF (Partial-Recalc) bei Teiländerung (z.B. nur eine LSA Änderung).\n- Opaque/Extended LSAs notwendig für moderne Features (Segment Routing, TE, RI).\n\nKurzer Ablauf Adjacency + LSAs:\n1 Hello Austausch (Nachbarerkennung, Parameter-Abgleich: Area ID, Hello/Dead, Options, Auth, MTU).\n2 Wahl DR/BDR auf Multiaccess (Highest Priority > Highest Router ID).\n3 DBD Austausch (Master/Slave Aushandlung).\n4 LSR anfordern fehlender/älterer LSAs.\n5 LSU liefert angeforderte LSAs.\n6 LSAck bestätigt -> Zustand Full.\n7 Laufender Flood bei Änderungen (LS Sequence +1, Verteilen über alle relevanten Nachbarn, außer Eingangsinterface Ausnahmen).\n\nFehlerbilder Diagnose:\n- Stuck in EXSTART/EXCHANGE: MTU oder Flags (I/M/MS) Problem.\n- Endlose LSA Retransmissions: Mismatch Checksum/Sequence -> mögliche Korruption oder Filterung.\n- Externals fehlen: E-Bit in Options nicht übereinstimmend oder Area als Stub konfiguriert.\n- NSSA → Externals nicht weitergeleitet: P-Bit nicht gesetzt oder ABR Übersetzung deaktiviert.\n\nBegrenzung LSAs in Stub-Arten:\n- Stub Area: Keine Type 5 (Externals), statt dessen Default Route (Typ 3).\n- Totally Stubby (Cisco): Unterdrückt zusätzlich Type 3/4 außer Default.\n- NSSA: Erlaubt Type 7 (lokale Externals) anstelle Type 5.\n- Totally NSSA: Unterdrückt Summary LSAs (3/4) plus erlaubt Type 7 + Default.\n\nZusammenhang Routingentscheidungen:\n- Präferenzen Reihenfolge (typisch Implementationen):\n  1 Intra-Area\n  2 Inter-Area\n  3 Type 1 External\n  4 Type 2 External (mit größtem Restbandbreitenvergleich nur bis ASBR)\n\nKennzahlen / Metrik:\n- Standard Cost: Meist 1 pro FastEthernet/Default; empfohlen Auto-Cost Reference-Bandwidth anpassen (z.B. 100 Gbps) um High-Speed Links differenzieren zu können.\n- External Type 2: Gesamtmetrik = Externe Metrik; interne Cost bis ASBR nur bei Gleichheit relevant.\n- External Type 1: Gesamtmetrik = interne Cost bis ASBR + externe Metrik.\n\nDas sollte dir eine vollständige, strukturierte Übersicht über LSAs, ihre Typen, Header-Felder, Scopes sowie die relevanten IP-/OSPF-Header-Aspekte geben.",
+          "role": "assistant",
+          "timestamp": 1757582543421
+        }
+      ],
+      "createdAt": 1757582430651,
+      "updatedAt": 1757582543421,
+      "model": {
+        "label": "Gemini 2.0 Flash",
+        "value": "gemini-2.0-flash-001"
+      }
+    },
+    {
       "id": "1757578606035",
       "title": "erklär mir traceroute und was ...",
       "messages": [
@@ -462,38 +493,7 @@
         "label": "Gemini 2.0 Flash",
         "value": "gemini-2.0-flash-001"
       }
-    },
-    {
-      "id": "1757321998845",
-      "title": "[[Rechtliche Grundlagen]] was ...",
-      "messages": [
-        {
-          "id": "1757328432480",
-          "content": "[[Rechtliche Grundlagen]] was wäre da ganz kurz in wenigen worten bei NISV Gesetz",
-          "role": "user",
-          "timestamp": 1757328432480,
-          "linkedNotes": [
-            {
-              "path": "Klassen 1-Matura/4.Klasse/ITSI/ZIVK/Rechtliche Grundlagen.md",
-              "filename": "Rechtliche Grundlagen",
-              "content": "[[4.ITSI]]\n___\n### Ransomware in einem Krankenhaus\n###### Folgen:\n- Medizinische Maschinen fallen aus\n- Arbeit nmöglich\n- Data Leak\n- Keinen Zugriff auf Daten\n\n###### Sicherheit gewährleisten:\nEin **Audit** ist ein Penetrationstest.\nNISV Gesetz:\n- Sorgfaltspflicht\n- Rechenschaftspflicht\n- Haftung\nSollte man seinen Pflichten nicht nachgehen muss man dafür haften.\nDas gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.\n\n**TOM= Technische und Organisatorische Maßnahme**\n\n"
-            }
-          ]
-        },
-        {
-          "id": "1757328437295-assistant",
-          "content": "NISV Gesetz: Sorgfaltspflicht, Rechenschaftspflicht, Haftung bei Nichteinhaltung.\n",
-          "role": "assistant",
-          "timestamp": 1757328437295
-        }
-      ],
-      "createdAt": 1757321998845,
-      "updatedAt": 1757328437295,
-      "model": {
-        "label": "GPT-5-mini",
-        "value": "gpt-5-mini"
-      }
     }
   ],
-  "activeConversationId": "1757578606035"
+  "activeConversationId": "1757582430651"
 }
