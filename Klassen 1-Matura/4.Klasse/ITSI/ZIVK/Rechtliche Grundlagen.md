@@ -9,7 +9,7 @@ ___
 
 ###### Sicherheit gewährleisten:
 Ein **Audit** ist ein Penetrationstest.
-NISV Gesetz: 
+NISG: Netz und Informations Sicherheits Gesetz
 - Sorgfaltspflicht
 	Man muss seine rechtlichen Vorlagen erfüllen
 - Rechenschaftspflicht
@@ -19,7 +19,8 @@ Sollte man seinen Pflichten nicht nachgehen muss man dafür haften.
 Das gericht entscheidet darüber ob man schuld ist. Meistens die Person die für etwas Verantwortlich war falls der Täter nicht auffindbar war.
 
 **TOM= Technische und Organisatorische Maßnahme**:
-Sicherheitsgruppen (Aufte)
+Sicherheitsgruppen (Aufteilung der Benutzer)
+Protokollierung (Beweise)
 
 §118a Wiederrechtlicher zugriff auf ein Gerät
 Bsp: Einfach ein Laptop ohne Passwort dursuchen.
