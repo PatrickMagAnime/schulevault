@@ -2,10 +2,23 @@
   "conversations": [
     {
       "id": "1757535492962",
-      "title": "New Conversation",
-      "messages": [],
+      "title": "welche arten von wellen gibt e...",
+      "messages": [
+        {
+          "id": "1757574608051",
+          "content": "welche arten von wellen gibt es. so transwellen usw",
+          "role": "user",
+          "timestamp": 1757574608051
+        },
+        {
+          "id": "1757574611409-assistant",
+          "content": "Es gibt verschiedene Arten von Wellen, die sich hauptsächlich durch die Richtung ihrer Schwingung relativ zur Ausbreitungsrichtung unterscheiden:\n\n1.  **Transversale Wellen (Querwellen):** Bei transversalen Wellen schwingen die Teilchen senkrecht zur Ausbreitungsrichtung der Welle. Ein bekanntes Beispiel hierfür sind elektromagnetische Wellen (wie Licht) oder die Schwingung einer Gitarrenseite.\n\n2.  **Longitudinale Wellen (Längswellen):** Bei longitudinalen Wellen schwingen die Teilchen parallel zur Ausbreitungsrichtung der Welle. Ein typisches Beispiel sind Schallwellen in Luft.\n\n3.  **Oberflächenwellen:** Diese treten an der Oberfläche von Flüssigkeiten auf und sind eine Kombination aus transversalen und longitudinalen Bewegungen. Die Teilchen bewegen sich in elliptischen Bahnen.\n\n4.  **Elektromagnetische Wellen:** Diese Wellen bestehen aus schwingenden elektrischen und magnetischen Feldern, die sich senkrecht zueinander und zur Ausbreitungsrichtung ausbreiten. Beispiele sind Radiowellen, Mikrowellen, Infrarotstrahlung, sichtbares Licht, UV-Strahlung, Röntgenstrahlung und Gammastrahlung.\n\n5.  **Materiewellen:** In der Quantenmechanik beschreiben Materiewellen die Wahrscheinlichkeitsverteilung von Teilchen wie Elektronen oder Atomen.",
+          "role": "assistant",
+          "timestamp": 1757574611409
+        }
+      ],
       "createdAt": 1757535492962,
-      "updatedAt": 1757535492962,
+      "updatedAt": 1757574611410,
       "model": {
         "label": "Gemini 2.0 Flash",
         "value": "gemini-2.0-flash-001"
