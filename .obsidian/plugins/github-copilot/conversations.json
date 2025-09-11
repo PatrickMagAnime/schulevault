@@ -1,6 +1,17 @@
 {
   "conversations": [
     {
+      "id": "1757591028319",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1757591028319,
+      "updatedAt": 1757591028319,
+      "model": {
+        "label": "GPT-5",
+        "value": "gpt-5"
+      }
+    },
+    {
       "id": "1757586400231",
       "title": "vervollständige mir das. gib a...",
       "messages": [
@@ -404,43 +415,7 @@
         "label": "Gemini 2.0 Flash",
         "value": "gemini-2.0-flash-001"
       }
-    },
-    {
-      "id": "1757329105621",
-      "title": "gib mir für meine mitschrift e...",
-      "messages": [
-        {
-          "id": "1757329130174",
-          "content": "gib mir für meine mitschrift eine genaue anleitung wie man einen brief schreibt im deutsch",
-          "role": "user",
-          "timestamp": 1757329130174
-        },
-        {
-          "id": "1757329135981-assistant",
-          "content": "Hier ist eine detaillierte Anleitung zum Schreiben eines Briefes auf Deutsch:\n\n**1.  Absender:**\n\n*   Beginne mit deiner vollständigen Adresse (Name, Straße, Hausnummer, Postleitzahl, Ort) in der oberen linken Ecke.\n*   Lasse eine Zeile frei.\n\n**2.  Datum:**\n\n*   Schreibe das Datum rechtsbündig unter den Absender.\n*   Beispiel: 16. Mai 2024\n\n**3.  Empfängeradresse:**\n\n*   Schreibe die vollständige Adresse des Empfängers (Name, Straße, Hausnummer, Postleitzahl, Ort) unter das Datum, linksbündig.\n*   Lasse eine Zeile frei.\n\n**4.  Betreffzeile:**\n\n*   Beginne mit \"Betreff:\" oder \"Betrifft:\".\n*   Gib kurz und präzise den Grund des Briefes an.\n*   Beispiel: Betreff: Bewerbung um ein Praktikum\n\n**5.  Anrede:**\n\n*   **Formell:**\n    *   Sehr geehrte Frau [Nachname],\n    *   Sehr geehrter Herr [Nachname],\n    *   Sehr geehrte Damen und Herren, (wenn der Name des Ansprechpartners unbekannt ist)\n*   **Informell:**\n    *   Liebe/r [Vorname],\n    *   Hallo [Vorname],\n*   Nach der Anrede folgt ein Komma.\n\n**6.  Brieftext:**\n\n*   Beginne den Text in der nächsten Zeile, mit einem kleinen Buchstaben, es sei denn, das erste Wort ist ein Nomen.\n*   Gliedere den Text in Einleitung, Hauptteil und Schluss.\n    *   **Einleitung:** Stelle dich vor (falls nötig) und nenne den Grund des Schreibens.\n    *   **Hauptteil:** Erläutere dein Anliegen ausführlich. Gehe auf alle wichtigen Punkte ein.\n    *   **Schluss:** Fasse das Wichtigste zusammen, äußere Wünsche oder Erwartungen und bedanke dich gegebenenfalls.\n*   Achte auf einen klaren und verständlichen Schreibstil.\n*   Verwende Absätze, um den Text zu strukturieren.\n\n**7.  Grußformel:**\n\n*   **Formell:**\n    *   Mit freundlichen Grüßen\n    *   Mit freundlichem Gruß\n*   **Informell:**\n    *   Liebe Grüße\n    *   Viele Grüße\n    *   Herzliche Grüße\n*   Nach der Grußformel folgt kein Komma.\n\n**8.  Unterschrift:**\n\n*   Unterschreibe den Brief handschriftlich unter der Grußformel.\n*   Darunter schreibe deinen Namen in gedruckter Form.\n\n**9.  Anlagen (falls vorhanden):**\n\n*   Wenn du dem Brief Anlagen beifügst, erwähne diese unter deinem Namen.\n*   Beispiel: Anlage: Lebenslauf\n\n**Zusätzliche Tipps:**\n\n*   **Sprache:** Achte auf eine korrekte Rechtschreibung und Grammatik.\n*   **Formatierung:** Verwende eine gut lesbare Schriftart und Schriftgröße.\n*   **Papier:** Verwende hochwertiges Papier.\n*   **Umschlag:** Beschrifte den Umschlag korrekt mit Absender und Empfängeradresse.\n*   **Formell vs. Informell:** Wähle die passende Anrede und Grußformel je nach Beziehung zum Empfänger.\n*   **DIN 5008:** Wenn du einen Geschäftsbrief schreibst, beachte die Regeln der DIN 5008 für die Formatierung.\n\nDiese Anleitung sollte dir helfen, einen korrekten und ansprechenden Brief auf Deutsch zu verfassen.\n",
-          "role": "assistant",
-          "timestamp": 1757329135981
-        },
-        {
-          "id": "1757329163816",
-          "content": "jz erklär mir aktiv und passiv",
-          "role": "user",
-          "timestamp": 1757329163816
-        },
-        {
-          "id": "1757329168545-assistant",
-          "content": "**Aktiv:**\n\n*   **Was es ist:** Der Handelnde (das Subjekt) führt die Handlung (das Verb) selbst aus.\n*   **Fokus:** Der Fokus liegt auf dem, der etwas tut.\n*   **Beispiel:**\n    *   Aktiv: Der Hund frisst den Knochen. (Der Hund *tut* etwas: Er frisst.)\n    *   Subjekt: Der Hund\n    *   Verb: frisst\n    *   Objekt: den Knochen\n\n**Passiv:**\n\n*   **Was es ist:** Das Subjekt wird \"behandelt\" oder \"betroffen\" von der Handlung. Der Fokus liegt auf der Handlung selbst oder dem, was mit dem Subjekt geschieht, nicht unbedingt darauf, wer die Handlung ausführt.\n*   **Bildung:** Wird mit einer Form von \"werden\" + Partizip II des Verbs gebildet.\n*   **Beispiel:**\n    *   Passiv: Der Knochen wird vom Hund gefressen. (Der Knochen *erfährt* etwas: Er wird gefressen.)\n    *   Subjekt: Der Knochen\n    *   Verb: wird gefressen\n    *   Agens (wer es tut): vom Hund (kann auch weggelassen werden)\n\n**Unterschiede und Verwendung:**\n\n*   **Aktiv:** Direkter, lebendiger, oft bevorzugt.\n*   **Passiv:**\n    *   Wenn der Handelnde unwichtig oder unbekannt ist.\n        *   Beispiel: Das Fenster wurde zerbrochen. (Wer es zerbrochen hat, ist egal oder unbekannt.)\n    *   Um den Fokus auf das Objekt der Handlung zu legen.\n        *   Beispiel: Der Patient wird operiert. (Der Fokus liegt auf dem Patienten.)\n    *   In formellen Texten oder wissenschaftlichen Arbeiten, um einen objektiveren Ton zu erzeugen.\n\n**Zusammengefasst:**\n\n| Merkmal       | Aktiv                                  | Passiv                                          |\n| ------------- | -------------------------------------- | ----------------------------------------------- |\n| Subjekt       | Handelnder                             | Wird \"behandelt\"                                |\n| Fokus         | Auf dem Handelnden                      | Auf der Handlung oder dem, was geschieht        |\n| Verb          | Einfache Verbform                      | \"werden\" + Partizip II                          |\n| Beispiel      | Der Mann repariert das Auto.           | Das Auto wird vom Mann repariert.               |\n| Agens         | Nicht vorhanden oder implizit          | Kann mit \"von\" + Dativ hinzugefügt werden       |\n",
-          "role": "assistant",
-          "timestamp": 1757329168545
-        }
-      ],
-      "createdAt": 1757329105621,
-      "updatedAt": 1757329168545,
-      "model": {
-        "label": "Gemini 2.0 Flash",
-        "value": "gemini-2.0-flash-001"
-      }
     }
   ],
-  "activeConversationId": "1757586400231"
+  "activeConversationId": "1757591028319"
 }
