@@ -2,10 +2,30 @@
   "conversations": [
     {
       "id": "1757591028319",
-      "title": "New Conversation",
-      "messages": [],
+      "title": "[[Rekursion]] mach mir eine se...",
+      "messages": [
+        {
+          "id": "1757598514705",
+          "content": "[[Rekursion]] mach mir eine sehr schöne kurze mitschrift mit code beispeil mit fakultät in rekursion",
+          "role": "user",
+          "timestamp": 1757598514706,
+          "linkedNotes": [
+            {
+              "path": "Klassen 1-Matura/4.Klasse/SEW/Rekursion.md",
+              "filename": "Rekursion",
+              "content": "[[4.SEW]]\n___\nEine Rekursion ist eine Methode sie sich immer wieder selbst aufruft.\nRekursion bedeutet Wiederhohlung\n\nAm einfachsten kann man es mit Fakultät erklären.\n"
+            }
+          ]
+        },
+        {
+          "id": "chatcmpl-CEbx6SGE7aa07NIuqU8bLQAXIShLK",
+          "content": "Rekursion (kurze Mitschrift)\n- Idee: Eine Funktion ruft sich (mit veränderten Parametern) selbst auf, bis ein Basisfall erreicht ist.\n- Wichtige Bestandteile:\n  1. Basisfall (Abbruchbedingung) – verhindert unendliche Aufrufe\n  2. Rekursiver Fall – verkleinert das Problem\n- Gefahr: Fehlender oder falscher Basisfall ⇒ Stack Overflow\n- Beispielproblem: Fakultät (Produkt aller natürl. Zahlen 1..n)\n\nMathematische Definition:\n$$n! = \\begin{cases}1,& n=0 \\\\ n \\cdot (n-1)!,& n>0\\end{cases}$$\n\nCall-Stack-Idee für 4!: 4! → 4·3! → 3·2! → 2·1! → 1 → Rückgabe multipliziert sich hoch\n\nPython:\n```python\ndef fakultaet(n: int) -> int:\n    if n < 0:\n        raise ValueError(\"Nur für n >= 0 definiert\")\n    if n == 0:\n        return 1              # Basisfall\n    return n * fakultaet(n - 1)  # Rekursiver Fall\n\n# Beispiel\nprint(fakultaet(5))  # 120\n```\n\nJava:\n```java\npublic static long fakultaet(int n) {\n    if (n < 0) throw new IllegalArgumentException(\"n >= 0 erforderlich\");\n    if (n == 0) return 1;        // Basisfall\n    return n * fakultaet(n - 1); // Rekursiver Fall\n}\n```\n\nTail-Recursion (optimierbar in manchen Sprachen, nicht in Java/Python):\n```python\ndef fak_tail(n, acc=1):\n    if n == 0:\n        return acc\n    return fak_tail(n - 1, n * acc)\n```\n\nIterativer Vergleich:\n```python\ndef fak_iter(n):\n    result = 1\n    for k in range(2, n + 1):\n        result *= k\n    return result\n```\n\nKomplexität:\n- Zeit: O(n)\n- Speicher (Call-Stack): O(n) (iterativ: O(1))\n\nMerksatz: Rekursion eignet sich bei natürlicher Selbstähnlichkeit (Baumstrukturen, Zerlegung, Divide & Conquer) und wenn der Basisfall klar ist.",
+          "role": "assistant",
+          "timestamp": 1757598528968
+        }
+      ],
       "createdAt": 1757591028319,
-      "updatedAt": 1757591028319,
+      "updatedAt": 1757598528968,
       "model": {
         "label": "GPT-5",
         "value": "gpt-5"
