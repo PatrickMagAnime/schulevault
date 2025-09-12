@@ -1,165 +1,267 @@
 [[4.NWT]]
 ___
-Begriff / Zweck:
-- LSAs (Link State Advertisements) sind die OSPF-internen Dateneinheiten, mit denen Topologie- und Routing-Informationen innerhalb festgelegter Flooding-Scopes verteilt werden (Link / Area / AS).
-- Jede LSA-Art beschreibt bestimmte Aspekte: eigene Links, Multiaccess-Netze, Zusammenfassungen, Externals, Opaque/Erweiterungen usw.
-- Alle LSAs landen (je nach Scope) in der Link State Database (LSDB) und bilden die Basis für SPF-Berechnung (Dijkstra), woraus der Routing-Table entsteht.
+# Link State Advertisements (OSPF)
 
-Allgemeiner OSPF LSA-Header (v2):
-- LS Age (16 Bit): Zeit in Sekunden seit Erzeugung (Max 3600).
-- Options (8 Bit): Fähigkeits-Bits (z.B. E, N/P, DC, L, O).
-- LS Type (8 Bit): LSA-Typnummer.
-- Link State ID (32 Bit): Bedeutung abhängig vom Typ (z.B. Router-ID Zielnetz, Netz-ID, ASBR-ID).
-- Advertising Router (32 Bit): Router-ID des erzeugenden Routers.
-- LS Sequence Number (32 Bit): Versionskontrolle (0x80000001 bis 0x7fffffff).
-- LS Checksum (16 Bit): Fletcher-Checksum über LSA-Inhalt (ohne LS Age).
-- Length (16 Bit): Gesamtlänge LSA inkl. Header.
+[[4.NWT]]
 
-Flooding-Scopes:
-- Link-Local (nur auf einem Link): v2 via Opaque Type 9, v3 über Scope Bits.
-- Area-Local: klassische Typen (1–5,7) plus Opaque Type 10.
-- AS-Weit: Externals, Opaque Type 11 etc.
+## 1. Begriff / Zweck
+LSAs sind die internen OSPF-Dateneinheiten zur Verteilung von Topologie- und Routing-Informationen innerhalb eines definierten Flooding-Scopes (Link / Area / AS). Sie werden in der Link State Database (LSDB) gespeichert und bilden die Basis für die SPF-(Dijkstra-)Berechnung, deren Resultat der Routing-Table ist.
 
-OSPFv2 Standard LSA-Typen (RFC 2328 + Erweiterungen):
-1 Router-LSA: Pro Router je Area; listet alle aktiven Interfaces (Links), Link-Typ, Metrik, Flags (V,E,B, etc.).
-2 Network-LSA: Von DR auf Multiaccess-Netz; enthält alle teilnehmenden Router-IDs.
-3 Summary LSA (Netz-Zusammenfassung): Von ABR in andere Areas exportierte Präfixe (inter-area).
-4 ASBR Summary LSA: Erreichtbarkeit eines ASBR über Bereiche.
-5 AS-External LSA: Externe Routen (z.B. aus BGP, statisch); enthält External-Metrik (Type 1/2).
-6 (Veraltet für MOSPF Multicast).
-7 NSSA External LSA: Externals innerhalb NSSA; später durch ABR in Type 5 übersetzt (außer wenn P-Bit=0).
-8 External Attributes LSA (selten genutzt: BGP-Attributtransport, praktisch obsolet).
-9 Opaque LSA (Link-Local Scope): Traffic Engineering, GMPLS etc.
-10 Opaque LSA (Area Scope): Erweiterungsstrukturen (z.B. TE LSAs für MPLS).
-11 Opaque LSA (AS Scope): Globale Erweiterungen (z.B. Graceful Restart Informationen).
-(12–13 reserviert; 14–15 nicht genutzt.)
+## 2. Allgemeiner OSPFv2 LSA-Header
+| Feld | Größe | Beschreibung |
+| ---- | ----- | ------------ |
+| LS Age | 16 Bit | Sekunden seit Erzeugung (0–3600), MaxAge=3600 |
+| Options | 8 Bit | Fähigkeits-/Feature-Bits (z.B. E, N/P, DC, L, O) |
+| LS Type | 8 Bit | Typnummer (1–11, 7 etc.) |
+| Link State ID | 32 Bit | Bedeutung variabel je Typ (Netz-ID, Router-ID, Präfix-ID) |
+| Advertising Router | 32 Bit | Router-ID des Ursprungserzeugers |
+| LS Sequence Number | 32 Bit | Versionskontrolle (0x80000001 start → +1 bis 0x7fffffff) |
+| LS Checksum | 16 Bit | Fletcher-Checksum über Inhalt (ohne LS Age) |
+| Length | 16 Bit | Gesamtlänge inkl. Header |
 
-Wichtige Erweiterungen (OSPFv2):
-- Traffic Engineering LSAs: Opaque Type 10, LS ID strukturiert (Router-ID + Typfelder) für MPLS/RSVP.
-- Grace LSAs: Unterstützen Non-Stop-Restart.
-- Extended Link / Extended Prefix LSAs (RFC 7684/9394): Neue Formate (statt Opaque) zur Trennung von Attributen; Kodierungen TLV-basiert (ersetzt älteres Opaque-Ansatzmodell schrittweise).
+## 3. Flooding-Scopes
+| Scope | OSPFv2 | OSPFv3 (Scope Bits S2/S1) | Zweck |
+| ----- | ------ | ------------------------- | ----- |
+| Link | Opaque Type 9 | 00 | Nur auf einem Interface |
+| Area | Standard (1–5,7), Opaque 10 | 01 | Innerhalb einer Area |
+| AS (Global) | Type 5,11 | 10 | AS-weit |
+| Reserviert | – | 11 | Nicht genutzt |
 
-OSPFv3 (IPv6) Unterschiede:
-- LS Type Feld besitzt Struktur: LS Type = (U | S2 S1) | (13-bit Type Value)
-  - U-Bit: Verhalten bei unbekannt (0=verwerfen,1=weiter,2=weiter+instanz).
-  - S2/S1 bestimmen Scope: 00=Link, 01=Area, 10=AS, 11=reserviert.
-- IPv6-Adressen nicht direkt in Router-/Network-LSAs; Präfixe ausgelagert in Intra-Area-Prefix-LSAs.
-- Authentifizierung nicht mehr im OSPF Header, sondern über IPv6 Security (AH/ESP) oder IPsec.
+## 4. OSPFv2 Standard LSA-Typen
+| Typ | Name | Kurzbeschreibung |
+| --- | ---- | ---------------- |
+| 1 | Router-LSA | Links/Interfaces, Flags (V,E,B,...) |
+| 2 | Network-LSA | Vom DR für Multiaccess-Netz; Liste der Router |
+| 3 | Summary (Net) | ABR exportiert Prefixe in andere Areas |
+| 4 | ASBR Summary | Erreichbarkeit eines ASBR |
+| 5 | AS-External | Externe Routen (BGP, statisch), Typ1/Typ2-Metrik |
+| 6 | MOSPF (veraltet) | Multicast (obsolet) |
+| 7 | NSSA External | Externals innerhalb NSSA (später Übersetzung zu 5) |
+| 8 | External Attributes | BGP-Attributtransport (praktisch obsolet) |
+| 9 | Opaque (Link) | Erweiterungen (TE, GMPLS) |
+| 10 | Opaque (Area) | TE LSAs etc. |
+| 11 | Opaque (AS) | Erweiterungen global (z.B. Grace) |
 
-OSPFv3 Kern-LSAs (Type Value, mit Scope Bits codiert; hier symbolisch dargestellt):
-- Router-LSA (0x2001 Area Scope): Topologie des Routers (ohne Präfixe).
-- Network-LSA (0x2002 Area Scope): Multiaccess-Link Teilnehmer.
-- Inter-Area-Prefix-LSA (0x2003): Präfixzusammenfassung zwischen Areas.
-- Inter-Area-Router-LSA (0x2004): Erreichbarkeit zu einem Router (ABR/ASBR) zwischen Areas.
-- AS-External-LSA (0x4005 AS Scope): Externe Prefixe.
-- NSSA-LSA (0x2007 Area Scope): Externals in NSSA (wie Type 7).
-- Link-LSA (0x0008 Link Scope): Pro Interface; liefert Link-Local-Adresse + Options für Nachbarn.
-- Intra-Area-Prefix-LSA (0x2009): IPv6-Präfixe, die zu Router- oder Network-LSAs gehören.
-- (Group-Membership-LSA veraltet, Grace-LSAs existieren als neue Typen mit entsprechenden Scope Bits.)
-Neue Extended-LSAs (RFC 9357 ff.): Bieten generische TLV-Erweiterung für zukünftige Attribute (z.B. Segment Routing, RI LSA für Router Information).
+## 5. Wichtige Erweiterungen (v2)
+- Traffic Engineering LSAs (Opaque 10, strukturierte LSID)
+- Grace LSAs (Graceful Restart)
+- Extended Link / Extended Prefix LSAs (statt Opaque, TLV-basiert; Segment Routing etc.)
 
-Wichtige Flags / Bits:
-- Router-LSA Flags: V (Virtual Link Endpoint), E (ASBR), B (ABR), NP (NSSA Translator), etc.
-- Options-Feld (v2/v3): Bits wie E (External Routing), N/P (NSSA), DC (Demand Circuit), O (Opaque), L (Link-Local Signaling), AF (Address Families, v3 Erweiterungen), R, S bits je nach RFC.
+## 6. OSPFv3 Unterschiede
+- LS Type strukturiert: U-Bit + Scope Bits + 13-Bit Wert
+- Topologie (Router-/Network-LSAs) getrennt von Präfixen (Intra-Area-Prefix-LSA)
+- Authentifizierung via IPv6/IPsec statt OSPF Header
+- Link-LSA liefert Link-Local-Adresse + Options
+- Erweiterungen für mehr Address Families (RFC 5838)
 
-SPF-Berechnung:
-- LSAs mit Topologie (Router/Network) bauen Graph.
-- Summary/External LSAs fügen Kanten/Leafs mit Metriken hinzu.
-- Cost Aggregation: Intra-Area < Inter-Area < External Type 1 < External Type 2 (mit besonderer Metrikbehandlung für Type 2: interne Kosten nur bis ASBR signifikant).
+### Kern-LSAs (symbolisch)
+| Bezeichnung | Scope | Funktion |
+| ----------- | ----- | -------- |
+| Router-LSA (0x2001) | Area | Topologie ohne Präfixe |
+| Network-LSA (0x2002) | Area | Teilnehmer Multiaccess |
+| Inter-Area-Prefix (0x2003) | Area | Prefix-Zusammenfassungen |
+| Inter-Area-Router (0x2004) | Area | Erreichbarkeit zu ABR/ASBR |
+| AS-External (0x4005) | AS | Externe Präfixe |
+| NSSA (0x2007) | Area | Externals in NSSA |
+| Link-LSA (0x0008) | Link | Interface-spezifische Daten |
+| Intra-Area-Prefix (0x2009) | Area | Präfixe zu Router-/Network-LSA |
 
-Beziehung Pakete vs LSAs:
-- OSPF Paket-Typen: 1 Hello, 2 Database Description (DBD), 3 Link State Request (LSR), 4 Link State Update (LSU – enthält ein oder mehrere LSAs), 5 Link State Acknowledgment (LSAck).
-- LSUs transportieren LSAs; LSAck bestätigt Empfang (entweder explizit oder implizit durch erneutes Flooding unterdrückt).
+## 7. Wichtige Flags / Bits
+- Router-LSA Flags: V (Virtual Link Endpoint), E (ASBR), B (ABR), NP (NSSA Translator)
+- Options-Feld: E, N/P, DC, O, L, AF, R, S (je nach RFC)
 
-IP Header (OSPFv2 über IPv4):
-- Protocol Number: 89
-- TTL: 1 (lokale Nachbarschaft, verhindert Weiterleitung)
-- DSCP/ToS: meist 0 (manchmal QoS-Klassen konfigurierbar)
-- Source: Interface-IP des sendenden Routers
-- Destination Multicast:
-  - 224.0.0.5 (AllSPFRouters) für: Hello, DBD, LSR, LSU (normal), LSAck (meist)
-  - 224.0.0.6 (AllDRouters) für: DR/BDR-spezifische Kommunikation (z.B. DBD vom DR zu DROthers, LSAcks Richtung DR)
-  - Unicast: Während Adjacency-Aufbau (DBD/LSR/LSU) häufig auch unicast genutzt (Implementationsabhängig)
-- Fragmentierung: Möglich, aber wegen MTU-Mismatch DBD-Exchange wichtig (MTU-Feld im DBD).
+## 8. SPF-Berechnung (Reihenfolge)
+1. Aufbau Graph aus Router- und Network-LSAs (Intra-Area)
+2. Einfügen Inter-Area (Summary) LSAs
+3. Einfügen Externals (Typ 5 / 7 → 5)
+4. Metrikinterpretation: Intra < Inter < External Type 1 < External Type 2  
+Type 2: interne Kosten nur bis ASBR bei Gleichheit relevant
 
-IP Header (OSPFv3 über IPv6):
-- Next Header: 89
-- Hop Limit: 1
-- Source: Link-Local-Adresse (fe80::/10) des Interfaces
-- Destination Multicast:
-  - ff02::5 (AllSPFRouters)
-  - ff02::6 (AllDRouters)
-- Authentisierung: Nicht im OSPF Header; IPsec (ESP/AH) oder Null-Sicherheit.
+## 9. Beziehung OSPF Pakettypen ↔ LSAs
+| Paket | Zweck |
+| ----- | ----- |
+| Hello | Nachbarerkennung, Parameterabgleich |
+| Database Description (DBD) | LSDB-Synopsis Austausch |
+| Link State Request (LSR) | Anforderung fehlender/älterer LSAs |
+| Link State Update (LSU) | Transport von LSAs |
+| Link State Acknowledgment (LSAck) | Bestätigung (explizit/implizit) |
 
-OSPF Paket-Header (v2 und v3 ähnliche Struktur):
-- Version: 2 oder 3
-- Type: 1–5
-- Packet Length
-- Router ID (32 Bit)
-- Area ID (32 Bit)
-- Checksum
-- AuType (nur v2 veraltet) / Authentication (v2 veraltet wenn nicht MD5) / In v3: Instance ID + 0-Felder
-- Instance ID (v3): Mehrere OSPFv3 Instanzen auf gleichem Link (z.B. VRF)
-- Weitere Felder je nach Packet Type (Hello: Dead Interval, DR/BDR, Neighbor List; DBD: Flags (I,M,MS), MTU; LSR: (Type, LS ID, Adv Router); LSU: Anzahl LSAs; LSAck: LSA Headers).
+## 10. IP Header Parameter
+| Protokoll | Feld | Wert |
+| --------- | ---- | ---- |
+| OSPFv2 (IPv4) | Protocol | 89 |
+| OSPFv2 (IPv4) | TTL | 1 |
+| OSPFv2 Multicast | 224.0.0.5 / 224.0.0.6 | AllSPFRouters / AllDRouters |
+| OSPFv3 (IPv6) | Next Header | 89 |
+| OSPFv3 (IPv6) | Hop Limit | 1 |
+| OSPFv3 Multicast | ff02::5 / ff02::6 | AllSPFRouters / AllDRouters |
+| Auth | v2: Header (veraltet), v3: IPsec | Sicherheit |
 
-LSA Aging & Refresh:
-- LS Age erhöht jede Sekunde.
-- MaxAge = 3600s: LSA wird aus LSDB entfernt nach Flooding.
-- Refresh-Zyklus: Alle 30 Minuten (1800s) neu publiziert (neue Sequence Number).
-- Premature Aging (Flush): LS Age direkt auf MaxAge setzen (z.B. bei Withdraw).
+## 11. OSPF Paket-Header (Kernelemente)
+Version, Type, Length, Router ID, Area ID, Checksum, (v2: Auth), (v3: Instance ID).  
+Typ-spezifisch:  
+- Hello: Intervals, DR/BDR, Neighbor List  
+- DBD: Flags I,M,MS + MTU  
+- LSR: (Type, LSID, Adv Router)  
+- LSU: Anzahl LSAs + LSAs  
+- LSAck: LSA Header Liste  
 
-Sequence Number Handling:
-- Startwert für neue LSA: 0x80000001
-- Bei Änderung +1
-- Erreicht oberes Limit (0x7fffffff): LSA wird mit MaxAge geflutet, danach Neustart Zyklus.
+## 12. LSA Aging & Refresh
+| Mechanismus | Wert |
+| ----------- | ---- |
+| LS Age Inkrement | 1s |
+| Refresh Intervall | 1800s |
+| MaxAge | 3600s |
+| Flush (Premature Aging) | Age direkt auf 3600 |
+| Periodisches Re-Publish | Neue Sequence Number |
 
-Vergleich OSPFv2 vs OSPFv3 Schlüsselunterschiede in LSAs:
-- Adressinformationen getrennt (v3 entkoppelt Topologie von Präfixen).
-- OSPFv3 Link-LSA liefert Interface-spezifische Daten (inkl. Link-Local).
-- Optionen ausgebaut für neue Features (z.B. Flooding Scope Bits im LS Type).
-- Unterstützung multipler Address Families über Erweiterungen (RFC 5838).
+## 13. Sequence Number Handling
+Start 0x80000001 → inkrement bei Änderung → Erreicht 0x7fffffff → Flush mit MaxAge → Neuaufbau ab Startwert.
 
-NSSA Besonderheiten:
-- Type 7 LSAs bleiben innerhalb NSSA.
-- ABR übersetzt Type 7 -> Type 5 wenn P-Bit (Propagate) gesetzt.
-- Übersetzung nur ein ABR (Priorität per Highest Router ID / Konfig).
+## 14. Vergleich v2 vs v3 (Kurz)
+| Aspekt | v2 | v3 |
+| ------ | -- | -- |
+| Adressierung | IPv4 im LSA | IPv6 Präfixe ausgelagert |
+| Auth | OSPF Header | IPsec |
+| LS Type | Flach | Scope Bits + U-Bit |
+| Link-LSA | Nein | Ja |
+| Mehrere AF | Opaque/Erweiterungen | RFC 5838 |
 
-Wichtige Praxispunkte:
-- MTU-Mismatch: DBD Austausch scheitert -> Adjacency nicht Full.
-- LSA Flood Control: Retransmit Interval; Nachbarn Tracking per LS Acks.
-- Graceful Restart: Grace-LSAs signalisieren Neustart ohne Routing-Flap.
-- Fast Convergence: Incremental SPF (Partial-Recalc) bei Teiländerung (z.B. nur eine LSA Änderung).
-- Opaque/Extended LSAs notwendig für moderne Features (Segment Routing, TE, RI).
+## 15. NSSA Besonderheiten
+- Type 7 bleibt in NSSA
+- ABR Übersetzung 7 → 5 falls P-Bit gesetzt
+- Nur ein ABR übersetzt (höchste Router-ID falls nicht konfiguriert)
+- Totally NSSA: Unterdrückt zusätzlich Summary (3/4) außer Default
 
-Kurzer Ablauf Adjacency + LSAs:
-1 Hello Austausch (Nachbarerkennung, Parameter-Abgleich: Area ID, Hello/Dead, Options, Auth, MTU).
-2 Wahl DR/BDR auf Multiaccess (Highest Priority > Highest Router ID).
-3 DBD Austausch (Master/Slave Aushandlung).
-4 LSR anfordern fehlender/älterer LSAs.
-5 LSU liefert angeforderte LSAs.
-6 LSAck bestätigt -> Zustand Full.
-7 Laufender Flood bei Änderungen (LS Sequence +1, Verteilen über alle relevanten Nachbarn, außer Eingangsinterface Ausnahmen).
+## 16. Stub-/NSSA-Varianten
+| Area-Typ | Verbotene LSAs | Default Route eingefügt | Besonderheit |
+| -------- | -------------- | ----------------------- | ------------ |
+| Stub | 5 | Ja (Typ 3) | Reduziert Externals |
+| Totally Stubby | 5, (3/4 außer Default) | Ja | Herstellererweiterung |
+| NSSA | 5 (ersetzt durch 7) | Optional | Lokale Externals |
+| Totally NSSA | 5, (3/4 außer Default) | Ja | Kombination NSSA + Reduktion |
 
-Fehlerbilder Diagnose:
-- Stuck in EXSTART/EXCHANGE: MTU oder Flags (I/M/MS) Problem.
-- Endlose LSA Retransmissions: Mismatch Checksum/Sequence -> mögliche Korruption oder Filterung.
-- Externals fehlen: E-Bit in Options nicht übereinstimmend oder Area als Stub konfiguriert.
-- NSSA → Externals nicht weitergeleitet: P-Bit nicht gesetzt oder ABR Übersetzung deaktiviert.
+## 17. Praxispunkte
+- Auto-Cost Reference-Bandwidth anpassen (sonst Gigabit=1 gleich FastEthernet)
+- MTU-Mismatch → EXSTART/EXCHANGE hängt
+- Incremental SPF reduziert CPU Last
+- LSA Flood Control via Retransmit-Interval & Acks
+- Graceful Restart über Grace LSAs
+- Extended/TE/Segment-Routing LSAs erfordern Opaque/Extended Unterstützung
 
-Begrenzung LSAs in Stub-Arten:
-- Stub Area: Keine Type 5 (Externals), statt dessen Default Route (Typ 3).
-- Totally Stubby (Cisco): Unterdrückt zusätzlich Type 3/4 außer Default.
-- NSSA: Erlaubt Type 7 (lokale Externals) anstelle Type 5.
-- Totally NSSA: Unterdrückt Summary LSAs (3/4) plus erlaubt Type 7 + Default.
+## 18. Adjacency Ablauf (vereinfacht)
+1 Hello Austausch (Parameter, Nachbarschaft)
+2 DR/BDR Wahl (Multiaccess)
+3 DBD Master/Slave Aushandlung + Austausch Summary
+4 LSR für fehlende LSAs
+5 LSU liefert angeforderte LSAs
+6 LSAck Bestätigung
+7 Laufendes Flooding bei Änderungen
 
-Zusammenhang Routingentscheidungen:
-- Präferenzen Reihenfolge (typisch Implementationen):
-  1 Intra-Area
-  2 Inter-Area
-  3 Type 1 External
-  4 Type 2 External (mit größtem Restbandbreitenvergleich nur bis ASBR)
+## 19. Häufige Fehlerbilder
+| Symptom | Ursache |
+| ------- | ------- |
+| EXSTART/EXCHANGE Loop | MTU oder DBD Flags |
+| Fehlende Externals | E-Bit mismatch oder Stub Area |
+| Endlose Retransmits | Sequence/Checksum Konflikt |
+| NSSA Externals fehlen | P-Bit nicht gesetzt / kein Übersetzer |
+| Teilrouting fehlt | Filter / Bereichsgrenzen / Summarization |
 
-Kennzahlen / Metrik:
-- Standard Cost: Meist 1 pro FastEthernet/Default; empfohlen Auto-Cost Reference-Bandwidth anpassen (z.B. 100 Gbps) um High-Speed Links differenzieren zu können.
-- External Type 2: Gesamtmetrik = Externe Metrik; interne Cost bis ASBR nur bei Gleichheit relevant.
-- External Type 1: Gesamtmetrik = interne Cost bis ASBR + externe Metrik.
+## 20. Routingpräferenzen (typisch)
+1 Intra-Area  
+2 Inter-Area  
+3 External Type 1  
+4 External Type 2  
+
+## 21. Metrikberechnung
+| Typ | Effektive Kostenberechnung |
+| ---- | ------------------------- |
+| Intra / Inter | Summe OSPF Interface-Costs |
+| External Type 1 | Interne Kosten bis ASBR + externe Metrik |
+| External Type 2 | Externe Metrik dominiert; interne Kosten nur Tie-Breaker |
+Empfehlung: Auto-Cost Reference-Bandwidth (z.B. 100000 für 100 Gbps) setzen.
+
+## 22. Mermaid Diagramme
+
+### 22.1 Adjacency Aufbau
+```mermaid
+sequenceDiagram
+participant R1
+participant R2
+R1->>R2: Hello
+R2->>R1: Hello
+Note over R1,R2: Nachbarstatus 2-Way
+R1->>R2: DBD (I,M,MS)
+R2->>R1: DBD (I,M,MS)
+Note over R1,R2: LSDB Synopsis Abgleich
+R1->>R2: LSR (fehlende LSAs)
+R2->>R1: LSU (angeforderte LSAs)
+R1->>R2: LSAck
+R2->>R1: LSR (Rest)
+R1->>R2: LSU
+R2->>R1: LSAck (Full)
+```
+
+### 22.2 LSA Lebenszyklus
+```mermaid
+stateDiagram-v2
+[*] --> Erstellt
+Erstellt --> Aktiv: Sequence Start (0x80000001)
+Aktiv --> Refresh: Nach 1800s
+Refresh --> Aktiv: Neue Sequence (+1)
+Aktiv --> MaxAge: LS Age = 3600
+MaxAge --> Entfernt: Aus LSDB gelöscht
+Aktiv --> Flush: Premature Aging (Änderung/Withdraw)
+Flush --> MaxAge
+```
+
+### 22.3 Klassifikation der LSA-Typen (v2)
+```mermaid
+graph TD
+A[LSAs] --> T1[Type 1 Router]
+A --> T2[Type 2 Network]
+A --> T3[Type 3 Summary Net]
+A --> T4[Type 4 ASBR Summary]
+A --> T5[Type 5 External]
+A --> T7[Type 7 NSSA]
+A --> TOpaque[Opaque 9/10/11]
+TOpaque --> TE[Traffic Engineering]
+TOpaque --> Grace[Grace LSAs]
+TOpaque --> Extended[Extended Link/Prefix]
+```
+
+### 22.4 SPF Eingabe → Routing
+```mermaid
+flowchart LR
+R1[Router-LSAs] --> G[Topologie-Graph]
+N2[Network-LSAs] --> G
+S3[Summary LSAs (3/4)] --> G
+E5[External (5/7)] --> G
+G --> SPF[Dijkstra SPF]
+SPF --> RT[Routing Table]
+```
+
+## 23. Kurzer Ablauf Sequenz bei LSA Änderung
+1 Änderung erkannt (Interface down / neue Route)  
+2 Neue LSA Sequence = alt + 1  
+3 Flood an Nachbarn (entsprechender Scope)  
+4 Nachbarn prüfen: Ist neuer (Age/Seq/Checksum)? → Übernehmen + weiterflooden  
+5 Acknowledgment via LSAck oder implizit durch Re-Flood Unterdrückung  
+
+## 24. Diagnose-Hinweise (Checkliste)
+| Prüfung | Warum |
+| ------- | ----- |
+| Area ID konsistent | Unterschied → keine Adjacency |
+| Hello/Dead Interval gleich | Mismatch → Nachbarschaft scheitert |
+| MTU Feld im DBD | Bei Differenz EXCHANGE Loop |
+| Options Bits (E, N/P) | Stub/NSSA Konsistenz |
+| Sequence Anomalien | Eventuell Flush / Neustart |
+| LS Age nahe MaxAge | Braucht Refresh oder wird geflutet |
+| LSA Count pro Area | Auffälliger Anstieg → Loop oder TE Flood |
+
+## 25. Kompakte Merksätze
+- OSPF berechnet Pfade nur aus Intra-Area + liefert Inter/External als Ergänzung.
+- LSAs sind Status-Snapshots; Sequence + Age steuern Gültigkeit.
+- Stub-Varianten reduzieren Kontroll-Plane Last durch Unterdrückung bestimmter LSAs.
+- Type 2 Externals ignorieren interne Pfadkosten (außer Tie-Break).
+- OSPFv3 entkoppelt Topologie (Router/Network) von Präfixen (Intra-Area-Prefix-LSA).
