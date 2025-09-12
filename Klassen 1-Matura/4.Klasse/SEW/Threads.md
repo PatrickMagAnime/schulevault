@@ -122,13 +122,5 @@ classDiagram
     note for Task "Strategie-Interface für Ausführungslogik"
 ```
 
-Kurzbeschreibung:
-- Application: Einstieg, richtet TaskManager ein.
-- TaskManager: Startet Worker, nimmt Tasks entgegen, verwaltet Queue und Shutdown.
-- Task (Interface): Abstrakte Arbeitseinheit (Strategy).
-- ComputeTask / IOTask: Konkrete Implementierungen.
-- Worker (Runnable): Holt Tasks aus Queue und führt aus (empfohlene Variante).
-- WorkerThread (extends Thread): Alternative falls direkte Thread-Spezialisierung nötig.
-- Logger (Singleton): Zentrale Protokollierung.
-- Metrics: Laufzeitmessung / Monitoring.
-- Queue (BlockingQueue): Entkopplung zwischen Produzenten (submit) und Konsumenten (Worker).
+Man kann seine Klasse thread fähig machen indem man einfach Thread extended.
+
