@@ -27,18 +27,18 @@ Der AN verpflichtet sich zu Arbeiten
 Der AG verpflichtet sich den AN zu bezahlen
 Es muss in persönlicher Abhängikeit stattfinden
 
-| Arbeitsvertrag                                                       | Werkvertrag                   |
-| -------------------------------------------------------------------- | ----------------------------- |
-| Dauernsdes verpflichtungs verhälts zwischen AN zu AG                 | Erfolg                        |
-| Leitung und Verfügung des AG                                         | selbst Unternehmen            |
-| Einbindung in die Betribsorganinsation                               | arbeitet nach eigenen Plan    |
-| Arbeitsmittel stammen von AG                                         | arbeitsmittel selber besorgen |
-| Der AN muss persönlich Arbeiten                                      | Man darf sich einen gehi      |
-| Bloße sorgfaltspflicht                                               |                               |
-| Jeder erfolg und jeder misserfolg trifft nicht den AN dondern den AG |                               |
-|                                                                      |                               |
+| Arbeitsvertrag                                                       | Werkvertrag                                         |
+| -------------------------------------------------------------------- | --------------------------------------------------- |
+| Dauernsdes verpflichtungs verhälts zwischen AN zu AG                 | Erfolg verpflichtet                                 |
+| Leitung und Verfügung des AG                                         | selbst Unternehmen                                  |
+| Einbindung in die Betriebsorganinsation                              | arbeitet nach eigenen Plan                          |
+| Arbeitsmittel stammen von AG                                         | arbeitsmittel selber besorgen                       |
+| Der AN muss persönlich Arbeiten                                      | Man darf sich einen gehilfen oder substituten holen |
+| Bloße sorgfaltspflicht                                               | gewährleistung                                      |
+| Jeder erfolg und jeder misserfolg trifft nicht den AN sondern den AG | Preisgefahr (kein geld) für misslingen              |
+|                                                                      |                                                     |
 
-
+### III 
 
 ## Kollektiv Arbeits Recht
 
