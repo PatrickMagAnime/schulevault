@@ -13,8 +13,13 @@ Rechtsquellen
 - Arbeitsvertrag
 - ind. weisug
 
-Günstigkeitsprinz
+**Günstigkeitsprinzip besagt das wenn mehrere rechtsquellen den selben sachverhalt unterschiedlich regeln, jene regelung gilt, die für den arbeitnehmer am günstigsten ist.**
 
+Arbeitgeber/Dienstgeber = AG/DG
+Arbeitnehmer/Dienstnehmer = AN/DN
+Was beide abschließen ist der Arbeitsvertrag/Dienstvertrag
+Arbeitsverträge können auch mündlich sein.
+### II 
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
