@@ -9,6 +9,8 @@ One of the best skills I have gained over the last 3 years are my programming sk
 
 Additionally, the next important thing to mention is that you need to work in Teams, if you want to improve faster. It also increases your adaptability to other programmers which will be also working in teams together with you in your future job. 
 
+Last summer, a programming error taught me more than a week of theory. It was just one single false placed bracket inside the code. I was in a Discord call with a friend an we tried for 3 hours to fix the program whit no chance. He said like "We tried so hard and got so far. But in the end, it doesn't even matter".
+
 By the time I finish HTL, I will have completed over 1500 hours of lab work. To mention, you have to work on a project every month with a documentation which normally has over 40 sites. Teachers will give you an assignment with a deadline of what you need to do. Mostly some Cisco related things were you need to configure a network topology.
 
-In conclusion it may be said that a Higher Technological Highschool will grant you 
+In conclusion it may be said that a Higher Technological High school will grant you lot of experience in practical work, additionally increase your team working skills and will also grant you a better CV which result in higher chances to get to a good and well-paid job.
