@@ -58,15 +58,15 @@ Write a blog post (approx. 350–450 words) for an international student tech bl
 - Using German word order (watch placement of verbs)  
 
 ## Mini Rubric (Self-Check)
-| Criterion | Excellent (✓) |
-|-----------|---------------|
-| Word count 350–450 |   |
-| All required grammar features present |   |
-| Clear paragraphing (5–7 paragraphs) |   |
-| At least 8 topic-specific vocabulary items |   |
-| Logical flow + cohesive devices |   |
-| Minimal spelling/grammar errors |   |
-| Engaging introduction & purposeful conclusion |   |
+| Criterion                                     | Excellent (✓) |
+| --------------------------------------------- | ------------- |
+| Word count 350–450                            |               |
+| All required grammar features present         |               |
+| Clear paragraphing (5–7 paragraphs)           |               |
+| At least 8 topic-specific vocabulary items    |               |
+| Logical flow + cohesive devices               |               |
+| Minimal spelling/grammar errors               |               |
+| Engaging introduction & purposeful conclusion |               |
 
 ## Planning Template (Fill Before Writing)
 Topic Choice:  
