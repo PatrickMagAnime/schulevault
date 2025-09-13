@@ -1,3 +1,5 @@
+[[First Blogpost]]
+___
 ## Task
 Write a blog post (approx. 350–450 words) for an international student tech blog. Your audience: students (15–18) curious about how technical education at an HTL prepares them for future careers. Use a personal yet informative tone.
 
@@ -45,7 +47,8 @@ Write a blog post (approx. 350–450 words) for an international student tech bl
 - Future-facing: innovation, sustainability, emerging technologies, interdisciplinary, problem-solving  
 
 ## Transition / Cohesion Phrases
-- Addition: moreover, furthermore, in addition  
+- Addition: moreover, furthermore, in
+-  addition  
 - Contrast: however, nevertheless, although, whereas  
 - Emphasis: notably, significantly, importantly  
 - Result: therefore, consequently, as a result  
