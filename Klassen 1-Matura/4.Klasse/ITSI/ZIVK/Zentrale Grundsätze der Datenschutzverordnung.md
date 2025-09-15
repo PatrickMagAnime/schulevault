@@ -237,4 +237,16 @@ Eselsbrücke: RZDRSIA (eigene Merkhilfe formulieren)
 - Gerichtlicher Rechtsbehelf (Art. 79) & Schadensersatz (Art. 82).
 
 #### Management Systeme
-In den system gibt es verschiedene bereiche und jeweils verschiedene zyklen
+In den system gibt es verschiedene bereiche und jeweils verschiedene zyklen. **PDCA-Zyclus= Plan Do Check Act**
+
+Iso ist eine internationale norm.
+ISO 27 1002= sind organisatorische maßnahmen
+ISO 27 1001= Schreibt vor wie ein informationssysteam auszusehen hat
+
+Wie kann ich sicherstellen das ich mich an alle gesetzliche vorgaben halte: in dem man alle vorgaben erfüllt. Man soll sich an die ISOs halten.
+
+der BSI hat ein buch über frameworks herausgebracht.
+BSI-Grundschutz = ist für die verschiedenen rechtlichen zulagen da.
+
+Zusamenfassen:
+um die gesetzlichen vorgaben einzuhalten nutzen wir management systeme die im besten fall durch normen abgesichet sind.
