@@ -13,3 +13,8 @@ Mit einem passwort. alle fesplatten verschlüsseln. und den laptop wegsperren. (
 **Firewall immer Firewall wenn es ums absichern geht**
 Dabei ist die netzwerk segmentierung wichtig. broadcast domäne klein halten und abkoppeln.
 Reduktion der angriffsfläche.
+
+**Systemhärtung:**
+offene ports schließen
+services deaktivieren
+immer das least previlege prinzip nutzen
