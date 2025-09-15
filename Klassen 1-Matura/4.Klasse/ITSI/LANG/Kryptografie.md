@@ -5,3 +5,6 @@ Ursprünglich: Wissenschaft der Verschlüsselung von Informationen; gibt es scho
 
 heute:
 stellt Verfahren/Protokolle bereit, um Schutzziele der IT Sicherheit zu erreichen können
+
+begriffe Akürzung
+krypto-analyse
