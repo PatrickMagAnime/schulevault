@@ -36,3 +36,6 @@ Bsp: Im betrieb sich einloggen mit fremden account und Daten manipulieren oder s
 
 §126b Störung der Sicherheit eines Computersystems
 Bsp: DDOS Angriff. Oder MC.Donalds bestellfenster manipulieren so dass man die Kassenkonsole deaktiviert/sperrt.
+
+**JG KV teilt satmmdatenblätter ein. Er digitalisiert das dann. wie kann er das am besten unter datenschutz verordnung am besten verwahren? Was muss er einhalten? (Es geht nur um die verwahrung)**
+Mit den technischen und organisatorischen maßnahmen.
