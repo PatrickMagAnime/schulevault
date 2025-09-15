@@ -235,3 +235,6 @@ Eselsbrücke: RZDRSIA (eigene Merkhilfe formulieren)
 - Benachrichtigung bei hohem Risiko nach Datenpanne (Art. 34).
 - Beschwerde bei Aufsichtsbehörde (Art. 77).
 - Gerichtlicher Rechtsbehelf (Art. 79) & Schadensersatz (Art. 82).
+
+#### Management Systeme
+In den system gibt es verschiedene bereiche und jeweils verschiedene zyklen
