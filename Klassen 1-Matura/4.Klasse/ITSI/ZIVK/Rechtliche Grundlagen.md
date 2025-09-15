@@ -11,7 +11,7 @@ ___
 Ein **Audit** ist ein Penetrationstest.
 NISG: Netz und Informations Sicherheits Gesetz
 - Sorgfaltspflicht
-	Man muss seine rechtlichen Vorlagen erfüllen
+	Man muss seine rechtlichen Vorgaben erfüllen
 - Rechenschaftspflicht
 	Man muss für seine Fehler einstehen
 - Haftung bei nicht einhaltung
