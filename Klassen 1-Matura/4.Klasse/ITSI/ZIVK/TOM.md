@@ -18,3 +18,4 @@ Reduktion der angriffsfläche.
 offene ports schließen
 services deaktivieren
 immer das least previlege prinzip nutzen
+
