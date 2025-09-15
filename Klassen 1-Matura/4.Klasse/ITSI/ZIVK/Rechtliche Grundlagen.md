@@ -8,8 +8,12 @@ ___
 - Keinen Zugriff auf Daten
 
 ###### Sicherheit gewährleisten:
-Ein **Audit** ist ein Penetrationstest.
-NISG: Netz und Informations Sicherheits Gesetz
+Ein **Audit** ist zB ein Penetrationstest
+Technische maßnahme: Penetrationstest
+Organisatorische maßnahme: Spinde zusperren
+**NISG: Netz und Informations Sicherheits Gesetz**
+Dieses gesetz betrifft alles was mi
+
 - Sorgfaltspflicht
 	Man muss seine rechtlichen Vorgaben erfüllen
 - Rechenschaftspflicht
