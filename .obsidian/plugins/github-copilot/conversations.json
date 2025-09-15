@@ -1,6 +1,37 @@
 {
   "conversations": [
     {
+      "id": "1757922812690",
+      "title": "[[Verschlüsselungsverfahren]] ...",
+      "messages": [
+        {
+          "id": "1757922864417",
+          "content": "[[Verschlüsselungsverfahren]] kannst du mir eine schöne grafische übersicht machen die das beschreibt was das werden soll. es soll gezeigt weren das plaintext in eine box geht und der aoutput dsnn das verschlüsselte ist",
+          "role": "user",
+          "timestamp": 1757922864417,
+          "linkedNotes": [
+            {
+              "path": "Klassen 1-Matura/4.Klasse/ITSI/LANG/Verschlüsselungsverfahren.md",
+              "filename": "Verschlüsselungsverfahren",
+              "content": "[[4.ITSI]]\n___\nInput ist der Klartext peP Pist die menge aller Klartexte"
+            }
+          ]
+        },
+        {
+          "id": "chatcmpl-CFyKXe69s6jLCyoNCsJyFgSfqgish",
+          "content": "```mermaid\nflowchart LR\n  %% Grundidee: Klartext -> Verschlüsselungsbox -> Geheimtext\n  A[/\"Klartext\\n$M \\\\in \\\\mathcal{P}$\"/] --> B{{\"Verschlüsselungs-\\nAlgorithmus\\n$E_K$\"}}\n  K[(\"Schlüssel\\n$K$\")] --> B\n  B --> C[/\"Geheimtext\\n$C=E_K(M)$\"/]\n\n  %% Optional: Rückweg (Entschlüsselung) gestrichelt\n  C -.-> D{{\"Entschlüsselungs-\\nAlgorithmus\\n$D_K$\"}}\n  K -.-> D\n  D -.-> A\n\n  %% Stil\n  classDef plaintext fill:#e0f7fa,stroke:#006064,color:#004d40,font-weight:bold;\n  classDef key fill:#fff3e0,stroke:#ef6c00,color:#e65100;\n  classDef process fill:#ede7f6,stroke:#5e35b1,color:#311b92;\n  classDef cipher fill:#fce4ec,stroke:#ad1457,color:#880e4f,font-weight:bold;\n  class A plaintext\n  class K key\n  class B,D process\n  class C cipher\n```\n\nKurzbeschreibung:\n- $\\\\mathcal{P}$: Menge aller möglichen Klartexte\n- $M$: konkreter Klartext\n- $K$: verwendeter Schlüssel\n- $E_K$: Verschlüsselungsfunktion\n- $C$: resultierender Geheimtext\n- (Optional) $D_K(E_K(M))=M$ bei korrekt inverser Entschlüsselung\n\nVarianten (optional erweiterbar):\n- Symmetrisch: gleicher Schlüssel $K$\n- Asymmetrisch: $E_{K_{pub}}, D_{K_{priv}}$\n- Authenticated Encryption: ergänzt Integrität (z.B. $C,\\\\text{Tag}=AE_K(M,\\\\text{AD})$)\n\nMinimalvariant (nur das Gewünschte):\n```mermaid\nflowchart LR\n  P[Klartext $M$] --> ENC[/\"Verschlüsselung\\n$E_K$\"/] --> C[Geheimtext $C$]\n```\n\nAlternative mit Datenflusskanal:\n```mermaid\nflowchart LR\n  subgraph Sender\n    P1[Klartext $M$] --> E1[Verschlüsselung $E_K$] --> C1[Geheimtext $C$]\n  end\n  C1 -->|Übertragung| NET[(Unsicherer Kanal)]\n  NET --> RCV[Empfang]\n```\n\nFalls Fokus rein auf Box-Darstellung:\n```mermaid\nflowchart LR\n  subgraph Encryption[\"Verschlüsselungsbox $E_K$\"]\n    direction LR\n    IN[[Eingabe:\\n$M$]] --> OUT[[Ausgabe:\\n$C=E_K(M)$]]\n  end\n```\n\nKurzer Merksatz: Eingabe $M$ fließt zusammen mit Schlüssel $K$ durch $E_K$ und ergibt $C$. Decryption (falls vorhanden) wendet $D_K$ auf $C$ an und liefert wieder $M$.",
+          "role": "assistant",
+          "timestamp": 1757922889124
+        }
+      ],
+      "createdAt": 1757922812690,
+      "updatedAt": 1757922889124,
+      "model": {
+        "label": "GPT-5",
+        "value": "gpt-5"
+      }
+    },
+    {
       "id": "1757792939199",
       "title": "gib mir eine random zahl zwisc...",
       "messages": [
@@ -239,18 +270,7 @@
         "label": "GPT-5",
         "value": "gpt-5"
       }
-    },
-    {
-      "id": "1757678229216",
-      "title": "New Conversation",
-      "messages": [],
-      "createdAt": 1757678229216,
-      "updatedAt": 1757678229216,
-      "model": {
-        "label": "GPT-5",
-        "value": "gpt-5"
-      }
     }
   ],
-  "activeConversationId": "1757792939199"
+  "activeConversationId": "1757922812690"
 }
