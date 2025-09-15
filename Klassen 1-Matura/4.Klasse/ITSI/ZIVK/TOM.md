@@ -7,4 +7,4 @@ best practices
 
 Defence in depht:
 Wie könnte man etwas vertraulich absichern?
-Mit einem passwort. alle fesplatten verschlüsseln.
+Mit einem passwort. alle fesplatten verschlüsseln. und den laptop wegsperren. (3 schichten)
