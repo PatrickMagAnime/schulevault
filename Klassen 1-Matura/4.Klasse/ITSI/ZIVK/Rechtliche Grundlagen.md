@@ -12,7 +12,7 @@ Ein **Audit** ist zB ein Penetrationstest
 Technische maßnahme: Penetrationstest
 Organisatorische maßnahme: Spinde zusperren
 **NISG: Netz und Informations Sicherheits Gesetz**
-Dieses gesetz betrifft alles was mi
+Dieses gesetz betrifft alles was mit versorgung zu tun hat.
 
 - Sorgfaltspflicht
 	Man muss seine rechtlichen Vorgaben erfüllen
@@ -36,7 +36,3 @@ Bsp: Im betrieb sich einloggen mit fremden account und Daten manipulieren oder s
 
 §126b Störung der Sicherheit eines Computersystems
 Bsp: DDOS Angriff. Oder MC.Donalds bestellfenster manipulieren so dass man die Kassenkonsole deaktiviert/sperrt.
-
-
-
-

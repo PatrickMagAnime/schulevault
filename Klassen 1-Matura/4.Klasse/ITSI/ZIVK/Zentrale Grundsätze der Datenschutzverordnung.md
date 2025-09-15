@@ -215,28 +215,6 @@ Eselsbrücke: RZDRSIA (eigene Merkhilfe formulieren)
 - Welche Systeme enthalten personenbezogene Daten in Backups ohne Verschlüsselung?
 
 ---
-
-## Mögliche Struktur für deine Obsidian Notiz (Beispiel)
-```markdown
-# DSGVO Grundsätze – Implementierungsstatus
-## Übersicht
-- Letzte Aktualisierung: 2024-XX-XX
-- Verantwortlich: [Name / Rolle]
-
-## Statusmatrix
-| Grundsatz | Status | Maßnahmen offen | Owner | Fällig |
-|-----------|--------|-----------------|-------|-------|
-| Rechtmäßigkeit | Grün | – | DSB | – |
-| Zweckbindung | Gelb | Trennung Analytics/Marketing | IT | 2024-11-15 |
-| Datenminimierung | Gelb | Formularbereinigung | Produkt | 2024-10-30 |
-| Richtigkeit | Orange | Self-Service Portal ausrollen | Dev | 2024-12-01 |
-| Speicherbegrenzung | Gelb | Autom. Löschjob Backups | DevOps | 2024-11-20 |
-| Integrität | Grün | – | Sec | – |
-| Rechenschaft | Gelb | DSFA-Register aktualisieren | DSB | 2024-10-25 |
-```
-
----
-
 ## Kurzer Merktest (Selbstkontrolle)
 - Nenne alle 7 Grundsätze aus dem Kopf.
 - Beschreibe in 1 Satz deinen legitimierten Zweck für Analytics.
