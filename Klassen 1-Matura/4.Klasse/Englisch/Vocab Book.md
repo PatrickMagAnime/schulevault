@@ -86,3 +86,13 @@ premises = (privat grund)
 	works mostly away from the company premises
 - temp(orary worker)
 	employed for a short time (e.g. to cover for a sick employee)
+
+- **Corporate information**: This refers to official details or data about a company, such as its structure, financial status, ownership, business activities, and key personnel. Corporate information is often used for legal, financial, and business purposes.
+    
+- **Office cubicle**: An office cubicle is a small, partially enclosed workspace separated from neighboring workspaces by partitions. Cubicles are commonly used in offices to give employees individual working areas while still sharing the same larger room.
+    
+- **Open-plan office**: An open-plan office is a large workspace where many employees work together in the same room without dividing walls or cubicles. This layout is designed to encourage communication and collaboration among workers.
+    
+- **Nine to five job**: A “nine to five job” refers to a traditional full-time job with regular working hours, typically from 9:00 AM to 5:00 PM, Monday to Friday. It symbolizes a standard office work schedule.
+    
+- **Time off in lieu**: Time off in lieu is when employees are given paid time off instead of overtime pay for extra hours worked. For example, if someone works extra hours one day, they might take those hours off on another day instead of receiving extra pay.
