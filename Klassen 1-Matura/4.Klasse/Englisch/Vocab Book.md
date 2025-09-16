@@ -49,6 +49,7 @@ premises = (privat grund)
 - employable
 - business
 - unprecedented
+	something which was never known before
 - work remotely
 - nomad workers
 - corporate information
