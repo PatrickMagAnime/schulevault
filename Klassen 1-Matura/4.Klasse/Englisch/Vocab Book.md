@@ -25,6 +25,8 @@ premises = (privat grund)
 - wage != salary
 	montly you get salary, weekly or per hour = wage
 - compensated for
+- glass ceiling
+	an invisible wall of getting ignored. no promotions at a job for ex.
 - shift work
 - zero-hour contracts
 	worker can decide his working hours and has no strict working time. Company will call you. You will have minimum wage
