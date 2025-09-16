@@ -9,4 +9,4 @@ ___
 ![[Pasted image 20250911144308.png]]
 ![[Pasted image 20250911144320.png]]
 ![[Pasted image 20250911144331.png]]
-![[Pasted image 20250911144346.png]]
+![[Das Projektmanagement-Office (PMO).png]]
