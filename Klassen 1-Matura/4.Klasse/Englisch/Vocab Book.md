@@ -17,7 +17,11 @@ premises = (privat grund)
 	someone who is able to use the right and left hands equally well
 - offshoring
 - laws
+- megjob
+	job that doesn't require any training or experience
 - lax
+- collective bargaining
+	trying to get a raise (kollektiv vertrag)
 - wage != salary
 	montly you get salary, weekly or per hour = wage
 - compensated for
