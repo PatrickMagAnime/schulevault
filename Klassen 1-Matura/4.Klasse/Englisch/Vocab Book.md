@@ -59,6 +59,7 @@ premises = (privat grund)
 - flexitime
 - overtime
 - time off in lieu
+- job enrichment
 - premises
 	private ground (americans will shot you)
 
