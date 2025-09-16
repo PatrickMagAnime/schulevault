@@ -1,6 +1,6 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250526113306.png]]
+![[Mathe Buch Nummer 7.32.png]]
 
 **Aufgabe 7.32 – Volumen durch Rotation:**
 
@@ -77,7 +77,7 @@ $y = \frac{1}{3}\sqrt{x}\cdot(x-3),\;\; 0 \leq x \leq 3$
 - **b)** $V = \frac{\pi}{2}$
 - **c)** $V = \frac{3\pi}{4}$
 
-![[Pasted image 20250526113957.png]]
+![[Mathe Buch Nummer 7.34.1.png]]
 
 **Aufgabe 7.34 – Wasserglas (Rotation, Volumen, Eichstrich) mit Rechenweg:**
 
@@ -157,7 +157,7 @@ Löse nach $d$ (am besten numerisch, z.B. mit Technologieeinsatz wie CAS oder Ta
 - **a)** $V \approx 605\ \text{cm}^3 \approx 0{,}6\ \text{Liter}$
 - **b)** $d$ so, dass $V(d) = 500\ \text{cm}^3$ → Numerische Lösung.
 
-![[Pasted image 20250526113326.png]]
+![[Mathe Buch Nummer 7.35.1.png]]
 
 **Aufgabe 7.35 – Volumen durch Rotation um die y-Achse (a und c) mit Rechenweg:**
 
@@ -214,7 +214,7 @@ $y = x^2,\;\; 0 \leq y \leq 2$
 - **a)** $V = \frac{\pi}{2}$
 - **c)** $V = 2\pi$
 
-![[Pasted image 20250526114326.png]]
+![[Mathe Buch Nummer 7.39.1.png]]
 
 **Aufgabe 7.39 – Fass: Volumen durch Rotation einer Polynomfunktion (mit Rechenweg):**
 

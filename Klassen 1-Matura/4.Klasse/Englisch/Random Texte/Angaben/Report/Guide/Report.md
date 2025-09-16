@@ -1,3 +1,3 @@
-![[Pasted image 20250907002502.png]]
-![[Pasted image 20250907002517.png]]
-![[Pasted image 20250907002532.png]]
+![[Report.png]]
+![[Model Task Report.png]]
+![[Useful language Letter.png]]
