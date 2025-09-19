@@ -47,6 +47,8 @@ Plichten des AG:
 - Entgeltpflicht
 - Fürsorgepflicht
 
+### IV Entgelt
+
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
