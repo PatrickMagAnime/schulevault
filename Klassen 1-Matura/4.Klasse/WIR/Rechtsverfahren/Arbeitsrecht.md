@@ -38,7 +38,14 @@ Es muss in persönlicher Abhängikeit stattfinden
 | Jeder erfolg und jeder misserfolg trifft nicht den AN sondern den AG | Preisgefahr (kein geld) für misslingen              |
 |                                                                      |                                                     |
 
-### III 
+### III Hauptleistungspflichten
+Pflichten des AN:
+- Arbeitspflicht
+- 
+
+Plichten des AG:
+- Entgelt pflicht
+- 
 
 ## Kollektiv Arbeits Recht
 
