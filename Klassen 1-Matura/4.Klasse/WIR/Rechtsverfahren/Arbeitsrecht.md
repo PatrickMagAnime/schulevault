@@ -41,7 +41,7 @@ Es muss in persönlicher Abhängikeit stattfinden
 ### III Hauptleistungspflichten
 Pflichten des AN:
 - Arbeitspflicht
-- Treuepflicht
+- Treuepflicht (-> Verschwiegenheitspflicht, Konkurenzverbot)
 
 Plichten des AG:
 - Entgeltpflicht
