@@ -41,11 +41,11 @@ Es muss in persönlicher Abhängikeit stattfinden
 ### III Hauptleistungspflichten
 Pflichten des AN:
 - Arbeitspflicht
-- 
+- Treuepflicht
 
 Plichten des AG:
-- Entgelt pflicht
-- 
+- Entgeltpflicht
+- Fürsorgepflicht
 
 ## Kollektiv Arbeits Recht
 
