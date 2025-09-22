@@ -1,6 +1,6 @@
 [[4.GGP]]
 ___
-![[Das 19. Jahrhundert.png]]
+![[Das 19. Jahrhundert.png|1000]]
 
 Geistige Strömungen und Epochen
 - Aufklärung (ca. 1680–1800, Ausläufer bis um 1800)
