@@ -1,4 +1,4 @@
 [[4.GGP]]
 ___
-![[Östrerreich im 19.Jh Verfassungsentwicklung.png]]
+![[Drawing 2025-09-22 10.31.48.excalidraw]]
 
