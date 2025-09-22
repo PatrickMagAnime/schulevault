@@ -64,3 +64,5 @@ flowchart LR
 ```
 
 Kurzer Merksatz: Eingabe $M$ fließt zusammen mit Schlüssel $K$ durch $E_K$ und ergibt $C$. Decryption (falls vorhanden) wendet $D_K$ auf $C$ an und liefert wieder $M$.
+
+$D_{d}(E_{c}(p))=p'$
