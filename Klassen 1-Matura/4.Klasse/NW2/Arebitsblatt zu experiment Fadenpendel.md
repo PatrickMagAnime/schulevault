@@ -1,7 +1,6 @@
 [[4.NW2]]
 ___
-# Arbeitsblatt
-![[Arbeitsblatt-zum-Experiment-Fadenpendel.png]]
+
 1. Erkläre, wie man die Periodendauer eines Fadenpendels genau messen kann.
     
 2. Miss die Periodendauer für drei verschiedene Werte von Fadenlänge, Masse und Amplitude des Pendels.  
