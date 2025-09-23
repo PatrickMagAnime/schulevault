@@ -97,3 +97,13 @@ premises = (privat grund)
 - **Nine to five job**: A “nine to five job” refers to a traditional full-time job with regular working hours, typically from 9:00 AM to 5:00 PM, Monday to Friday. It symbolizes a standard office work schedule.
     
 - **Time off in lieu**: Time off in lieu is when employees are given paid time off instead of overtime pay for extra hours worked. For example, if someone works extra hours one day, they might take those hours off on another day instead of receiving extra pay.
+
+
+
+Prepositions:
+towards,
+
+Collocation: Studying a word with its prepositions. ex: a decision(i can take/make a decision)
+
+Idiom: phrases with certain word that doesnt mean what their actually says. ex: to hit two bird with one stone, cry wolf
+don't cry wolf
