@@ -54,6 +54,11 @@ Plichten des AG:
 - Überstundengehalt
 - Renumeration
 
+### V Entgelt Fortzahlung
+Leute die nicht arbeiten gehen können weil sie Krank sind, bekommen trotzdem Geld.
+Mann muss aber:
+- Melden
+- 
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
