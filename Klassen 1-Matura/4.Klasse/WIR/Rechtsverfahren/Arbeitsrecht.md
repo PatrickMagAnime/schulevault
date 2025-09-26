@@ -49,7 +49,10 @@ Plichten des AG:
 
 ### IV Entgelt
 - Grundentgelt
-- 
+- Zulagen
+- Prämien
+- Überstundengehalt
+- Renumeration
 
 ## Kollektiv Arbeits Recht
 
