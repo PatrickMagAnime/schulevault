@@ -48,6 +48,8 @@ Plichten des AG:
 - Fürsorgepflicht
 
 ### IV Entgelt
+- Grundentgelt
+- 
 
 ## Kollektiv Arbeits Recht
 
