@@ -51,8 +51,8 @@ Plichten des AG:
 - Grundentgelt
 - Zulagen
 - Prämien
-- Überstundengehalt
 - Renumeration
+	- Überstundengehalt
 
 ### V Entgelt Fortzahlung
 Leute die nicht arbeiten gehen können weil sie Krank sind, bekommen trotzdem Geld.
