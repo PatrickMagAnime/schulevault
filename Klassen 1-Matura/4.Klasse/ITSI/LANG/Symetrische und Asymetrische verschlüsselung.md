@@ -19,7 +19,7 @@ Cesar Verschlüsselung
 e=3
 $E_{3}(HTL)=kwo$
 
-JIVSOMPMQUVQA
+cäsar(JIVSOMPMQUVQA)
 
 - 0 → JIVSOMPMQUVQA
     
@@ -38,37 +38,6 @@ JIVSOMPMQUVQA
 - 7 → CBOLHFIFJNOJT
     
 - 8 → **BANKGEHEIMNIS** 
-    
-- 9 → AZMJFDGDHLMHR
-    
-- 10 → ZYLIECFCGKLGQ
-    
-- 11 → YXKHDBEBFJKFP
-    
-- 12 → XWJGCADAEIJEO
-    
-- 13 → WVIFBZCZDHIDN
-    
-- 14 → VUHEAYBYCGHCM
-    
-- 15 → UTGDZXAXBFGBL
-    
-- 16 → TSFCYWZWAEFAK
-    
-- 17 → SREBXVYVZDEZJ
-    
-- 18 → RQDAWUXUYCDYI
-    
-- 19 → QPCZVTWTXBCXH
-    
-- 20 → POBYUSVSWABWG
-    
-- 21 → ONAXTRURVZAVF
-    
-- 22 → NMZWSQTQUYZUE
-    
-- 23 → MLYVRPSPTXYTD
-    
-- 24 → LKXUQOROSWXSC
-    
-- 25 → KJWTPNQNRVWRB
+ 
+Verschiebung um 8 für die Entschlüsselung
+18 für die Verschlüsselung
