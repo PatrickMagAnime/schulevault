@@ -12,3 +12,4 @@ mit dynamic firewalls.
 
 TLS 1.3 (Neues Verschlüsselungsverfahren für https)
 SSL (Veraltete Verschlüsselung)
+
