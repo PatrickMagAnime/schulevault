@@ -16,6 +16,7 @@ premises = (privat grund)
 - ambidextrous
 	someone who is able to use the right and left hands equally well
 - offshoring
+- nappies/diapers
 - laws
 - megjob
 	job that doesn't require any training or experience
