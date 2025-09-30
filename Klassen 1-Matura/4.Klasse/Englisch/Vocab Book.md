@@ -16,6 +16,8 @@ premises = (privat grund)
 - ambidextrous
 	someone who is able to use the right and left hands equally well
 - offshoring
+- contraction
+	Instead of using Im, use I am. baby (when muscles contract), or there are contractions in sth. (smaller)
 - nappies/diapers
 - laws
 - megjob
