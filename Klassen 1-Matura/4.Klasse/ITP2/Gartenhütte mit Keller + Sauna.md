@@ -38,3 +38,8 @@ ___
 4. Decke/Kranz & Hütte: Kellerdecke/Abdichtung, Holzrahmenwände, Dach, Fassade, Tür
 5. Sauna: freistehende Kabine, Dämmung + Alu‑Dampfsperre, Zu-/Abluft, Ofen/Steuerung (Elektriker)
 6. Finish: Holzschutz, Entfeuchtung/Lüftung einregeln, Funktions-/Dichtigkeitschecks
+
+
+##### Maße und Kosten
+Die Hütte st ca $20m^2$ groß.
+Materialkosten liegen bei 20.000€
