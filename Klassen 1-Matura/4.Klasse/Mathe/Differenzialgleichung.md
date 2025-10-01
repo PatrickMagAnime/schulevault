@@ -25,8 +25,59 @@ $y=-\frac{x^3}{6}+\frac{x^2}{2}+2x+1$
 **a)**
 $y'3x=1$
 
+- Gegeben: 3x·y′ = 1
+- Umformen: y′ = 1/(3x)
+- Integrieren: y(x) = (1/3) ln|x| + C
+- Einordnung: 1. Ordnung, linear-inhomogen (in der Form y′ = q(x)); Definitionsbereich x ≠ 0
+- Allgemeine Lösung: y(x) = (1/3) ln|x| + C
 **c)**
 $y'-4x+x^2$
 
+- Gegeben: y′ − 4x + x² = 0
+- Umformen: y′ = 4x − x²
+- Integrieren: y(x) = ∫(4x − x²) dx = 2x² − (1/3)x³ + C
+- Einordnung: 1. Ordnung, linear-inhomogen (y′ = q(x))
+- Allgemeine Lösung: y(x) = 2x² − (1/3)x³ + C
 **e)**
 $y''+6x-3=0$
+
+- Gegeben: y″ + 6x − 3 = 0
+- Umformen: y″ = 3 − 6x
+- 1× integrieren: y′ = ∫(3 − 6x) dx = 3x − 3x² + C₁
+- 2× integrieren: y = ∫(3x − 3x² + C₁) dx = (3/2)x² − x³ + C₁x + C₂
+- Einordnung: 2. Ordnung, linear-inhomogen
+- Allgemeine Lösung: y(x) = (3/2)x² − x³ + C₁x + C₂
+
+
+##### 3.11
+**b)**
+$y=x+x^2+C$
+$y'=2x+1$
+
+##### 3.12
+**b)**
+egeben:
+
+- Differentialgleichung: y′ + x² = x + 1
+- Anfangsbedingung: y(6) = 0
+
+Schritte:
+
+1. In Standardform bringen
+
+- y′ = x + 1 − x²
+
+2. Integrieren (einmal, weil 1. Ordnung)
+
+- y(x) = (1/2)x² + x − (1/3)x³ + C
+
+3. Anfangsbedingung einsetzen
+
+- 0 = y(6) = (1/2)·6² + 6 − (1/3)·6³ + C
+- 0 = 18 + 6 − 72 + C = −48 + C ⇒ C = 48
+
+Antwort (spezielle Lösung):
+
+- y(x) = −(1/3)x³ + (1/2)x² + x + 48
+
+Kurzcheck: y(6) = −72 + 18 + 6 + 48 = 0
