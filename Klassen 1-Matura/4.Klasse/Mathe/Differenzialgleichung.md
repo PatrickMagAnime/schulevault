@@ -85,9 +85,13 @@ Kurzcheck: y(6) = −72 + 18 + 6 + 48 = 0
 **c)**
 als erstes ergebniss rüber geben, dann integrieren, dann die bedingung setzen.
 
-![[Pasted image 20251001110038.png]]
+![[Mathe Buch 3.12.png]]
 
 $y''-x+1$
 y′ = (1/2)x^2 − x + C1
 y = (1/6)x^3 − (1/2)x^2 + C1·x + C2
 und da jetzt beide fälle einragen
+
+![[Mathe Buch 3.15.png]]
+a(t)=0,5
+a(t)=v'(t)=s''(t)
