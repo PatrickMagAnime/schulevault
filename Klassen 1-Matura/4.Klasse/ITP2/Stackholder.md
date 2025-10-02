@@ -127,18 +127,4 @@ ___
 - [ ] [Task] — Owner: [Name] — Fällig: [YYYY-MM-DD]
 - [ ] [Task] — Owner: [Name] — Fällig: [YYYY-MM-DD]
 
-## Mitteilungen/Updates für Stakeholder nach dem Meeting
-- Kanal: E-Mail/Chat/Confluence/Obsidian Publish
-- Kernbotschaft: [max. 3 Bullet Points]
-- Anhang/Artefakte: [Deck/Protokoll/Link]
-
 ---
-
-## Notizen
-- [Freitext]
-- [Beobachtungen/Signale] z. B. Stimmung, Bedenken, Chancen
-
-## Anhänge/Referenzen
-- Link zu Roadmap: [URL/Note]
-- Link zu Status-Report: [URL/Note]
-- Link zu Risiko-Register: [URL/Note]
