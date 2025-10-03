@@ -58,7 +58,12 @@ Plichten des AG:
 Leute die nicht arbeiten gehen können weil sie Krank sind, bekommen trotzdem Geld.
 Mann muss aber:
 - Melden
-- 
+
+### Dauer des Dienst Verhältniss
+befristet DV
+unbefristet DV
+
+Kettenvertrag ist die unmittelbare verkettung mehrerer verfriftetn dienstverträge. In Österreich Illegal
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
