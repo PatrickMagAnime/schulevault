@@ -67,7 +67,9 @@ Kettenvertrag ist die unmittelbare verkettung mehrerer verfriftetn dienstverträ
 Man kann maximal 2 verträge anknüpfen. ab dem 3ten ist es eine verkettung
 
 ### VI Der Arbeitnehmer Begriff
-
+Es gibt zwei arten von AN
+Arbeiter: sind AN die nicht Angestelte sind
+Angestellte: sind AN die zur leistung kaufmännischer arbeiten oder zur leistung höherer nicht kaufmänische arbeiten oder zur leistung von kanzlei arbeiten beschäftigt sind.
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
