@@ -64,6 +64,7 @@ befristet DV
 unbefristet DV
 
 Kettenvertrag ist die unmittelbare verkettung mehrerer verfriftetn dienstverträge. In Österreich Illegal
+Man kann maximal 2 verträge anknüpfen. ab dem 3ten ist es eine verkettung
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
