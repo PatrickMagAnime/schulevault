@@ -1,4 +1,4 @@
-[[4.GGP]]
+23[[4.GGP]]
 ___
 ![[Das 19. Jahrhundert.png|1000]]
 
