@@ -14,6 +14,7 @@ TLS 1.3 (Neues Verschlüsselungsverfahren für https)
 SSL (Veraltete Verschlüsselung)
 
 (CMS) Content management system
+WordPress
 Typo3: Leicht cusomizen
 Trupal
 Jula
