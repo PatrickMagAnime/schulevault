@@ -7,7 +7,7 @@ ___
     
 3. …Ablauf, Hintergründe und Folge des Attentats von Sarajewo erläutern.
     
-4. …_erklären, was der Schlieffen-Plan war und warum er scheiterte._
+4. …erklären, was der Schlieffen-Plan war und warum er scheiterte.
     
 5. …erklären, was man unter einem Stellungskrieg versteht.
     
