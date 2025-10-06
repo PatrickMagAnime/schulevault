@@ -1,3 +1,4 @@
 [[4.ITSI]]
 ___
-Angreifer
+#### Angreifermodelle
+Chipher-Only-Attack: Angreifer kennt nur Chiffretexte
