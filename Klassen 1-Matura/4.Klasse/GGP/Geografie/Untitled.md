@@ -5,4 +5,3 @@ was ist die akürzung und zu welchen ländern gehört es?
 
 (CEFTA)  Central European Free Trade Agreement https://en.wikipedia.org/wiki/Central_European_Free_Trade_Agreement
 
-![[Pasted image 20251006111232.png | 800]]
