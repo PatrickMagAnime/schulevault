@@ -39,4 +39,18 @@ $\frac{dy}{y}=-xdx$
 $\int\frac{dy}{y}=\int-xdx$
 $\ln (y)=-\frac{x^2}{2}+C_{3}$
 $y=e^-\frac{x^2}{2}+e^C_{3}$
-$y=e^-\frac{x^2}{2}+e^C_{3}$
+$y=e^{-\frac{x^2}{2}*C_{3}}$
+
+**3.33**
+**a)**
+$y' = \frac{y}{x},\quad y(1) = 2
+$y' = \frac{dy}{dx}
+\frac{dy}{dx} = \frac{y}{x}
+\frac{dy}{y} = \frac{dx}{x}
+\int \frac{dy}{y} = \int \frac{dx}{x}
+\ln|y| + C_1 = \ln|x| + C_2
+\ln|y| = \ln|x| + C_3 \quad (C_3 = C_2 - C_1)
+|y| = e^{\ln|x| + C_3} = |x| \cdot C
+y = Cx
+2 = C \cdot 1 \implies C = 2
+\boxed{y(x) = 2x}
