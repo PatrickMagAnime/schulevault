@@ -43,14 +43,19 @@ $y=e^{-\frac{x^2}{2}*C_{3}}$
 
 **3.33**
 **a)**
-$y' = \frac{y}{x},\quad y(1) = 2
-$y' = \frac{dy}{dx}
-\frac{dy}{dx} = \frac{y}{x}
-\frac{dy}{y} = \frac{dx}{x}
-\int \frac{dy}{y} = \int \frac{dx}{x}
-\ln|y| + C_1 = \ln|x| + C_2
-\ln|y| = \ln|x| + C_3 \quad (C_3 = C_2 - C_1)
-|y| = e^{\ln|x| + C_3} = |x| \cdot C
-y = Cx
-2 = C \cdot 1 \implies C = 2
-\boxed{y(x) = 2x}
+$\text{Gegeben:} \quad x \cdot y^2 + y' = 0,\quad y(1) = 1$
+$y' = -x y^2$
+$\frac{dy}{dx} = -x y^2$
+$\frac{dy}{y^2} = -x dx$
+$\int \frac{dy}{y^2} = \int -x dx$
+- $y^{-1} + C_1 = -\frac{x^2}{2} + C_2$
+$\text{Konstanten zusammenfassen:}$
+- $y^{-1} = -\frac{x^2}{2} + C$
+$\text{Beide Seiten mit -1 multiplizieren:}$
+$y^{-1} = \frac{x^2}{2} - C$
+$\text{Umstellen nach } y:$
+$y = \frac{1}{\frac{x^2}{2} - C}$$
+$\text{Anfangsbedingung einsetzen: } y(1) = 1$
+$1 = \frac{1}{\frac{1}{2} - C} \implies \frac{1}{2} - C = 1 \implies C = -\frac{1}{2}$
+$\text{Besondere Lösung:}$
+$y(x) = \frac{1}{\frac{x^2}{2} + \frac{1}{2}}$
