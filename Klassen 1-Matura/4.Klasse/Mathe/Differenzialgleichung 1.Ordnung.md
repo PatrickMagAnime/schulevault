@@ -30,4 +30,13 @@ $\ln|4-y|=x+C_{3}$
 Dann die basis erheben um den logarythmus wegzubekommen also e^irgendwas
 $\ln|4-y|=\mp e^{x}C_{3}$ dann die e trennen bissl
 $4-y=e^{x}*e^C_{3}$ dann die 4 rüber und mal -1 damit y=blablabla
-$y=-3*e^-x} +4$
+$y=-3*e^{-x} +4$
+
+**b)**
+$y'=-x*y$ $y(0)=1$
+$\frac{dy}{dx}=-x*y$
+$\frac{dy}{y}=-xdx$
+$\int\frac{dy}{y}=\int-xdx$
+$\ln (y)=-\frac{x^2}{2}+C_{3}$
+$y=e^-\frac{x^2}{2}+e^C_{3}$
+$y=e^-\frac{x^2}{2}+e^C_{3}$
