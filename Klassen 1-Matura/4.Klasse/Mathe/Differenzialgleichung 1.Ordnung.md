@@ -42,7 +42,7 @@ $y=e^-\frac{x^2}{2}+e^C_{3}$
 $y=e^{-\frac{x^2}{2}*C_{3}}$
 
 **3.33**
-**a)**
+**a)**s
 $\text{Gegeben:} \quad x \cdot y^2 + y' = 0,\quad y(1) = 1$
 $y' = -x y^2$
 $\frac{dy}{dx} = -x y^2$
