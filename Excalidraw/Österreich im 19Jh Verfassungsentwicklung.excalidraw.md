@@ -29,7 +29,7 @@ verliert gegen Preußen, Franz Joseph geschwächt
 "Kleindeutsche Lösung": Gesamtdeutscher Staat ohne Ö. ^QOKtiDri
 
 ## Embedded Files
-81f4d47e78d00251e75d4a30cca0b179ab3fa242: [[Pasted Image 20250922103229_475.png]]
+81f4d47e78d00251e75d4a30cca0b179ab3fa242: [[Österreich-im-19.JH-Verfassungsentwicklung.png]]
 
 %%
 ## Drawing
