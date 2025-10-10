@@ -76,8 +76,9 @@ a) Bezahlter Urlaub (Erhohlungs Urlaub)
 Ein werktag ist ein arbeitstag
 verjährung heist rechtsverlust
 
-Betriebsurlaub, heißt das lle im urlaub sind
-
+**Betriebsurlaub**, heißt das alle im urlaub sind
+Das muss aber im arbeitsvertrag stehen, sonst müssten alle zustimmen
+überwegende teil überwiegender anspruch zum AN zur verfügung bleibt
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
