@@ -73,7 +73,10 @@ Angestellte: sind AN die zur leistung kaufmännischer arbeiten oder zur leistung
 
 ### VII Urlaub
 a) Bezahlter Urlaub (Erhohlungs Urlaub)
+Ein werktag ist ein arbeitstag
+verjährung heist rechtsverlust
 
+Betriebsurlaub, heißt das lle im urlaub sind
 
 ## Kollektiv Arbeits Recht
 
