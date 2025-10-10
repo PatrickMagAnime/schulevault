@@ -71,6 +71,9 @@ Es gibt zwei arten von AN
 Arbeiter: sind AN die nicht Angestelte sind
 Angestellte: sind AN die zur leistung kaufmännischer arbeiten oder zur leistung höherer nicht kaufmänische arbeiten oder zur leistung von kanzlei arbeiten beschäftigt sind.
 
+### VII Urlaub
+a) Bezahlter Urlaub (Erhohlungs Urlaub)
+
 
 ## Kollektiv Arbeits Recht
 
