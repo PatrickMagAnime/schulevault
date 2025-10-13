@@ -12,7 +12,7 @@ ___
 5. …erklären, was man unter einem Stellungskrieg versteht.
      
 6. …ich kann einen Überblick über den Kriegsverlauf geben.
-     
+     Es geht schnell in den stellngskrieg über. wri haben dann
 7. …erläutern, weshalb die Schlacht von Verdun zum Symbol für Sinnlosigkeit des Krieges wurde.
      
 8. …die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.
