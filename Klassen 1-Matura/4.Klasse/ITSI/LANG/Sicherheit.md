@@ -9,7 +9,7 @@ ___
 
 ##### Was bedeutet Informationssicherheit?
 Informationssicherheit hat das Ziel, Informationen jeglicher Art und Herkunft zu schützen. Dies umfasst:  
-- Informationen in den Köpfen der Beteiligten  
+- Informationen in den Köpfen der Beteiligten
 - Informationen in Papierform  
 - Elektronisch verarbeitete Informationen in Systemen und Netzwerken  
 
