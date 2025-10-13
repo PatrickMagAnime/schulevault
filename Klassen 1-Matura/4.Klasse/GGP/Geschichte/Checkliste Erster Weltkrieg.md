@@ -8,7 +8,7 @@ ___
 3. …Ablauf, Hintergründe und Folge des Attentats von Sarajewo erläutern.
      
 4. …erklären, was der Schlieffen-Plan war und warum er scheiterte.
-     der plan war als erstes die franzosen zu besiegen und dann die russen
+     der plan war als erstes die franzosen zu besiegen und dann die russen. der plan ist gescheitert weil die russen schneller waren
 5. …erklären, was man unter einem Stellungskrieg versteht.
      
 6. …ich kann einen Überblick über den Kriegsverlauf geben.
