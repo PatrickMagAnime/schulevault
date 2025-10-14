@@ -206,10 +206,54 @@ flowchart LR
 | Projektteammitglieder   | Ausschreibung, Angebote, Terminkoordination                           | Patrick Riedl              |
 | ProjektmitarbeiterInnen | Ausführung durch Gewerke; Qualität/Sicherheit                         | Externe Firmen (siehe oben)|
 | Projektcoach (optional) | Methodik/Review                                                       | n.n.                       |
-
 ```mermaid
+flowchart TB
+  %% Klassen
+  classDef ag fill:#fff3e0,stroke:#fb8c00,color:#e65100,font-weight:bold
+  classDef pl fill:#e3f2fd,stroke:#1e88e5,color:#0d47a1,font-weight:bold
+  classDef team fill:#ede7f6,stroke:#8e24aa,color:#4a148c
+  classDef ext fill:#e8f5e9,stroke:#43a047,color:#1b5e20
+  classDef coach fill:#fce4ec,stroke:#d81b60,color:#880e4f
 
+  %% Kernrollen (Labels in Anführungszeichen + \n)
+  AG["Projektauftraggeber\nPatrick Riedl"]:::ag
+  PL["Projektleiter\nPatrick Riedl"]:::pl
+  TEAM["Projektteammitglied(er)\nPatrick Riedl"]:::team
+  CO["Projektcoach (optional)"]:::coach
+
+  %% Hierarchie
+  AG --> PL --> TEAM
+  PL-.Methodik/Review.->CO
+
+  %% Externe Gewerke
+  subgraph "Externe Gewerke (Ausführung)"
+    direction TB
+    VER["Vermessung Beispiel KG"]:::ext
+    TIEF["Tiefbau Mustermann GmbH"]:::ext
+    BET["Betonbau Steiner GmbH"]:::ext
+    HOLZ["Zimmerei Holz&Haus OG"]:::ext
+    DACH["Dachdeckerei Regenfest KG"]:::ext
+    SHK["SHK Frisch & Klar GmbH"]:::ext
+    ELEKTRO["Elektro Lichtblick GmbH"]:::ext
+    ENT["Entsorger CleanBox GmbH"]:::ext
+    STAT["Statikbüro Mustermann GmbH"]:::ext
+  end
+
+  %% Berichtslinien
+  PL --> VER
+  PL --> TIEF
+  PL --> BET
+  PL --> HOLZ
+  PL --> DACH
+  PL --> SHK
+  PL --> ELEKTRO
+  PL --> ENT
+  PL --> STAT
+
+  %% Optional gestrichelt: Coach
+  style CO stroke-dasharray:4 3
 ```
+
 ---
 
 ## 1.7 Betrachtungsobjekteplan
@@ -252,9 +296,69 @@ flowchart LR
 | 4    | Abschluss                                   |
 | 4.1  | As‑Built, Prüfungen, Abnahme/Übergabe       |
 
+```mermaid
+flowchart TD
+  %% optionale Styles
+  classDef phase fill:#e3f2fd,stroke:#1e88e5,color:#0d47a1,font-weight:bold
+  classDef wp fill:#f1f8e9,stroke:#43a047,color:#1b5e20
+
+  ROOT["Projektstrukturplan (WBS)"]
+
+  %% 1 Projektmanagement
+  N1["1 Projektmanagement"]:::phase
+  ROOT --> N1
+  N1_1["1.1 Kick-off/Kommunikation/Risiko-Setup"]:::wp
+  N1_2["1.2 Genehmigungen/Behördenkommunikation"]:::wp
+  N1_3["1.3 Ausschreibung/Angebote/Vergabe"]:::wp
+  N1_4["1.4 Termin-/Kostencontrolling"]:::wp
+  N1_5["1.5 Prüfungen/Abnahme/Dokumentation"]:::wp
+  N1 --> N1_1
+  N1 --> N1_2
+  N1 --> N1_3
+  N1 --> N1_4
+  N1 --> N1_5
+
+  %% 2 Tiefbau/Keller
+  N2["2 Tiefbau/Keller"]:::phase
+  ROOT --> N2
+  N2_1["2.1 Baustelleneinrichtung/Vermessung"]:::wp
+  N2_2["2.2 Erdarbeiten/Aushub/Entsorgung"]:::wp
+  N2_3["2.3 Keller WU‑Beton (Boden/Wände)"]:::wp
+  N2_4["2.4 Abdichtung/Drainage"]:::wp
+  N2_5["2.5 Kellerdecke"]:::wp
+  N2 --> N2_1
+  N2 --> N2_2
+  N2 --> N2_3
+  N2 --> N2_4
+  N2 --> N2_5
+
+  %% 3 Aufbau Hütte
+  N3["3 Aufbau Hütte"]:::phase
+  ROOT --> N3
+  N3_1["3.1 Holzrahmenbau Rohbau"]:::wp
+  N3_2["3.2 Fassade/Fenster/Tür/Holzschutz"]:::wp
+  N3_3["3.3 Dachkonstruktion/Abdichtung/Rinne"]:::wp
+  N3_4["3.4 Elektro (Zuleitung/UV/Licht/Steckdosen)"]:::wp
+  N3_5["3.5 Sanitär (Zulauf/Abwasser/Hebeanlage/WC)"]:::wp
+  N3_6["3.6 Innenausbau (Dämmung/Verkleidung/Boden)"]:::wp
+  N3 --> N3_1
+  N3 --> N3_2
+  N3 --> N3_3
+  N3 --> N3_4
+  N3 --> N3_5
+  N3 --> N3_6
+
+  %% 4 Abschluss
+  N4["4 Abschluss"]:::phase
+  ROOT --> N4
+  N4_1["4.1 As‑Built, Prüfungen, Abnahme/Übergabe"]:::wp
+  N4 --> N4_1
+```
+
 ---
 
-## 1.9 Arbeitspaket-Spezifikationen (vollständig befüllte Tabelle)
+## 1.9 Arbeitspaket-Spezifikationen
+
 | PSP-Code | AP-Bezeichnung                          | AP-Inhalt (Was wird getan?)                                                                                                                                         | AP-Nicht-Inhalte (Was nicht?)                                       | AP-Ergebnisse (Was liegt vor?)                                                        | Leistungsfortschritt (Messung)                                                                 |
 |---------:|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | 1.2      | Genehmigungen/Behördenkommunikation     | Bauantrag/Bauanzeige; Entwässerungsantrag; Abstimmung mit Kanal/Wasser; Statik bündeln; Nachforderungen fristgerecht bearbeiten                                    | Bauausführung; Detail-Werk-/Montagepläne der Gewerke                | Genehmigungsbescheid; Auflagenliste; Startfreigabe                                    | 25% Einreichung erfolgt • 60% Nachforderungen erledigt • 100% Bescheid erteilt                 |
@@ -515,7 +619,8 @@ gantt
 
 # 5 Projektabschluss
 
-## 5.1 Projektabschlussbericht (vorläufig ausgefüllt – am Ende aktualisieren)
+## 5.1 Projektabschlussbericht
+
 | Kapitel                                           | Inhalt (Stand: Planung/Prognose)                                                                                                        |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1) Gesamteindruck                                 | Ziele klar; Termine realistisch mit Puffer; Risiken identifiziert und mitigiert                                                         |
@@ -545,8 +650,7 @@ gantt
 |----------------------|-------------------------------------------------|---------|
 | Projektabschluss-WS  | Abnahme, Restpunkte, Archivierung, Lessons L.  | offen   |
 
-# 6 Anhang – Visualisierungen (Mermaid)
-
+# 6 Anhang – Visualisierungen 
 ## 6.1 Systemkontext
 ```mermaid
 flowchart LR
@@ -703,7 +807,7 @@ flowchart LR
   AG --- AGM
 ```
 
-## 6.6 Risikoübersicht (Matrix nach Priorität)
+## 6.6 Risikoübersicht
 ```mermaid
 flowchart TB
   subgraph High[Auswirkung: Hoch]
