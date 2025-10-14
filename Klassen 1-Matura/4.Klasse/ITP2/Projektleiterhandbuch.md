@@ -119,6 +119,65 @@ Datum: **14.10.2025**
 | Wetter/Grundwasser  | Regen/Frost/hoher GW-Spiegel                               | Terminpuffer; Wasserhaltung; Drainagekonzept                               | PL – 1.1       |
 | Versicherung        | Schadensfälle/Bauwesen                                     | Policen prüfen; Meldewege definieren                                      | PL – 1.1       |
 
+```mermaid
+flowchart LR
+  classDef intern fill:#e3f2fd,stroke:#2196f3,color:#0d47a1;
+  classDef behoerde fill:#fff8e1,stroke:#ff9800,color:#e65100;
+  classDef versorger fill:#e8f5e9,stroke:#4caf50,color:#1b5e20;
+  classDef gewerke fill:#f3e5f5,stroke:#9c27b0,color:#4a148c;
+  classDef umfeld fill:#ffebee,stroke:#f44336,color:#b71c1c;
+  classDef center fill:#bbdefb,stroke:#1e88e5,color:#0d47a1;
+
+  PRJ((Projekt: Gartenhütte<br/>Keller + WC))
+  AG[Auftraggeber/Familie]:::intern
+  PL[Projektleitung]:::intern
+
+  BA[Bauamt]:::behoerde
+
+  WS[Wasserversorger]:::versorger
+  ABW[Abwasserbetrieb]:::versorger
+  EV[Energieversorger]:::versorger
+
+  ST[Statiker]:::gewerke
+  VB[Vermesser]:::gewerke
+  TB[Tiefbau]:::gewerke
+  BB[Betonbau]:::gewerke
+  HB[Holzbau]:::gewerke
+  DD[Dach]:::gewerke
+  SHK[SHK]:::gewerke
+  EL[Elektro]:::gewerke
+  EN[Entsorger]:::gewerke
+
+  NA[Nachbarn]:::umfeld
+  GW[Wetter/Grundwasser]:::umfeld
+  VS[Versicherung]:::umfeld
+
+  class PRJ center
+
+  AG -->|Budget/Scope| PRJ
+  PL -->|Koordination| PRJ
+
+  PRJ <--> |Genehmigung/Auflagen| BA
+  PRJ <--> |Akzeptanz/Lärm/Staub/Zufahrt| NA
+
+  PRJ --> |Wasseranschluss/Frostschutz| WS
+  PRJ --> |Kanal/Hebeanlage| ABW
+  PRJ --> |Baustrom/Zuleitung| EV
+
+  ST -->|Nachweise/Statik| PRJ
+  PRJ --> |Absteckung| VB
+  PRJ --> |Aushub/Drainage| TB
+  PRJ --> |WU‑Beton/Decke| BB
+  PRJ --> |Holzrahmen/Fassade| HB
+  PRJ --> |Abdichtung/Rinne| DD
+  PRJ --> |Zulauf/Abwasser/WC| SHK
+  PRJ --> |Zuleitung/UV/Licht| EL
+  PRJ --> |Container/Entsorgung| EN
+
+  GW -->|Wetter/GW‑Risiken| PRJ
+  VS -->|Bauwesen/Haftpflicht| PRJ
+```
+
 ---
 
 ## 1.5 Beziehungen zu anderen Projekten und Zusammenhang mit den Unternehmenszielen
@@ -148,6 +207,9 @@ Datum: **14.10.2025**
 | ProjektmitarbeiterInnen | Ausführung durch Gewerke; Qualität/Sicherheit                         | Externe Firmen (siehe oben)|
 | Projektcoach (optional) | Methodik/Review                                                       | n.n.                       |
 
+```mermaid
+
+```
 ---
 
 ## 1.7 Betrachtungsobjekteplan
