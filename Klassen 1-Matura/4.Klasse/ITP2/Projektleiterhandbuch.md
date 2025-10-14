@@ -182,19 +182,20 @@ flowchart LR
 
 ## 1.5 Beziehungen zu anderen Projekten und Zusammenhang mit den Unternehmenszielen
 ### Beziehungen zu anderen Projekten
-| Programme/Projekte/Kleinprojekte | Beziehung (Potential/Konflikt) | Maßnahmen                         | Wer/Wann (PSP) |
-|----------------------------------|---------------------------------|-----------------------------------|----------------|
-| Gartenorganisation/Regalsystem   | Synergie Innenausbau            | Maße/Schnittstellen abstimmen     | Holzbau – 3.6  |
-| PV‑Insel (optional)              | Vorbereitung Leerrohre          | Leerrohre jetzt mitverlegen       | Elektro – 3.4  |
-| Außenpflasterung                 | Logistik/Zufahrt                | Reihenfolge/Termine koordinieren  | PL – 2.1       |
+| Programme/Projekte/Kleinprojekte | Beziehung (Potential/Konflikt) | Maßnahmen                        | Wer/Wann (PSP) |
+| -------------------------------- | ------------------------------ | -------------------------------- | -------------- |
+| Gartenorganisation/Regalsystem   | Synergie Innenausbau           | Maße/Schnittstellen abstimmen    | Holzbau – 3.6  |
+| PV‑Insel (optional)              | Vorbereitung Leerrohre         | Leerrohre jetzt mitverlegen      | Elektro – 3.4  |
+| Außenpflasterung                 | Logistik/Zufahrt               | Reihenfolge/Termine koordinieren | PL – 2.1       |
+|                                  |                                |                                  |                |
 
 ### Zusammenhang zu den Unternehmenszielen
-| Zielsetzung                              | Beschreibung des Zusammenhangs                                                                            |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Werterhalt/Steigerung der Liegenschaft   | Dauerhafte, genehmigungskonforme Ausführung samt Dokumentation                                            |
-| Sicherheit und Compliance                | Normkonforme Prüfungen (Elektro, Wasser, Abwasser) reduzieren Risiken                                     |
-| Effizienz/Ordnung                        | Zusätzlicher Lager-/Arbeitsraum strukturiert Gartenarbeit                                                  |
-| Nachhaltigkeit                           | Holzbauweise, langlebige Abdichtung, optionale Regenwassernutzung                                          |
+| Zielsetzung                            | Beschreibung des Zusammenhangs                                        |
+| -------------------------------------- | --------------------------------------------------------------------- |
+| Werterhalt/Steigerung der Liegenschaft | Dauerhafte, genehmigungskonforme Ausführung samt Dokumentation        |
+| Sicherheit und Compliance              | Normkonforme Prüfungen (Elektro, Wasser, Abwasser) reduzieren Risiken |
+| Effizienz/Ordnung                      | Zusätzlicher Lager-/Arbeitsraum strukturiert Gartenarbeit             |
+| Nachhaltigkeit                         | Holzbauweise, langlebige Abdichtung, optionale Regenwassernutzung     |
 
 ---
 
