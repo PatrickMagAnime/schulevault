@@ -198,7 +198,7 @@ flowchart LR
 | Nachhaltigkeit                         | Holzbauweise, langlebige Abdichtung, optionale Regenwassernutzung     |
 
 ---
-
+s
 ## 1.6 Projektorganigramm
 | Projektrolle            | Aufgabenbereiche/Skills                                               | Name/Unternehmen           |
 |-------------------------|-----------------------------------------------------------------------|----------------------------|
@@ -217,7 +217,7 @@ flowchart TB
   classDef coach fill:#fce4ec,stroke:#d81b60,color:#880e4f
 
   %% Kernrollen (Labels in Anführungszeichen + \n)
-  AG["Projektauftraggeber\nPatrick Riedl"]:::ag
+  AG["Projektauftraggeber Patrick Riedl"]:::ag
   PL["Projektleiter\nPatrick Riedl"]:::pl
   TEAM["Projektteammitglied(er)\nPatrick Riedl"]:::team
   CO["Projektcoach (optional)"]:::coach
@@ -254,6 +254,7 @@ flowchart TB
   %% Optional gestrichelt: Coach
   style CO stroke-dasharray:4 3
 ```
+
 
 ---
 
