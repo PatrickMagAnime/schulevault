@@ -38,3 +38,6 @@ ___
 ___
 ![[Pasted image 20251015105732.png]]
 **c)**
+1. ca bei 60 ist das wachstum am größten
+2. solange B unter 1000 ist, wächst es immer
+
