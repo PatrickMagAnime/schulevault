@@ -16,5 +16,26 @@ ___
 ![[Pasted image 20251015113028.png]]
 **d)**
 $\frac{dw}{dt}=-k*w+D$
-w rüber bringen
-$\frac{\frac{dw}{dt}}{w}=-k+D$
+w und k rüber bringen
+$\frac{\frac{dw}{dt}}{-kw}=D$
+das jeztz intgereiren
+
+$\text{Integrieren mit dem Integrationsfaktor:}$
+$\text{Die Differentialgleichung lautet:}$
+$\frac{dw}{dt} + k w = D$
+
+$\text{Integrationsfaktor:} \quad \mu(t) = e^{kt}$
+
+$\text{Multipliziere die gesamte Gleichung mit } e^{kt}:$
+$e^{kt} \frac{dw}{dt} + k e^{kt} w = D e^{kt}$
+
+$\text{Das ist die Ableitung eines Produkts:}$
+$\frac{d}{dt}\left(w \cdot e^{kt}\right) = D e^{kt}$
+
+$\text{Nun integrieren wir beide Seiten:}$
+$\int \frac{d}{dt}\left(w \cdot e^{kt}\right) dt = \int D e^{kt} dt$
+
+$w \cdot e^{kt} = \frac{D}{k} e^{kt} + C$
+
+$\text{Nach } w \text{ auflösen:}$
+$w(t) = \frac{D}{k} + C e^{-kt}$
