@@ -217,8 +217,8 @@ flowchart TB
   classDef coach fill:#fce4ec,stroke:#d81b60,color:#880e4f
 
   %% Kernrollen (Labels in Anführungszeichen + \n)
-  AG["Projektauftraggeber Patrick Riedl"]:::ag
-  PL["Projektleiter\nPatrick Riedl"]:::pl
+  AG["Projektauftraggeber David Oszko"]:::ag
+  PL["Projektleiter Patrick Riedl"]:::pl
   TEAM["Projektteammitglied(er)\nPatrick Riedl"]:::team
   CO["Projektcoach (optional)"]:::coach
 
@@ -254,6 +254,7 @@ flowchart TB
   %% Optional gestrichelt: Coach
   style CO stroke-dasharray:4 3
 ```
+
 
 
 ---
