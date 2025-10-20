@@ -18,7 +18,7 @@ ___
 8. **…die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.**
      mittelmächte, und alliierte(andante)
 9. **…Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.**
-     Armenien-Massaker
+     Armenien-Massaker, 
 10. **…die Grundzüge des 14-Punkte-Programm des amerikanischen Präsidenten Wilson nennen.**
      
 11. **…erklären, zu welchen Fehleinschätzungen es vor dem Krieg gekommen ist.**
