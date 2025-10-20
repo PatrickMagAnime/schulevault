@@ -20,10 +20,12 @@ ___
 9. **…Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.**
      Armenien-Massaker, 
 10. **…die Grundzüge des 14-Punkte-Programm des amerikanischen Präsidenten Wilson nennen.**
-     
+     Ein grudzug ist das selbstbestimmungsrecht der völker.
 11. **…erklären, zu welchen Fehleinschätzungen es vor dem Krieg gekommen ist.**
      zeit-dauer8man dachte es dauert 4wochen), resourcen wurden falsch eingeschätzt. verluste
 12. **…die neuen Technologien nennen, die im EWK zum Einsatz kamen.**
      U-Boot, panzer, kampfflugzeuge, giftgas, maschinengewehre
 13. **…erklären, warum die Bezeichnung „Weltkrieg“ passend ist.**
 	 Weil alle weltmächte dabei waren. usa ist auch dazugekommen
+
+
