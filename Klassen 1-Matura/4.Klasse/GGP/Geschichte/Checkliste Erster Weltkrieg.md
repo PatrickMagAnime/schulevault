@@ -4,13 +4,13 @@ ___
 1. **…die Eckdaten des Ersten Weltkriegs nennen.**
      1914-1918
 2. **…sowohl die vielfältigen Ursachen als auch den Auslöser des EWK nennen.**
-     
+     Attentat, Kolonien, Anspannungen zwischen Ländern
 3. **…Ablauf, Hintergründe und Folge des Attentats von Sarajewo erläutern.**
-     
+     Tronfolger Franz Ferdinand wird in Sarajevo ermordet. Der Kutschen fahrer hat sich verfahren und dabei wurde Franz Ferdinand erschossen mit seiner Frau
 4. **…erklären, was der Schlieffen-Plan war und warum er scheiterte.**
      der plan war als erstes die franzosen zu besiegen und dann die russen. der plan ist gescheitert weil die russen schneller waren
 5. **…erklären, was man unter einem Stellungskrieg versteht.**
-     2 länder kämpfen an einem ort ohne weiter zu kommen, es it ein ewiges hin und her und menschen sterben um sonst
+     2 länder kämpfen an einem ort ohne weiter zu kommen, es it ein ewiges hin und her und menschen sterben um sonst.
 6. **…ich kann einen Überblick über den Kriegsverlauf geben.**
      Es geht schnell in den stellngskrieg über. wir haben dann 3 fronten. es ist ein ewiges hin und her und leute sterben um sonst
 7. **…erläutern, weshalb die Schlacht von Verdun zum Symbol für Sinnlosigkeit des Krieges wurde.**
