@@ -20,3 +20,4 @@ k)
 Man muss die amplitude oder die frequenz verändern zb 0,5*sin()
 
 
+
