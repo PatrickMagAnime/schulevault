@@ -12,6 +12,7 @@ den ersten 30 Minuten berechnet.
 ___
 ![[Pasted image 20251015112917.png]]
 **c)**
+haben wir nicht gelernt
 ___
 ![[Pasted image 20251015113028.png]]
 **d)**
