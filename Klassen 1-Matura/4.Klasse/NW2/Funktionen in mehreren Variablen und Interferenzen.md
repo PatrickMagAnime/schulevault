@@ -11,9 +11,9 @@ Der **Abstand** zwischen diesen Punkten ist
 $d= \sqrt{(10 - 0)^2 + (0 - 0)^2} = \sqrt{100} = 10$
 
 h) und und i) und j)
-![[Pasted image 20251021150612.png]]
+![[Pasted image 20251021150612.png|900]]
 bei x=20
-![[Pasted image 20251021150753.png]]
+![[Pasted image 20251021150753.png|900]]
 Die Wellen werden immer intensiver.
 
 k)
