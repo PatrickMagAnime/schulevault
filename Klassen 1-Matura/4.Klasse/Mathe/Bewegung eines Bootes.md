@@ -37,6 +37,7 @@ $v(5)=9,49\cdot e^{-0,1419\cdot 5}\approx 4,7$
 Zur Zeit $t=5$ s beträgt die Geschwindigkeit des Bootes etwa $4,7$ m/s.
 
 ___
+![[Pasted image 20251021155506.png]]
 **c)**  
 Funktion des Motorboots:  
 $v_{MB}(t)=a+b\cdot(e^{-0,1 t}-e^{-t})$, $a>0$, $b>0$
