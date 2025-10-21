@@ -41,7 +41,7 @@ $A_{max}=f_F\cdot 50=2,857...$
 Ergebnis: Die maximale Fensterfläche beträgt rund $2,86\,m^2$.
 
 ___
-
+![[Pasted image 20251021154923.png]]
 **c)**  
 Luftvolumen Schlafzimmer: $45\,m^3$  
 Zu Beginn: $V(0)=0,2\%$ des Volumens $=0,002\cdot 45=0,09\,m^3$  
