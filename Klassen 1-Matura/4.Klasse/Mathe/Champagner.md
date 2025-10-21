@@ -1,6 +1,6 @@
 [[4.Mathe]]
 ___
-
+![[Pasted image 20251021160253.png]]
 **a)**  
 1) Differenzialgleichung für die Temperatur des Champagners:  
 $\frac{d\vartheta}{dt}=k\cdot(\vartheta-4)$
@@ -25,6 +25,7 @@ Lösung:
 $\vartheta(t)=12\cdot e^{-0,3466 t}+4$
 
 ___
+![[Pasted image 20251021160308.png]]
 **b)**  
 1) Aus der Abbildung: $a=6$
 
@@ -38,6 +39,7 @@ $3-0,275=2,725$
 Die Füllhöhe beträgt rund $2,72\,\text{cm}$.
 
 ___
+![[Pasted image 20251021160323.png]]
 **c)**  
 Preise für die Sorten Tradition ($x$), Rosé ($y$), Réserve ($z$):
 Gleichungssystem in Matrizenform:$\begin{pmatrix}120 & 12 & 600\\84 & 60 & 420\\36 & 72 & 144\\\end{pmatrix}\begin{pmatrix}x\\y\\z\end{pmatrix}=\begin{pmatrix}9864\\7344\\47196\end{pmatrix}$
