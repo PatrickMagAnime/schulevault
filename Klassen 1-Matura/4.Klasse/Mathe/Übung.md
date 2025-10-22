@@ -8,7 +8,17 @@ indirekt weil je mehr höhe desto weniger luftruck.
 
 **b)**
 p(0)=1013
-$\frac{dp}{dh}=-k*p(h)$ |*ph
+Variablen auf beide seiten trennen
+$\frac{dp}{dh}=-k*p(h) |*ph$
+$dp=-k*ph*dh |:ph$
+$\int \frac{1}{ph}*dp=-k*\int 1*dh$
+Jz Integrieren
+$\ln(p)=-k*p+C |*e$
+$p=e^{-k*h+C}=e^{-k*h}*C$
+Und jetzt einsetzen
+p=1013hPae$e^{-h/799}$
 
-$dp=-k$
+**c)**
+
+
 
