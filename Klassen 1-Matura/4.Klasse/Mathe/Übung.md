@@ -26,3 +26,4 @@ $\ln \frac{1}{2}= -\frac{h}{7,99km}$
 
 **d)**
 $0,4*po=p_{0}*e$
+![[Pasted image 20251022112801.png]]
