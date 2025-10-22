@@ -16,8 +16,13 @@ Jz Integrieren
 $\ln(p)=-k*p+C |*e$
 $p=e^{-k*h+C}=e^{-k*h}*C$
 Und jetzt einsetzen
-p=1013hPae$e^{-h/799}$
+p=1013hPae$e^{-h/7,99}$
 
 **c)**
 1013 durch 2 rechnen
-$\frac{1}{2}*p_{a}$
+$\frac{1}{2}*p_{o}=p_{o}*e^{-h/7,99km} |:p_{o} |*\ln$
+$\ln \frac{1}{2}= -\frac{h}{7,99km}$
+-> h=3,544km
+
+**d)**
+$0,4*po=p_{0}*e$
