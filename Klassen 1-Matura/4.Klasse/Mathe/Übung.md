@@ -19,6 +19,5 @@ Und jetzt einsetzen
 p=1013hPae$e^{-h/799}$
 
 **c)**
-
-
-
+1013 durch 2 rechnen
+$\frac{1}{2}*p_{a}$
