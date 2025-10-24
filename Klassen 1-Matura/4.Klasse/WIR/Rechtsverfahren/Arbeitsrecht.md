@@ -97,7 +97,10 @@ Presentdienstleistung ist wenn man zum bundesheer einberufen wird.
 
 ### VIII
 a) Technische Arbeitnehmerschutz
+Regeln die der AG einhalten muss.  Umso größer der Betrieb, desto mehr regelungen muss es geben. (Mehr Klos, Trinkwasser, Arzt, Hauspsychologe)
+Was wenn der AG das ignoriert? Arbeitsinperktorrat
 
+b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit
 
 ## Kollektiv Arbeits Recht
 
