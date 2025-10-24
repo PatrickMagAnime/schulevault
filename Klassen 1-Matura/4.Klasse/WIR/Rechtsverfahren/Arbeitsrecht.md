@@ -100,7 +100,9 @@ a) Technische Arbeitnehmerschutz
 Regeln die der AG einhalten muss.  Umso größer der Betrieb, desto mehr regelungen muss es geben. (Mehr Klos, Trinkwasser, Arzt, Hauspsychologe)
 Was wenn der AG das ignoriert? Arbeitsinperktorrat
 
-b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit
+b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit 8Stunden und woche 40h
+        es gibt auch eine höchstarbeitszeit. täglich höchst 12stunden und woche 60h
+        es gibt auch eine mindestarbeitszeit. täglich 3-4h und woche 15-20h
 
 ## Kollektiv Arbeits Recht
 
