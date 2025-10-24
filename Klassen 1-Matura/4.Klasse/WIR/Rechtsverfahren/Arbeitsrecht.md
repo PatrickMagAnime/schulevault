@@ -84,6 +84,20 @@ Das muss aber im arbeitsvertrag stehen, sonst müssten alle zustimmen
 
 b) Unbezahlter Urlaub (Karenz Urlaub)
 2 Arten: mit und ohne Rechtsanspruch
+Was ist Karenz Urlaub? Es ist Unbezahlter Urlaub
+
+**mit RA**: AN sagt dem AG wann er ihn Urlaub geht (AN darf entscheiden)
+
+Der Arbeitgeber darf nicht sein sagen. Mutter und Vater dürfen nicht gleichzeitig karenz urlaub nehmen.
+nach dem 3 lebensjahr des kindes geht das nicht mehr.
+
+Presentdienstleistung ist wenn man zum bundesheer einberufen wird.
+
+**ohne RA:** 
+
+### VIII
+a) Technische Arbeitnehmerschutz
+
 
 ## Kollektiv Arbeits Recht
 
