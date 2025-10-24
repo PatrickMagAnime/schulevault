@@ -104,7 +104,9 @@ b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit 8Stunden und woche 
         es gibt auch eine höchstarbeitszeit. täglich höchst 12stunden und woche 60h
         es gibt auch eine mindestarbeitszeit. täglich 3-4h und woche 15-20h
 
-**Überstunden ist die überschreitung der normalarbeitszeit. Es muss im Arbeitsvertrag vereinbart sein!**
+**Überstunden ist die überschreitung der normalarbeitszeit. Es muss im Arbeitsvertrag vereinbart sein und man braucht einen betrieblichen notstand!**
+
+Eine Überstunde gibt dir einen 50% zuschlag
 
 ## Kollektiv Arbeits Recht
 
