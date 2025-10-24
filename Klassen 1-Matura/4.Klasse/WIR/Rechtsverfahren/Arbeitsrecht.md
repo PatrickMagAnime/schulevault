@@ -106,7 +106,9 @@ b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit 8Stunden und woche 
 
 **Überstunden ist die überschreitung der normalarbeitszeit. Es muss im Arbeitsvertrag vereinbart sein und man braucht einen betrieblichen notstand!**
 
-Eine Überstunde gibt dir einen 50% zuschlag
+Eine Überstunde gibt dir einen 50% zuschlag.
+
+ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche eine 3
 
 ## Kollektiv Arbeits Recht
 
