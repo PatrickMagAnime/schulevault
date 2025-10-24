@@ -1,3 +1,3 @@
 [[4.WIR]]
 ___
-Aufgaben sind Alle online und sind Kostenpflichtig
+Aufgaben sind alle online und sind Kostenpflichtig
