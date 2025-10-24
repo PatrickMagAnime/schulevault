@@ -108,7 +108,7 @@ b) Arbeittszeit und Arbeitsrecht AZG, tägliche normalarbeit 8Stunden und woche 
 
 Eine Überstunde gibt dir einen 50% zuschlag.
 
-ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche eine 3
+ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h wochenruhe.
 
 ## Kollektiv Arbeits Recht
 
