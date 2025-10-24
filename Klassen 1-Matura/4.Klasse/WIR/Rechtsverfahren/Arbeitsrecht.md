@@ -73,13 +73,19 @@ Angestellte: sind AN die zur leistung kaufmännischer arbeiten oder zur leistung
 
 ### VII Urlaub
 a) Bezahlter Urlaub (Erhohlungs Urlaub)
-Ein werktag ist ein arbeitstag
+Ein werktag ist ein arbeitstag, keine sonntag und feiertage
 verjährung heist rechtsverlust
 
 **Betriebsurlaub**, heißt das alle im urlaub sind
 Das muss aber im arbeitsvertrag stehen, sonst müssten alle zustimmen
 überwegende teil überwiegender anspruch zum AN zur verfügung bleibt
+
+**Arebitnehmer wird krank:** es melden, maximal 3 tage krankheit werden in den urlaub nicht mit eingerechnet.
+
+b) Unbezahlter Urlaub (Karenz Urlaub)
+2 Arten: mit und ohne Rechtsanspruch
+
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
-Machma nd
+Machma nd 
