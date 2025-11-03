@@ -14,7 +14,7 @@ ___
 6. **…ich kann einen Überblick über den Kriegsverlauf geben.**
      Es geht schnell in den stellngskrieg über. wir haben dann 3 fronten. es ist ein ewiges hin und her und leute sterben um sonst
 7. **…erläutern, weshalb die Schlacht von Verdun zum Symbol für Sinnlosigkeit des Krieges wurde.**
-     
+     es wurde ziemlich schnell zum stellungskrieg, menschen starben sinnlos für wenige quadratmeter land.
 8. **…die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.**
      mittelmächte, und alliierte(andante)
 9. **…Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.**
