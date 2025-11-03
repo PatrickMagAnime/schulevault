@@ -11,3 +11,4 @@ traffic die repetitif sind könnte man herausfiltern, zb hellopakete, update mes
 
 statistiken könnten auch anzeigen ob jemand ein angreifer sein könnte wie zb zugriffe und anomalien.
 
+Tools: WireShark, Zek, Surikata 
