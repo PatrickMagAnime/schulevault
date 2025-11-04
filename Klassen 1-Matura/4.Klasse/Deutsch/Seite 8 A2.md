@@ -1,4 +1,6 @@
-2. Aufgabe 2 — Die drei Arbeitsaufträge (Original, mögliche Paraphrasen, Bewertung + Verbesserung) Originalaufgaben (aus Aufgabe 2):
+[[4.Deutsch]]
+___
+Aufgabe 2 — Die drei Arbeitsaufträge (Original, mögliche Paraphrasen, Bewertung + Verbesserung) Originalaufgaben (aus Aufgabe 2):
 
 - Beschreiben Sie, welche vier Trends sich in der Arbeitswelt der Zukunft abzeichnen werden!
 - Erläutern Sie anhand einer Reihung, welche dieser Trends für Arbeitseinsteigerinnen und -einsteiger von Bedeutung und welche vergleichsweise unbedeutend sein werden!
