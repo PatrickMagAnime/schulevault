@@ -129,6 +129,8 @@ ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h woc
 	- AG->Arb
 	- Arb->AG
 
+AG->Arb
+
 | Dauer | Frist |
 | ----- | ----- |
 | 2J    | 6W    |
@@ -136,10 +138,14 @@ ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h woc
 | 15J   | 3M    |
 | -25J  | 4M    |
 | >25J  | 5M    |
+- Ang->AG
+IMMER 1M Frist wenn der AN Kündigt!
+- AG->Arb
+Hat 14Tage Frist
+- Arb->AG
 
 
 - **Entlassung**
-	selbsterkllärend
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
 ## Kollektiv Arbeits Recht
