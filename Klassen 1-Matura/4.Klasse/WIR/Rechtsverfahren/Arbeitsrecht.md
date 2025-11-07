@@ -152,6 +152,7 @@ Ansprüche des AN bei AG kündigung:
 Urlaubsentlassung
 Kündigungsentschädigung
 Abfertigung: eine belohnung für ein langes dienstverhältniss und keine schulden für mitarbeiter
+asutellung eines dienstzeugnisses:
 - **Entlassung**
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
