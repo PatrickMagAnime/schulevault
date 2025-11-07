@@ -110,6 +110,19 @@ Eine Überstunde gibt dir einen 50% zuschlag.
 
 ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h wochenruhe.
 
+**Beendigung des Dienstverhältnisses**
+- **Aufflösung der befristeten AV**
+	
+- **Auflösung der Probezeitve**reinbart werden, AN und AG kann eif ohne grund auflösen
+	muss separat 
+- **Tod von AN**
+	selbst erklärend
+- **Kündigung**
+	selbsterklärend
+- **Entlassung**
+- 
+- **Vorzeitiger Austritt**
+- **Einvernähmliche auflösung**
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
