@@ -125,7 +125,6 @@ ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h woc
 	- Frist
 	- Termin
 	- AG->Arb
-		- 
 	- Ang->AG
 	- AG->Arb
 	- Arb->AG
