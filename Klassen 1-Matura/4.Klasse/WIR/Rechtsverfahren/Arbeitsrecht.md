@@ -119,7 +119,17 @@ ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h woc
 	selbst erklärend
 - **Kündigung**
 	einseitige empfangsbedürftige willenserklärung des AN oder des AG, mit der das Dienstverhältniss unter einhaltung einer bestimmten frist(kündigungsfrist) zu einem bestimmten termin(kündigungstermin) aufgelöst wird.
-	- 
+	Merke: es gibt keine kündigungs gründe!
+	- einseitig
+	- empfangsbedürftig
+	- Frist
+	- Termin
+	- AG->Arb
+		- 
+	- Ang->AG
+	- AG->Arb
+	- Arb->AG
+
 - **Entlassung**
 	selbsterkllärend
 - **Vorzeitiger Austritt**
