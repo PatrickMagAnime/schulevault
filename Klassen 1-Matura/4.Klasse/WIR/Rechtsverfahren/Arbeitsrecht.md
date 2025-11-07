@@ -147,6 +147,11 @@ auch 14Tage Frist
 
 Kündigungsentschädingug ist ist fiktive weiterlaufende entgelt bis zum frühest möglichen regulären regelungstermin.
 also wenn man zu früh gekündigt wird hat man anspruch auf das entgelt der nächsten monate die man noch frist gehabt hätte
+
+Ansprüche des AN bei AG kündigung: 
+Urlaubsentlassung
+Kündigungsentschädigung
+Abfertigung: eine belohnung für ein langes dienstverhältniss und keine schulden für mitarbeiter
 - **Entlassung**
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
