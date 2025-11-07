@@ -124,8 +124,8 @@ ARG: der AN muss eine 11h ruhepause bekommen. es muss 1mal pro woche min 36h woc
 	- empfangsbedürftig
 	- Frist
 	- Termin
-	- AG->Arb
-	- Ang->AG
+	- AG->AN
+	- AN->AG
 	- AG->Arb
 	- Arb->AG
 
@@ -138,13 +138,15 @@ AG->Arb
 | 15J   | 3M    |
 | -25J  | 4M    |
 | >25J  | 5M    |
-- Ang->AG
+- AN->AG
 IMMER 1M Frist wenn der AN Kündigt!
 - AG->Arb
 Hat 14Tage Frist
-- Arb->AG
+- Arb->Arb
+auch 14Tage Frist
 
-
+Kündigungsentschädingug ist ist fiktive weiterlaufende entgelt bis zum frühest möglichen regulären regelungstermin.
+also wenn man zu früh gekündigt wird hat man anspruch auf das entgelt der nächsten monate die man noch frist gehabt hät
 - **Entlassung**
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
