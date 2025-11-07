@@ -142,7 +142,7 @@ AG->Arb
 IMMER 1M Frist wenn der AN Kündigt!
 - AG->Arb
 Hat 14Tage Frist
-- Arb->Arb
+- Arb->AG
 auch 14Tage Frist
 
 Kündigungsentschädingug ist ist fiktive weiterlaufende entgelt bis zum frühest möglichen regulären regelungstermin.
