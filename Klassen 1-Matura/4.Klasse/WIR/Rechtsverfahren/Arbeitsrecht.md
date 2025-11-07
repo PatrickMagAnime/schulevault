@@ -146,7 +146,7 @@ Hat 14Tage Frist
 auch 14Tage Frist
 
 Kündigungsentschädingug ist ist fiktive weiterlaufende entgelt bis zum frühest möglichen regulären regelungstermin.
-also wenn man zu früh gekündigt wird hat man anspruch auf das entgelt der nächsten monate die man noch frist gehabt hät
+also wenn man zu früh gekündigt wird hat man anspruch auf das entgelt der nächsten monate die man noch frist gehabt hätte
 - **Entlassung**
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
