@@ -7,4 +7,4 @@ schwer, da die diskrete potenz eine einwegfunktion ist.
 
 RSA-Schlüsselproblem
 (n,e)->d
-bestimmte rprivat
+bestimmter private key aus public key.
