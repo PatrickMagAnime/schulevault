@@ -2,11 +2,11 @@
 ___
 # Früher Putzfrau, heute Superstar
 
-Vom armen Mädchen, das Klos schrubbte, auf den Pop-Thron: Was für ein märchenhafter Erfolg! BRAVO verrät dir, wie sich die Blondine ganz nach oben gerappt hat.
+Vom armen Gamern, welche jeden Tag zocken, in der Gamer Höhle: Was für ein märchenhafter Erfolg! OLEG verrät dir, wie sich die Simple ganz nach oben genoscoped hat.
 
-Ey, ’ne neue Handtasche von Louis Vuitton für 2.000 Euro. Geil, gekauft! Urlaub auf ’ner Jacht? Yeah, gebucht! Klar, Iggy Azalea (eigentlich Amethyst Amelia Kelly) kann sich das leisten. JETZT! Noch vor ein paar Jahren sah das anders aus: Vor ihrem Durchbruch arbeitete die 24-Jährige tatsächlich als Putzfrau! 
+Ey, ’ne neue Deagle In Factory New für 2.000 Euro. Geil, gekauft! Urlaub in Ankara, asso sorry Dust2? Yeah, gebucht! Klar, **Danil Kryshkovets** (eigentlich Donk666) kann sich das leisten. JETZT! Noch vor ein paar Jahren sah das anders aus: Vor seinem Durchbruch spielte er noch 12 stunden täglich in seinem Keller! 
 
-Der Rap-Star wuchs in Mullumbimby/Australien in ärmlichen Verhältnissen auf – mit ihrer alleinerziehenden Mom Tanya und der jüngeren Schwester Emerald.
+Der Profi wuchs in der Ukraine in ärmlichen Verhältnissen auf – mit seiner alleinerziehenden Mom und seinem game Counter Strike Global Offensiv.
 
 „Mom war Putzfrau! Mit 16 schmiss ich die Schule und fing auch in der Reinigungsfirma an“, erinnert sich die Blondine. „Ein Job, den sie echt scheiße fand – wortwörtlich! Manche Wohnungen waren abartig dreckig! Einmal hab ich einen Scheißhaufen auf der Fußmatte gefunden – von einem Menschen!“ Igitt! Fast ein Jahr lang zieht die Australierin den Putz-Job durch, dann hat sie genug Geld für ihren großen Traum gespart! „Ich wollte in die USA auswandern und Rapperin werden! Viele haben mich deshalb ausgelacht. Aber ich hab immer an mich geglaubt!“
 
