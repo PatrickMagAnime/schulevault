@@ -6,9 +6,9 @@ Vom armen Gamern, welche jeden Tag zocken, in der Gamer Höhle: Was für ein mä
 
 Ey, ’ne neue Deagle In Factory New für 2.000 Euro. Geil, gekauft! Urlaub in Ankara, asso sorry Dust2? Yeah, gebucht! Klar, **Danil Kryshkovets** (eigentlich Donk666) kann sich das leisten. JETZT! Noch vor ein paar Jahren sah das anders aus: Vor seinem Durchbruch spielte er noch 12 stunden täglich in seinem Keller! 
 
-Der Profi wuchs in der Ukraine in ärmlichen Verhältnissen auf – mit seiner alleinerziehenden Mom und seinem game Counter Strike Global Offensiv.
+Der Profi wuchs in der Ukraine in ärmlichen Verhältnissen auf – mit seiner alleinerziehenden Mom und seinem game Counter Strike Global Offensive.
 
-„Mom war Putzfrau! Mit 16 schmiss ich die Schule und fing auch in der Reinigungsfirma an“, erinnert sich die Blondine. „Ein Job, den sie echt scheiße fand – wortwörtlich! Manche Wohnungen waren abartig dreckig! Einmal hab ich einen Scheißhaufen auf der Fußmatte gefunden – von einem Menschen!“ Igitt! Fast ein Jahr lang zieht die Australierin den Putz-Job durch, dann hat sie genug Geld für ihren großen Traum gespart! „Ich wollte in die USA auswandern und Rapperin werden! Viele haben mich deshalb ausgelacht. Aber ich hab immer an mich geglaubt!“
+Mit 16 schmiss ich die Schule und fing an jeden Tag zu zocken , erinnert sich Simple. „Ein Hobby, welches er echt geil fand – wortwörtlich! Manche Spieler waren abartig schlecht! Einmal hab ich einen Scheißhaufen auf der Fußmatte gefunden – von einem Menschen!“ Igitt! Fast ein Jahr lang zieht die Australierin den Putz-Job durch, dann hat sie genug Geld für ihren großen Traum gespart! „Ich wollte in die USA auswandern und Rapperin werden! Viele haben mich deshalb ausgelacht. Aber ich hab immer an mich geglaubt!“
 
 2006 zieht sie wirklich nach Amerika, tüftelt vier Jahre lang an ihrer Rap-Karriere, lebt von Kellnern und kleinen Model-Aufträgen.  
 2010 lernt sie einen Mitarbeiter der US-Plattenfirma Interscope Records (hier sind unter anderem Eminem und Lady GaGa) kennen, unterschreibt einen Vertrag und zieht nach Los Angeles! 
