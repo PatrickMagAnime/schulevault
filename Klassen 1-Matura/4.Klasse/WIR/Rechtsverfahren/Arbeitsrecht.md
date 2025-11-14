@@ -156,6 +156,24 @@ asutellung eines dienstzeugnisses:
 - **Entlassung**
 - **Vorzeitiger Austritt**
 - **Einvernähmliche auflösung**
+
+
+**Dienstzeugnis:**
+hat man immer Anspruch darauf egal was los ist.
+Dienstzeugnisse müssen immer streng Formal sein.
+
+Daten des Dienstnehmers
+Daten des Dienstgebers
+Dauer(von bis)
+Art der Tätigkeik
+
+**Kündigungsschutz**
+Allgemeinen Kündigungsschutz
+den vergessma
+
+Besonderer Kündigungsschutz
+
+
 ## Kollektiv Arbeits Recht
 
 ## Verfahrensrecht
