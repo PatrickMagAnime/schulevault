@@ -172,6 +172,11 @@ Allgemeinen Kündigungsschutz
 den vergessma
 
 Besonderer Kündigungsschutz
+Betriebsräte
+Mütter bis 4 monate nach der entbindung
+Mütter und Väter
+Präsenz und Zivildiener
+Behinderte
 
 
 ## Kollektiv Arbeits Recht
