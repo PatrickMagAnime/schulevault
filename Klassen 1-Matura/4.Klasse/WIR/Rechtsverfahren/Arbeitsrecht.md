@@ -174,9 +174,15 @@ den vergessma
 Besonderer Kündigungsschutz
 Betriebsräte
 Mütter bis 4 monate nach der entbindung
-Mütter und Väter
+Mütter und Väter bis 4 wochen nach geburt
 Präsenz und Zivildiener
 Behinderte
+Lehrlinge
+
+1. Entlassung
+Die Entlassung ist eine einseitige empfangsbedürftige willenserklärung mit der das Dienstverhältniss aus wichtigen grund mit sofortiger Wirkung aufgelöst wird. kündigung und entlassung sind beide einseitig. unterschied zur kündigung geht die entlassung nur von AG zum AN.
+
+Bedingungen sind ein wichtiger Grund und die entlassung ist soffort(fristlos)
 
 
 ## Kollektiv Arbeits Recht
