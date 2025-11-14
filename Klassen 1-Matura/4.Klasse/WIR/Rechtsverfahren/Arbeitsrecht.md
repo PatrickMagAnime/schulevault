@@ -188,7 +188,7 @@ Bedingungen sind ein wichtiger Grund und die entlassung ist soffort(fristlos)
 1. Vorzeitiger austritt
 Ist die einseite empfangsbedürftige willenserklärung durch en AN, mit dem das Diesnstverhältniss aus wichtigen grund sofort aufgelöst wird
 
-Der ag verletzt siene entgelt pflicht oder fürsorgepflicht
+Der ag verletzt seine entgelt pflicht oder fürsorgepflicht
 
 ## Kollektiv Arbeits Recht
 
