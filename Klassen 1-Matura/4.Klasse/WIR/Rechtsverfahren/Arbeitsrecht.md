@@ -154,7 +154,17 @@ Kündigungsentschädigung
 Abfertigung: eine belohnung für ein langes dienstverhältniss und keine schulden für mitarbeiter
 asutellung eines dienstzeugnisses:
 - **Entlassung**
+1. Entlassung
+Die Entlassung ist eine einseitige empfangsbedürftige willenserklärung mit der das Dienstverhältniss aus wichtigen grund mit sofortiger Wirkung aufgelöst wird. kündigung und entlassung sind beide einseitig. unterschied zur kündigung geht die entlassung nur von AG zum AN.
+
+Bedingungen sind ein wichtiger Grund und die entlassung ist soffort(fristlos)
+
 - **Vorzeitiger Austritt**
+1. Vorzeitiger austritt
+Ist die einseite empfangsbedürftige willenserklärung durch en AN, mit dem das Diesnstverhältniss aus wichtigen grund sofort aufgelöst wird
+
+Der ag verletzt seine entgelt pflicht oder fürsorgepflicht
+
 - **Einvernähmliche auflösung**
 
 
@@ -178,17 +188,6 @@ Mütter und Väter bis 4 wochen nach geburt
 Präsenz und Zivildiener
 Behinderte
 Lehrlinge
-
-1. Entlassung
-Die Entlassung ist eine einseitige empfangsbedürftige willenserklärung mit der das Dienstverhältniss aus wichtigen grund mit sofortiger Wirkung aufgelöst wird. kündigung und entlassung sind beide einseitig. unterschied zur kündigung geht die entlassung nur von AG zum AN.
-
-Bedingungen sind ein wichtiger Grund und die entlassung ist soffort(fristlos)
-
-
-1. Vorzeitiger austritt
-Ist die einseite empfangsbedürftige willenserklärung durch en AN, mit dem das Diesnstverhältniss aus wichtigen grund sofort aufgelöst wird
-
-Der ag verletzt seine entgelt pflicht oder fürsorgepflicht
 
 ## Kollektiv Arbeits Recht
 
