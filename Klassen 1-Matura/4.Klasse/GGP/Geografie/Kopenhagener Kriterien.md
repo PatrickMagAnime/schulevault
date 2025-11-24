@@ -1,6 +1,6 @@
 [[4.GGP]]
 ___
-- Institutionelle Stabilität (demokratie, Rechtsstaat, MR, Minderheiten)
+- Institutionelle Stabilität (Demokratie, Rechtsstaat, MR, Minderheiten)
 - Funktionsfähige Marktwirtschaft, Wettbewerbsfähigkeit
 - Verpflichtungen übernehmen
 - Ziele der Wirtschafts und Währungsunion
