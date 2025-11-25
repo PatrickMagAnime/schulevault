@@ -29,23 +29,20 @@ Nur manchmal. Oft klingt es eher wie eine Marketing-Strategie, nicht wie echte N
 - nimmt Distanz, die manchmal wichtig ist
 ## **Aufgabe 17 – Richtige Wörter
 
-**Zeilen 28–29 – passende Wörter:**
+- sich plump-vertraulich an jemanden heranmachen: 
+    **die _Anmache_**
+- veraltetes Adjektiv für „erhaben, feierlich“:
+    **ein _hehres_ Ziel**
+- veralteter Ausdruck für Zweifel/Verdacht:  
+    **Argwohn hegen**
+- gehobener Ausdruck für „hinterhältig, hinterlistig“:  
+    **hinterhältig -> _tückisch_**  
+- Unterhaltung, Belustigung: zum … aller
+    **zum _Gaudium_ aller**
+- gehobener Ausdruck für „darstellen, schauspielern“:
+    **mimen**
+- gehobener Ausdruck für „Liebreiz“:
+    **die _Anmut_**
 
-1. **plump-vertraulich an jemanden heranmachen:** _anhimmeln_
-    
-2. **veraltetes Adjektiv für „erhaben, feierlich“:** _erhaben_
-    
-3. **veralteter Ausdruck für Zweifel/Verdacht:** _Argwohn_
-    
-4. **gehobener Ausdruck für „hinterhältig“:** _hinterlistig_
-    
-5. **Unterhaltung, Belustigung:** _Belustigung_
-    
-6. **gehobener Ausdruck für „darstellen, schauspielern“:** _mimen_
-    
-7. **gehobener Ausdruck für „Liebkreis“:** _Liebkreis_
-    
-
----
 
 Wenn du willst, mach ich dir auch **Aufgabe 15b (mündliche Zusammenfassung als Text)** fertig.
