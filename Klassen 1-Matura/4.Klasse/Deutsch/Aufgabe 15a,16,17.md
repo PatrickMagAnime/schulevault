@@ -32,7 +32,7 @@ Nur manchmal. Oft klingt es eher wie eine Marketing-Strategie, nicht wie echte N
 - sich plump-vertraulich an jemanden heranmachen: 
     **die _Anmache_**
 - veraltetes Adjektiv für „erhaben, feierlich“:
-    **ein _hehres_ Ziel**
+    **ein hehres Ziel**
 - veralteter Ausdruck für Zweifel/Verdacht:  
     **Argwohn hegen**
 - gehobener Ausdruck für „hinterhältig, hinterlistig“:  
@@ -42,4 +42,4 @@ Nur manchmal. Oft klingt es eher wie eine Marketing-Strategie, nicht wie echte N
 - gehobener Ausdruck für „darstellen, schauspielern“:
     **mimen**
 - gehobener Ausdruck für „Liebreiz“:
-    **die _Anmut_**
+    **die Anmut**
