@@ -17,4 +17,5 @@ $y(t)=(C_{1}+C_{2}*t)*e^{-dt}$
 entsteht durch Grenzübergang wd->0 oder $T_{d}$ -> $\infty$
 Fuktion für $t>\infty$ hat max eine Nullstelle oder ein Extrenum
 ___
-
+![[Pasted image 20251126110556.png]]
+**a)**
