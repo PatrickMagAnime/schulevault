@@ -19,3 +19,14 @@ Fuktion für $t>\infty$ hat max eine Nullstelle oder ein Extrenum
 ___
 ![[Pasted image 20251126110556.png]]
 **a)**
+
+___
+![[Pasted image 20251126112423.png]]
+**a)**
+$\lambda^{2}+4\lambda+85=0$
+Mitternachtsformel:
+$\lambda_{1,2}=-2\pm9j$
+
+Lösung:
+$y(t)=e^{-2t}[_{1}\cos(9t)+C_{2}\sin(9t)]$
+
