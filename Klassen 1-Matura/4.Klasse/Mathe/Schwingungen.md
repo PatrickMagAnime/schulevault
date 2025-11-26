@@ -29,4 +29,5 @@ $\lambda_{1,2}=-2\pm9j$
 
 Lösung:
 $y(t)=e^{-2t}[_{1}\cos(9t)+C_{2}\sin(9t)]$
+jz eif in alle t 0 einsetzen
 
