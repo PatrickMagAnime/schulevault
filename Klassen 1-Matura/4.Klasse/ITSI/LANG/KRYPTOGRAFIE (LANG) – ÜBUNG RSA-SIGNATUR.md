@@ -26,11 +26,12 @@ ___
 Oskar möchte Alices Signatur irgendeiner Nachricht m unterschieben, d. h. er will ohne Alices Mitwirkung eine gültige Signatur dieser Nachricht erzeugen. Oskar kennt nur Alices public key e (und natürlich den Modulus n), nicht aber ihren private key d. Wie muss Oskar vorgehen?
 
 a) Sei n = 10 der Modulus und e = 7 Alices public key. Oskar wählt s = 2. Wie muss er die Nachricht m festlegen, damit s wie eine gültige Signatur von m aussieht (d. h. so, als hätte Alice m mit ihrem private key d signiert)?
-
+![[Pasted image 20251201094459.png]]
 b) Warum funktioniert dieser Angriff?
+![[Pasted image 20251201094518.png]]
 
 c) Wie muss man die RSA-Signatur anpassen, damit dieser Angriff nicht mehr funktioniert?
-
+![[Pasted image 20251201094709.png]]
 ---
 
 ## AUFGABE 2: VORBEREITUNG CHOSEN MESSAGE ATTACK
