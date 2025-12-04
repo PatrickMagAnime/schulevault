@@ -1,409 +1,422 @@
-___
-### W 1.1: Gründe für Projekte analysieren
-- Welche der Gründe sprechen für die Durchführung von Projekten im Betrieb?
-  - Anmerkung: Die folgenden Zeilen scheinen die Gründe zu sein, die für Projekte sprechen, obwohl die Formatierung unklar ist:
-    - „Projekte lösen Alltagsprobleme“
-    - „Die zu lösenden Aufgaben werden komplexer“
-    - „Innovation, können in Projekten leichter bewältigt werden“
+# Projektmanagement Wissen
 
-- Projekte lösen komplexe, nicht-routine Aufgaben.
-- Sie ermöglichen gezielte Innovation und Veränderung.
-- Projekte bündeln Ressourcen für klar definierte Ziele.
-### W 1.2: Merkmale von Projekten
-- Warum sind Projekte keine Routineaufgaben?
-- Welche Merkmale kennzeichnen Projekte?
-- Projekte sind einmalig, haben definierten Anfang und Ende und spezifische Ziele — deshalb keine Routine.
-- Typische Merkmale: Einmaligkeit, Zielorientierung, begrenzte Ressourcen, Zeitbegrenzung, spezifische Organisation und Unsicherheit.
-### W 1.3: Projektphasen
-- Auf welche Rahmenbedingungen eines Projekts ist zu achten?
-- Welche Phasen besitzt ein Projekt?
-- Welchen Zweck hat die Unterteilung in Projektphasen?
-- Welche Dokumente entstehen in den einzelnen Phasen?
-- Was sind Querschnittsaufgaben in Projekten? Nennen Sie einige Beispiele.
-- Rahmenbedingungen: Ziele, Budget, Zeit, Qualität, Stakeholder, rechtliche Vorgaben und Ressourcen.
-- Phasen: Initiierung/Vorstudie, Planung, Durchführung/Umsetzung, Überwachung/Controlling, Abschluss.
-- Zweck der Phasengliederung: Steuerung, Kontrolle, Reduktion von Komplexität und klare Entscheidungszeitpunkte.
-- Typische Dokumente: Projektauftrag, Projektplan, Pflichtenheft, Statusberichte, Protokolle, Abnahme- und Abschlussdokumente.
-- Querschnittsaufgaben: Kommunikation, Qualitätsmanagement, Risikomanagement, Controlling, Dokumentation.
-### W 1.4: Meilensteine
-- Definieren Sie den Begriff Meilenstein.
-- Welchen Zweck erfüllen Meilensteine?
-- Meilenstein: Ein überprüfbarer, zeitlicher Ereignispunkt ohne Dauer (z. B. Abnahme eines Ergebnisses).
-- Zweck: Strukturierung, Kontrolle, Abnahme- und Entscheidungszeitpunkte.
-### W 1.5: Projektarten
-- Nach welchen Kriterien (Merkmalen) können Projekte klassifiziert werden?
-- Klassifikation nach Größe, Dauer, Komplexität, Branche, Zielsetzung (Innovation vs. Routine), Risiko, Budget und strategischer Bedeutung.
-### W 1.6: Strategische Ausrichtung von Projekten
-- Betrachtet man Projekte nach ihrer strategischen Ausrichtung, so lassen sie sich in zwei Projektklassen einteilen. Nennen Sie die zwei Klassen sowie die Merkmale, nach denen diese Einteilung erfolgt.
-- Zwei Klassen: Strategische Projekte (hoher Beitrag zur Strategie, langfristig, risikoreich) und operative/operative Projekte (kurzfristige Effizienz-/Verbesserungsprojekte).
-- Merkmale: Strategiebeitrag, Zeithorizont, Ressourcenbedarf und Risiko.
-### W 1.7: Multiprojektmanagement
-- Nennen Sie die Aktivitäten, die im Mittelpunkt des Multiprojektmanagements stehen.
-- Priorisierung von Projekten, Ressourcenallokation, Kapazitätsplanung, Monitoring, Reporting und Governance.
-### W 1.8: Projektportfolio
-- Erklären Sie den Begriff des Projektportfolios.
-- Projektportfolio = Gesamtheit aller Projekte/Programme eines Unternehmens, strategisch abgestimmt und priorisiert.
-### W 1.9: Begriffe des Multiprojektmanagements
-- Stellen Sie die Begriffe Projektmanagement, Programm-Management und Projektportfolio-Management gegenüber. Wo liegen Ähnlichkeiten, wo die Unterschiede?
-- Projektmanagement: Steuerung einzelner Projekte.
-- Programm-Management: Koordination zusammenhängender Projekte zur Nutzenrealisierung.
-- Portfolio-Management: Strategische Auswahl und Priorisierung aller Projekte.
-- Gemeinsamkeiten: Steuerung und Ressourcenmanagement; Unterschiede: Ebene, Zeithorizont und strategischer Fokus.
-### W 1.10: Bewertung von Projekten und Programmen
-- Nach welchen Kriterien erfolgen Bewertung und Ranking von Projekten und Programmen in einem Projektportfolio?
-- Kriterien: Strategischer Nutzen, Wirtschaftlichkeit/ROI, Risiko, Ressourcenbedarf, Machbarkeit, Dringlichkeit und Synergien.
-### W 1.11: Lenkungsausschuss
-- Welche Aufgaben hat der Lenkungsausschuss?
-- Welche Interessengruppen können im Lenkungsausschuss vertreten sein?
-- Aufgaben: Entscheidungen über Freigaben, Prioritäten, Budget und Eskalationen; strategische Überwachung.
-- Vertreter: Geschäftsführung, Auftraggeber, Fachbereichsleiter, Finanzvertreter, ggf. externe Stakeholder.
-### W 1.12: Projektmanagement-Office
-- Welche Aufgaben kann ein Projektmanagement-Office übernehmen?
-- PMO-Aufgaben: Methoden- und Prozess-Standardisierung, Reporting/Controlling-Unterstützung, Tool-Bereitstellung, Training und Governance.
-### W 1.13: Projektmanager-Kreis
-- Welche Funktionen kann ein Projektmanager-Kreis übernehmen?
-- Funktionen: Erfahrungsaustausch, Reviews, Koordination von Standards, Mentoring und Förderung von Best Practices.
+## 📚 1. Grundlagen und Projektarten
+
+Welche der Gründe sprechen für die Durchführung von Projekten im Betrieb?
+	*   **Lösung komplexer Probleme:** Aufgaben sind zu umfangreich für das Tagesgeschäft.
+	*   **Innovation:** Einführung neuer Produkte oder Prozesse erfordert fokussierte Ressourcen.
+	*   **Interdisziplinarität:** Zusammenarbeit über Abteilungsgrenzen hinweg ist notwendig.
+	*   **Risikominimierung:** Einmalige, riskante Vorhaben werden kontrollierbar gemacht.
+
+Warum sind Projekte keine Routineaufgaben?
+	Routineaufgaben sind wiederkehrend, standardisiert und oft zeitlich unbegrenzt. Projekte hingegen sind einmalig, neuartig und haben einen definierten Anfang und ein definiertes Ende.
+
+Welche Merkmale kennzeichnen Projekte?
+	1.  **Zielvorgabe:** Es gibt ein definiertes Sach-, Termin- und Kostenziel.
+	2.  **Zeitliche Begrenzung:** Klarer Start- und Endtermin.
+	3.  **Neuartigkeit:** Das Vorhaben wurde so noch nicht durchgeführt.
+	4.  **Komplexität:** Vielschichtige Zusammenhänge und Abhängigkeiten.
+	5.  **Ressourcenbegrenzung:** Budget und Personal sind limitiert.
+	6.  **Projektorganisation:** Eine eigene Organisationsstruktur temporär für das Projekt.
+
+Auf welche Rahmenbedingungen eines Projekts ist zu achten?
+	Man achtet auf das "Magische Dreieck" des Projektmanagements:
+	*   **Leistung/Qualität** (Was soll erreicht werden?)
+	*   **Zeit** (Wann muss es fertig sein?)
+	*   **Kosten/Ressourcen** (Wie viel darf es kosten?)
+	Zusätzlich: Stakeholder-Interessen, rechtliche Vorgaben und Unternehmensstrategie.
+
+Welche Phasen besitzt ein Projekt? (Klassisches Modell)
+	1.  **Initialisierung / Definition**
+	2.  **Planung**
+	3.  **Durchführung / Steuerung**
+	4.  **Abschluss**
+
+Welchen Zweck hat die Unterteilung in Projektphasen?
+	Die Phasen schaffen Übersichtlichkeit, ermöglichen das Setzen von Meilensteinen (Review-Punkten) und reduzieren das Risiko, da nach jeder Phase entschieden werden kann, ob das Projekt fortgeführt wird.
+
+Welche Dokumente entstehen in den einzelnen Phasen?
+	*   **Initialisierung:** Projektauftrag, Grobziele, Stakeholder-Analyse.
+	*   **Planung:** Projektstrukturplan, Zeitplan (Gantt), Kostenplan, Ressourcenplan, Risikoanalyse.
+	*   **Durchführung:** Statusberichte, Protokolle, Änderungensanträge (Change Requests).
+	*   **Abschluss:** Projektabschlussbericht, Abnahmeprotokoll, Lessons Learned.
+
+Was sind Querschnittsaufgaben in Projekten? Nennen Sie einige Beispiele.
+	Aufgaben, die phasenübergreifend während der gesamten Projektlaufzeit stattfinden.
+	*   Risikomanagement
+	*   Qualitätsmanagement
+	*   Projektcontrolling
+	*   Dokumentation
+	*   Führung & Kommunikation
+
+Definieren Sie den Begriff Meilenstein.
+	Ein Meilenstein ist ein Ereignis von besonderer Bedeutung im Projektverlauf. Er hat eine Dauer von 0 (Zeitpunkt) und markiert oft das Ende einer Phase oder die Fertigstellung eines wichtigen Liefergegenstandes.
+
+Welchen Zweck erfüllen Meilensteine?
+	Sie dienen als Entscheidungspunkte (Go/No-Go), zur Überprüfung des Fortschritts und zur Motivation des Teams durch Teilerfolge.
+
+Nach welchen Kriterien (Merkmalen) können Projekte klassifiziert werden?
+	*   **Inhalt:** F&E-Projekte, IT-Projekte, Bauprojekte, Organisationsprojekte.
+	*   **Auftraggeber:** Interne vs. Externe Projekte.
+	*   **Größe/Umfang:** Klein-, Mittel-, Großprojekte.
+	*   **Reichweite:** National vs. International.
+
+Betrachtet man Projekte nach ihrer strategischen Ausrichtung, so lassen sie sich in zwei Projektklassen einteilen.
+	1.  **Strategische Projekte (Investitionsprojekte):** Sichern die langfristige Zukunft und Wettbewerbsfähigkeit (z.B. Erschließung neuer Märkte).
+	2.  **Rationalisierungsprojekte / Operative Projekte:** Zielen auf Effizienzsteigerung und Kostensenkung ab.
+
+Nennen Sie die Aktivitäten, die im Mittelpunkt des Multiprojektmanagements stehen.
+	*   Ressourcenverteilung über mehrere Projekte hinweg.
+	*   Ausnutzung von Synergien zwischen Projekten.
+	*   Priorisierung von Projekten bei Ressourcenkonflikten.
+	*   Standardisierung von PM-Methoden im Unternehmen.
+
+Erklären Sie den Begriff des Projektportfolios.
+	Das Projektportfolio ist die Gesamtheit aller Projekte eines Unternehmens oder eines Geschäftsbereichs. Es wird betrachtet, um die strategischen Ziele des Unternehmens optimal zu erreichen.
+
+Stellen Sie die Begriffe Projektmanagement, Programm-Management und Projektportfolio-Management gegenüber.
+	*   **Projektmanagement:** Führung eines einzelnen Projekts zur Erreichung definierter Ziele.
+	*   **Programm-Management:** Koordination mehrerer *inhaltlich zusammenhängender* Projekte (ein "Programm"), um ein übergeordnetes strategisches Ziel zu erreichen.
+	*   **Portfoliomanagement:** Steuerung *aller* Projekte (auch inhaltlich unabhängiger) zur strategischen Ausrichtung und Ressourcenoptimierung des gesamten Unternehmens.
+
+Nach welchen Kriterien erfolgen Bewertung und Ranking von Projekten und Programmen in einem Projektportfolio?
+	*   Strategischer Beitrag (Fit zur Unternehmensstrategie).
+	*   Wirtschaftlichkeit (ROI, Kapitalwert).
+	*   Risiko.
+	*   Dringlichkeit / Gesetzliche Notwendigkeit.
+	*   Verfügbarkeit von Ressourcen.
+
+Welche Aufgaben hat der Lenkungsausschuss?
+	Er ist das oberste Entscheidungsgremium eines Projekts. Er genehmigt Phasenübergänge, entscheidet über Budgeterhöhungen oder große Änderungen, löst Konflikte, die der Projektleiter nicht lösen kann, und entlastet den Projektleiter.
+
+Welche Interessengruppen können im Lenkungsausschuss vertreten sein?
+	*   Auftraggeber (Sponsor).
+	*   Vertreter der Unternehmensleitung.
+	*   Leiter der betroffenen Fachabteilungen (Ressourcensteller).
+	*   Ggf. Vertreter des Betriebsrats oder externer Partner.
+
+Welche Aufgaben kann ein Projektmanagement-Office (PMO) übernehmen?
+	*   Bereitstellung von Standards, Vorlagen und Methoden.
+	*   Schulung und Coaching von Projektleitern.
+	*   Multiprojekt-Reporting und Konsolidierung von Daten.
+	*   Unterstützung bei der Ressourcenplanung.
+	*   Manchmal: Direkte Zuweisung von Projektleitern.
+
+Welche Funktionen kann ein Projektmanager-Kreis übernehmen?
+	Ein Forum für den Erfahrungsaustausch (Best Practices, Lessons Learned), gegenseitige Unterstützung (Kollegiale Beratung) und Weiterentwicklung der PM-Standards im Unternehmen.
+
 ---
-### W 1.13: Aufgaben des Projektmanagers
-- Erklären Sie, welche Hauptaufgaben der Projektmanager im Rahmen eines Projekts hat.
-- Hauptaufgaben: Planung, Steuerung, Organisation, Ressourcenmanagement, Führung, Risiko- und Qualitätsmanagement sowie Stakeholder-Kommunikation.
-### W 1.14: Aufgaben zu Phasenbeginn
-- Erklären Sie, welche Aufgaben der Projektmanager zu Beginn jeder neuen Phase hat.
-- Aufgaben: Review der Vorphase, Zielklärung, Ressourcenplanung, Risikoreview, Festlegung von Meilensteinen und Kick-off der neuen Phase.
-### W 1.15: Zertifizierung
-- Erklären Sie allgemein den Begriff der Zertifizierung.
-- Zertifizierung: Formaler Nachweis, dass Person/Organisation bestimmte Standards oder Kompetenzen erfüllt (durch Prüfung oder Audit).
-### W 1.16: Projektmanagement-Institutionen
-- Beschreiben Sie die wichtigsten weltweit agierenden Projektmanagement-Institutionen (Abkürzung, Bezeichnung und Sitz).
-- Beispiele: PMI (Project Management Institute, USA), IPMA (International Project Management Association, international/Sitz Schweiz), APM (Association for Project Management, UK).
-### W 1.17: Leitlinien für das Projektmanagement
-- In welchen grundlegenden Publikationen der Projektmanagement-Institutionen ist die Wissensbasis für die Zertifikationen im Projektmanagement niedergeschrieben?
-- Geben Sie einen kurzen Überblick über den inhaltlichen Aufbau dieser Publikationen.
-- Wichtige Publikationen: PMBOK Guide (PMI), ICB (IPMA), PRINCE2 Guide.
-- Aufbau: Prozessgruppen, Wissensgebiete (z. B. Kosten, Zeit, Risiko, Qualität), Rollen und Kompetenzen.
-### W 1.18: Projektmanagement-Institutionen in Österreich
-- Wie sind in Österreich das PMI und die IPMA vertreten? Beschreiben Sie die jeweiligen Einrichtungen.
-- Vertretung: Lokale Chapters und Mitgliedsorganisationen (z. B. PMI Austria, nationale IPMA-Organisationen), bieten Events, Zertifizierungsvorbereitung und Netzwerke.
-### W 1.19: Vorteile durch Zertifizierung
-- Erklären Sie, welche Vorteile von einer Zertifizierung im Projektmanagement erwartet werden.
-- Vorteile: Nachweis von Kompetenzen, bessere Karrierechancen, standardisierte Methodenkenntnis, erhöhte Arbeitgeber- und Kundenvertrauenswürdigkeit.
-### W 1.20: PMI-Zertifikate
-- Welche Zertifikate können beim PMI erworben werden? Beschreiben Sie Voraussetzungen und Anforderungen.
-- Typische PMI-Zertifikate: CAPM (Einsteiger), PMP (erfahrener Projektmanager), PgMP (Programmmanager). Voraussetzungen variieren: Ausbildung und Berufserfahrung, Prüfung und Weiterbildungsanforderungen (PDUs).
-### W 1.21: IPMA-Zertifikate
-- Welche Zertifikate können beim IPMA erworben werden? Beschreiben Sie Voraussetzungen und Anforderungen.
-- IPMA vergibt Level D–A (D = Associate, C = Project Manager, B = Senior PM, A = Projektdirektor) mit steigenden Anforderungen an Projekterfahrung und Assessment/Prüfung.
-### W 1.22: PRINCE2
-- Was ist PRINCE2?
-- Welche Zertifikate können zu PRINCE2 erworben werden?
-- PRINCE2: Prozessorientierte Methode aus Großbritannien mit definierten Rollen, Prozessen und Produkten.
-- Zertifikate: PRINCE2 Foundation und PRINCE2 Practitioner.
-### W 2.1: Kreativitätstechniken – Überblick
-- Welche Kreativitätstechniken kennen Sie? Beschreiben Sie diese.
-- Beispiele: Brainstorming (ideensammlung), 6-3-5 (strukturierte Ideengenerierung), Mindmapping (visuelle Vernetzung), Morphologischer Kasten (systematische Kombination), Delphi (iterative Expertenbefragung), SCAMPER.
-### W 2.2: Anwendungsbereiche für Kreativitätstechniken
-- Zu welchem Zweck werden Kreativitätstechniken eingesetzt?
-- Zweck: Ideenfindung, Problemlösung, Innovationsförderung, Variantenbildung.
-### W 2.3: Ablauf von Kreativ-Sitzungen
-- Beschreiben Sie den Ablauf von:
-  - Brainstorming
-  - Methode 6-3-5
-  - Morphologischer Kasten
-  - Mindmapping
-  - Delphi-Methode
-- Brainstorming: Offene Ideensammlung ohne Bewertung; Moderator schreibt mit; danach Clustern und Bewertung.
-- Methode 6-3-5: Sechs Teilnehmer notieren in 5 Runden jeweils 3 Ideen pro Runde; Ideen werden weitergegeben und ergänzt; Auswertung anschliessend.
-- Morphologischer Kasten: Zerlegung eines Problems in Parameter und Ausprägungen, systematische Kombination und Bewertung der Varianten.
-- Mindmapping: Visuelle Darstellung einer Kernidee mit Verzweigungen für Unterthemen zur Strukturierung von Gedanken.
-- Delphi-Methode: Mehrstufige, anonyme Expertenbefragung mit Feedbackrunden zur Konsensbildung oder Schätzung.
-### W 2.4: Projektantrag
-- Welche Punkte enthält der Projektantrag?
-- Projektantrag enthält: Projektziel, Hintergrund, Grobumfang, erwarteter Nutzen, grobe Budget- und Zeitrahmen, Stakeholder, Risiken und einen Entscheidungsantrag an den Auftraggeber.
-### W 2.5: Vorstudie
-- Welche Fragen sind im Rahmen der Vorstudie zu klären?
-- Beschreiben Sie die Techniken und Methoden, die im Rahmen der Vorstudie eingesetzt werden können.
-- In der Vorstudie klären: Zielklarheit, Markt- oder Bedarfslage, technische und wirtschaftliche Machbarkeit, Ressourcenbedarf, Risiken und Alternativen.
-- Methoden: SWOT-Analyse, Stakeholderanalyse, Interviews, Grobkalkulation, Prototyping, Marktrecherche.
-### W 2.6: Machbarkeitsstudie
-- Welche Rolle spielt die Machbarkeitsstudie? Welche Aussagen werden von ihr erwartet?
-- Machbarkeitsstudie prüft technische, wirtschaftliche und organisatorische Durchführbarkeit; liefert Empfehlung, Aufwandsschätzung, Zeitrahmen und Hauptrisiken für die Entscheidungsfindung.
-### W 2.7: Variantenbildung
-- Worin besteht die Variantenbildung? An welchen Schritten wird sie durchgeführt?
-- Variantenbildung: Erarbeitung mehrerer Lösungsoptionen; Schritte: Anforderungen definieren, Varianten entwickeln, nach Kriterien (Kosten, Nutzen, Risiko) bewerten, Entscheidung treffen.
-### W 2.8: SWOT-Analyse
-- Beschreiben Sie den Aufbau der 4-Felder-Matrix für die SWOT-Analyse.
-- Aufbau: Vier Felder: Stärken (intern), Schwächen (intern), Chancen (extern), Risiken/Threats (extern). Ziel: Ableitung von Strategien zum Nutzung der Stärken und Minimierung der Schwächen unter Berücksichtigung externer Chancen und Risiken.
-### W 2.9: Zielkategorien
-- In welchen Kategorien können Projektziele gesetzt werden? Nennen Sie Beispiele zu jeder Kategorie.
-- Zielkategorien: Sachziele (z. B. Funktionalität eines Produkts), Qualitätsziele (z. B. Fehlerfreiheit), Terminziel (z. B. Fertigstellungstermin), Kostenziel (z. B. Budgetlimit), Nachhaltigkeits-/Compliance-Ziele (z. B. DSGVO-Konformität).
-### W 2.10: Richtig formulierte Ziele
-- Durch welche Merkmale zeichnet sich eine gute Zielsetzung aus? Beschreiben Sie die Kriterien für eine gute Zielsetzung.
-- Kriterien: SMART — Spezifisch, Messbar, Akzeptiert, Realistisch, Terminiert; Ziele müssen klar, überprüfbar und erreichbar formuliert sein.
-### W 2.11: Bedeutung von Zielen für das Projektmanagement
-- Erklären Sie, welche Aufgaben Ziele im Projektmanagement erfüllen.
-- Ziele dienen als Orientierung für Planung und Steuerung, sind Grundlage für Entscheidungen, Erfolgsmessung und Motivation der Beteiligten.
-### W 2.12: Ziele in Projekten
-- Beschreiben Sie allgemein den Unterschied zwischen Vorgehenszielen und Ergebnissenzielen.
-- Erklären Sie den Unterschied anhand von Beispielen.
-- Vorgehensziele beschreiben Prozesse oder Arbeitsweisen (z. B. wöchentliche Reviews). Ergebnissenziele beschreiben das gewünschte Ergebnis (z. B. Produktlieferung bis Datum X).
-### W 2.13: Zielhierarchie
-- Was versteht man unter der Zielhierarchie? Wie ist sie aufgebaut?
-- Zielhierarchie: Ordnung der Ziele von strategischen Unternehmenszielen über Programm-/Projektziele bis zu operativen Arbeitspaket-Zielen; zeigt Beitragsebenen und Abhängigkeiten.
-### W 2.14: Zielbeziehungen
-- In welcher Beziehung können Zielpaare zueinander stehen? Erklären Sie die verschiedenen Beziehungen anhand von Beispielen.
-- Beziehungen: komplementär (beide Ziele unterstützen sich), konkurrierend (z. B. Kosten senken vs. Qualität erhöhen), indifferent (keine Wechselwirkung). Beispiel: Mehr Features vs. Einhaltung des Budgets kann konkurrieren.
-### W 2.15: Zielvereinbarung
-- In welchen Aspekten/Begriffen soll die Zielvereinbarung beschrieben werden?
-- Erklären Sie die Bedeutung dieser Zielvereinbarung im Rahmen von Projekten.
-- Aspekte: Zielinhalt, Messkriterium, Zeitraum/Deadline, Verantwortlicher, Ressourcen, Abnahmekriterien.
-- Bedeutung: Schafft Verbindlichkeit, Transparenz, Messbarkeit und Grundlage für Bewertung und Steuerung.
-### W 2.16: Projektumwelten
-- In welche Umwelten ist das System Projekt eingebettet? Nennen Sie die Umweltformen sowie konkrete Beispiele dazu.
-- Umweltformen: technisch (z. B. Plattformen), ökonomisch/marktlich (z. B. Nachfrage), rechtlich (z. B. Gesetze/Regulierungen), sozial/kulturell (z. B. Stakeholder-Erwartungen), ökologisch (z. B. Umweltauflagen).
-### W 2.17: Projektabgrenzung
-- Erklären Sie, wozu eine Projektabgrenzung durchgeführt wird.
-- Zweck: Festlegung des Projektumfangs, Vermeidung von Scope-Creep, Klärung von Schnittstellen und Verantwortlichkeiten.
-### W 2.18: Abgrenzung von Projekten
-- Hinsichtlich welcher Dimensionen können Projekte abgegrenzt werden? Nennen Sie Beispiele.
-- Dimensionen: zeitlich, räumlich, fachlich, organisatorisch, budgetär. Beispiel: Projekt gilt nur für Standort A, nicht für B.
-### W 2.19: Kontextanalyse
-- Welchen Zweck hat die Kontextanalyse? Erklären Sie auch den Begriff Kontext.
-- Zweck: Analyse interner und externer Einflussfaktoren zur Identifikation von Chancen und Risiken; Kontext = Umfeld und Rahmenbedingungen, die das Projekt beeinflussen.
-### W 2.20: Kontextanalyse (Aspekte)
-- Welche Aspekte des Projektumfelds werden im Rahmen der Kontextanalyse beachtet? Veranschaulichen Sie jeden Aspekt anhand eines konkreten Beispiels.
-- Politisch/rechtlich (z. B. DSGVO), wirtschaftlich (z. B. Budgetkürzungen), technisch (z. B. Plattformwechsel), sozial/kulturell (z. B. Nutzerakzeptanz), ökologisch (z. B. Emissionsauflagen).
-### W 2.21: Stakeholder
-- Wann werden Personen oder Personengruppen als Stakeholder bezeichnet?
-- Personen/Gruppen sind Stakeholder, wenn sie Interessen am Projekt haben, von Ergebnissen betroffen sind oder Einfluss ausüben können.
-### W 2.22: Arten von Stakeholdern
-- Nach welchen Gesichtspunkten können Stakeholder differenziert werden? Nennen Sie Beispiele für die unterschiedlichen Arten von Stakeholdern.
-- Differenzierung nach Einfluss/Macht, Interesse, Nähe zum Projekt. Beispiele: Auftraggeber, Nutzer, Lieferanten, Behörden, Öffentlichkeit.
-### W 2.23: Stakeholderanalyse
-- Beschreiben Sie die Schritte der Stakeholderanalyse. Nennen Sie die Ergebnisse jedes Schrittes.
-- Schritte: Identifikation (Stakeholderliste), Analyse (Interessen, Einfluss), Mapping/Priorisierung (z. B. Macht-Interesse-Matrix), Maßnahmenplanung (Kommunikations- und Einbindungsstrategien). Ergebnisse: Stakeholderkarte, Maßnahmenplan.
-### W 2.24: Darstellung des Projektumfelds
-- In welcher Form können die Beziehungen zwischen Projekt und Umfeld grafisch dargestellt werden? Erstellen Sie eine Skizze anhand eines einfachen Beispiels.
-- Darstellung: Kontextdiagramm, Stakeholder-Map, Systemdiagramm. Beispiel (Skizze im Kopf): Projektzentrum mit Pfeilen zu Kunde, Lieferant, Regulierungsstelle und internen Abteilungen.
-### W 2.25: Steuerung des Projektumfelds
-- In welcher Weise kann die Steuerung des Projektumfelds erfolgen? Nennen Sie auch konkrete Maßnahmen.
-- Steuerung durch Stakeholdermanagement: regelmäßige Kommunikation, Einbindung, Workshops, Vertragsgestaltung. Maßnahmen: Reports, Stakeholder-Workshops, Eskalationswege, Vertragsklauseln.
-### W 2.26: Zeitpunkt des Projektauftrags
-- In welcher Phase im Projektverlauf soll der Projektauftrag positioniert sein?
-- Der Projektauftrag wird typischerweise nach Abschluss der Vorstudie und vor der detaillierten Planung formell erteilt (am Übergang zur Planungs-/Startphase).
-### W 2.27: Bedeutung des Projektauftrags
-- Beschreiben Sie die Bedeutung des Projektauftrags in einem Projekt. Erklären Sie seine notwendigen Bestandteile.
-- Bedeutung: Formalisiert Ziele, Umfang, Budgetrahmen, Zeitrahmen und Auftraggeber; bildet die Grundlage für Autorisierung und Ressourcenbereitstellung.
-- Bestandteile: Zielbeschreibung, Umfang, Budgetrahmen, grobe Zeitplanung, Auftraggeber, wichtigste Rahmenbedingungen und Genehmigungen.
-### W 2.28: Freigaben
-- Was sind Freigaben? Welche Bedeutung haben sie für Auftraggeber bzw. Projektteam? Nennen Sie konkrete Beispiele für mögliche Freigaben.
-- Freigaben sind formale Zustimmungen (z. B. Budgetfreigabe, Meilensteinfreigabe, Produktabnahme), die eine Fortsetzung oder Nutzung von Mitteln erlauben. Beispiele: Meilenstein-Abnahme, Go-Live-Freigabe.
-### W 2.29: Budget und Ressourcen
-- Erklären Sie, warum der Punkt Budget und Ressourcen im Projektauftrag besonders wichtig ist.
-- Budget und Ressourcen bestimmen Machbarkeit und Umfang; ohne klare Zuweisung entstehen Planungsunsicherheit, Verzögerungen und Konflikte.
-### W 2.30: Meilensteine
-- Was sind Meilensteine? In welcher Form müssen sie beschrieben werden? Nennen Sie einige konkrete Beispiele.
-- Meilensteine sind überprüfbare Ereignispunkte; Beschreibung: Name, Datum/Ziel, Abnahmekriterien, Verantwortlicher. Beispiele: Konzeptabnahme, Abschluss Tests, Go-Live.
-### W 2.31: Meilensteinliste
-- Was ist eine Meilensteinliste? Welchen Zweck erfüllt sie?
-- Meilensteinliste: tabellarische Übersicht aller Meilensteine mit Terminen und Verantwortlichen; Zweck: Terminüberwachung, Kommunikation und Steuerung.
-### W 3.1: Bedeutung des Projektstarts
-- Erklären Sie, welche Bedeutung die Durchführung des Projektstarts für das Projekt hat. Welche Ziele werden konkret damit verfolgt?
-- Projektstart schafft gemeinsames Verständnis von Zielen, Rollen und Erwartungen; Ziele: Alignment, Teambildung, erste Planung und Commitment.
-### W 3.2: Formen des Projektstarts
-- Beschreiben Sie, in welchem Abschnitt eines Projekts der Projektstart stattfindet. Welche besonderen Veranstaltungen im Rahmen des Projektstarts können durchgeführt werden?
-- Projektstart findet am Übergang von Initiierung/Vorstudie zur Umsetzungs-/Planungsphase statt. Veranstaltungen: Kick-off-Meeting (intern/extern), Workshops, Stakeholder-Meetings.
-### W 3.3: Vorteile eines professionellen Projektstarts
-- Erklären Sie, in welcher Weise ein professionell durchgeführter Projektstart zur Qualität des Projekts beiträgt.
-- Professioneller Projektstart reduziert Missverständnisse, schafft klare Rollen, erhöht Motivation und beschleunigt eine produktive Zusammenarbeit.
-### W 4.1: Projektorganisationsformen
-- Welche grundlegenden Organisationsformen können in Projekten eingesetzt werden?
-- Grundformen: Task Force (reine Projektorganisation), Einfluss-/Stabsorganisation, Matrixorganisation, projektorientierte Teilorganisation, projektorientiertes Unternehmen.
-### W 4.2: Task Force
-- Erklären Sie die spezielle Projektorganisation Task Force.
-  - Hinweise: Merkmale, Organigramm, Vorteile/Nachteile, Probleme.
-- Task Force: Vollständige Zuweisung von Personal an Projekt; Merkmale: kurze Entscheidungswege, hohe Fokussierung; Vorteile: schnelle Umsetzung; Nachteile: starke Ressourcenbindung und Rückkehrprobleme in Linie.
-### W 4.3: Einfluss-Projektorganisation
-- Erklären Sie die Einfluss-Projektorganisation.
-- Einflussorganisation: Projektleiter mit begrenzter Weisungsbefugnis (Stabsfunktion); Vorteil: geringer Eingriff in Linienbetrieb; Nachteil: geringe Autorität gegenüber Linienpersonal.
-### W 4.4: Matrix-Projektorganisation
-- Erklären Sie die Matrix-Projektorganisation.
-- Matrix: Mischung aus Linien- und Projektorganisation; Vorteil: flexible Ressourcennutzung; Nachteil: Konflikte bei Prioritäten und mehrfacher Weisungsbefugnis.
-### W 4.5: Projektorientierte Teilorganisation
-- Erklären Sie die spezielle projektorientierte Teilorganisation.
-- Teilorganisation: Bildung projektbezogener Einheiten innerhalb der Linie; Vorteil: Spezialisierung und bessere Koordination projektbezogener Aufgaben; Nachteil: Abstimmungs- und Koordinationsaufwand.
-### W 4.6: Projektorientiertes Unternehmen
-- Erklären Sie, was ein projektorientiertes Unternehmen ist. In welchen Branchen ist es häufig zu finden? Wo liegen die Vor- und Nachteile dieser Organisationsform?
-- Projektorientiertes Unternehmen: Organisation, die überwiegend in Projekten arbeitet (z. B. Bau, Beratung, IT, Forschung). Vorteile: hoher Fokus auf Projektlieferung; Nachteile: weniger stabile Linienstrukturen, hoher Koordinationsaufwand.
-### W 3.10: Herausforderung der Teamarbeit
-- Beschreiben Sie, welche Herausforderungen sich für das einzelne Teammitglied beim Eintritt in ein Projektteam ergeben.
-- Herausforderungen: Rollenklärung, Integration ins Team, Verständnis der Erwartungen, Anpassung an Arbeitsweise und ggf. erhöhter Zeitdruck.
-### W 3.11: Aspekte der Teambildung
-- Erklären Sie, welche Aspekte bei der Bildung eines Projektteams und bei der Rekrutierung von Projektmitgliedern zu berücksichtigen sind.
-- Aspekte: fachliche Fähigkeiten, Soft Skills, Verfügbarkeit, Erfahrung, Teamrollen, Motivation, kulturelle Passung.
-### W 3.12: Einflussfaktoren bei der Teamarbeit
-- Nennen Sie Faktoren, die die Arbeit im Projektteam beeinflussen.
-- Faktoren: Führung, Kommunikation, Zielklarheit, Arbeitsmittel, Teamgröße, Konfliktkultur, Motivation.
-### W 3.13: Virtuelle Teams
-- Erklären Sie den Begriff virtuelles Team.
-- Virtuelles Team: Geografisch verteilte Teammitglieder, die überwiegend digital zusammenarbeiten (z. B. Remote-Arbeit, verteilte Standorte).
-### W 3.14: Projektkultur
-- In welchen Aspekten drückt sich die Kultur des Projektumfelds aus? Finden Sie für jeden einzelnen Aspekt konkrete Beispiele.
-- Aspekte: Kommunikationsstil (offen vs. formell), Entscheidungswege (top-down vs. kooperativ), Fehlerkultur (Lernen vs. Schuldzuweisung), Arbeitsweise (agil vs. klassisch). Beispiele: offene Retros vs. formelle Reporting-Meetings.
-### W 3.15: Teamgröße
-- Welche Größe sollten Projektteams haben? Begründen Sie Ihre Antwort.
-- Empfohlen: klein bis mittel (z. B. 5–12), da dies gute Kommunikation ermöglicht und dennoch ausreichende Kompetenzbreite bietet; genaue Größe abhängig vom Umfang.
-### W 3.16: Aufgaben des Projektleiters (Teamführung)
-- Beschreiben Sie die Aufgaben, die der Projektleiter hinsichtlich der Führung seines Teams hat.
-- Aufgaben: Motivation, Zielklärung, Delegation, Feedback, Konfliktlösung, Coaching, Förderung der Teamentwicklung.
-### W 3.17: Rollen des Projektleiters
-- Beschreiben Sie die Rollen, die der Projektleiter im Verlauf eines Projekts übernimmt.
-- Rollen: Manager/Steuerer, Moderator, Coach, Vermittler zum Auftraggeber, Controller und Entscheider bei Eskalationen.
-### W 3.18: Phasen der Teambildung
-- Nennen Sie die vier Phasen der Teambildung nach Tuckman in zeitlich richtiger Abfolge. Charakterisieren Sie jede der Phasen kurz.
-- Forming (Orientierung), Storming (Konflikte und Rollenfindung), Norming (Regelbildung, Zusammenhalt), Performing (effiziente Zusammenarbeit).
-### W 3.19: Virtuelle und internationale Teams (Abgrenzung)
-- Erklären Sie die Begriffe virtuelle Teams und internationale Teams. Stellen Sie diese gegenüber.
-- Virtuelle Teams: verteilt via Technologie; internationale Teams: zusätzlich unterschiedliche Kulturen/Sprachen. International bringt sprachliche und kulturelle Komplexität hinzu.
-### W 3.20: Kommunikation in internationalen Teams
-- Erklären Sie die Merkmale von Low- bzw. High-context-Kommunikation. Vergleichen Sie diese anhand konkreter Beispiele.
-- Low-context (z. B. Deutschland, USA): explizite, direkte Kommunikation. High-context (z. B. Japan): viel unausgesprochener Kontext, nonverbale Signale. Beispiel: direkte Kritik vs. indirekte Andeutungen.
-### W 3.21: Zeitliche Arbeitsweise
-- Erklären Sie, auch anhand von Beispielen, die Begriffe monochronic und polychronic time culture.
-- Monochronic: lineare, punctual Zeitplanung (z. B. Deutschland). Polychronic: mehrere Aufgaben parallel, flexibler Umgang mit Zeit (z. B. in vielen arabischen Kontexten).
-### W 3.22: Medien zur Teamkommunikation
-- Welche elektronischen Kommunikationsmedien und -plattformen können von virtuellen Teams zur Unterstützung der Zusammenarbeit eingesetzt werden? Finden Sie konkrete technische Produkte für jede Kommunikationsform.
-- E‑Mail: Outlook/Gmail; Chat: Slack, Microsoft Teams; Videokonferenz: Zoom, Teams; Aufgaben/PM: Jira, Trello, Asana; Dokumente: Google Workspace, SharePoint/OneDrive.
-### W 3.23: Aufbau internationaler Teams
-- Wie kann der Projektmanager in einem internationalen Projekt das Risiko für Konflikte möglichst reduzieren? Wie kann er ein motiviertes Team auch auf lange Sicht sicherstellen?
-- Maßnahmen: kulturelle Sensibilisierung/Training, klare Kommunikation, gemeinsame Ziele, regelmäßige Meetings, Anerkennung und faire Arbeitsverteilung, Konfliktmoderation.
-### W 3.24: Merkmale internationaler Teams
-- Tragen Sie in einer 4-Felder-Matrix mit den Merkmalen Low- bzw. High-context-Kommunikation und monochronic/polychronic time culture die Mitgliedskultur eines deutsch-arabischen Projekts ein.
-- Typische Einordnung: Deutsch = Low-context + monochronic; Arabisch = tendenziell High-context + polychronic (kann je nach Land/Organisation variieren).
-### W 4.1: Zweck von Strukturplänen
-- Welchen Zweck erfüllen Projektstrukturpläne?
-- Projektstrukturpläne (WBS) gliedern das Projekt in handhabbare Arbeitspakete, schaffen Transparenz über Umfang und Verantwortlichkeiten und bilden Basis für Zeit- und Kostenplanung.
-### W 4.2: Arten von Strukturplänen
-- Beschreiben Sie die bedeutendsten Arten von Strukturplänen. Nennen Sie deren Verwendungsumfang.
-- Arten: objektorientierte (nach Produktteilen), funktionsorientierte (nach Tätigkeiten) und phasenorientierte Strukturpläne; Einsatz für Planung, Kosten- und Ressourcenverteilung.
-### W 4.3: Darstellungsformen von Strukturplänen
-- Welche zwei Darstellungsformen von Strukturplänen gibt es? Beschreiben Sie diese. Nennen Sie Vor- und Nachteile der Darstellungsformen.
-- Darstellungsformen: Baumdiagramm (hierarchisch, sehr visuell, bei vielen Ebenen unübersichtlich) und tabellarische Listen (pflegeleicht, weniger visuell).
-### W 4.4: Untergliederung in Projektstrukturplänen
-- Beschreiben Sie, nach welchen Gesichtspunkten ein Projektstrukturplan untergliedert werden kann.
-- Untergliederung nach Phasen, Funktionen, Lieferobjekten/Produkten oder geographischen Einheiten — abhängig vom Steuerungsbedarf.
-### W 4.5: Gliederungstiefe bei Projektstrukturplänen
-- Wie tief ist ein Projektstrukturplan zu verfeinern (detaillieren)?
-- So tief, dass Arbeitspakete planbar, messbar und verantwortbar sind; üblicherweise bis zur Ebene, auf der Zeit- und Kostenschätzungen möglich sind.
-### W 4.6: Erstellung von Projektstrukturplänen
-- Welchem Vorgehen kann die Erstellung von Strukturplänen folgen? Welche Qualitätsanforderungen muss ein fertiges Strukturdiagramm erfüllen?
-- Vorgehen: Top-down-Gliederung, Identifikation von Arbeitspaketen, Zuordnung von Verantwortlichkeiten. Qualitätsanforderungen: Vollständigkeit, Eindeutigkeit, Nachvollziehbarkeit, Verständlichkeit.
-### W 4.7: Arbeitspaket
-- Definieren Sie den Begriff des Arbeitspakets möglichst genau nach DIN 69901.
-- Arbeitspaket: Kleinste Planungs- und Vergabeeinheit mit klaren Zielen, Ergebnissen, verantwortlicher Person und Aufwandsschätzung (nach DIN 69901).
-### W 4.8: Merkmale gut formulierter Arbeitspakete
-- Welche Richtlinien gelten bei der Bildung von Arbeitspaketen? Begründen Sie diese.
-- Richtlinien: klare Beschreibung, messbares Ergebnis, ein Verantwortlicher, Aufwandsschätzung, Termine, Schnittstellen — erleichtert Steuerung und Kontrolle.
-### W 4.9: Beschreibung von Arbeitspaketen
-- Welche Informationen sollte die Beschreibung eines Arbeitspakets enthalten? Erklären Sie jeden Inhaltspunkt anhand eines konkreten Beispiels.
-- Inhaltsangaben: Ziel/Ergebnis, Umfang, Abnahmekriterien, Verantwortlicher, Aufwand, Termine, Schnittstellen. Beispiel: "Implementierung Modul X" mit Testkriterien und Verantwortlichem.
-### W 4.10: Funktionsmatrix
-- Skizzieren Sie den Aufbau einer Funktionsmatrix. Erklären Sie ihren Verwendungszweck.
-- Funktionsmatrix: Zeilen = Arbeitspakete/Funktionen, Spalten = Organisationseinheiten; Zweck: Darstellung der Zuständigkeiten und Schnittstellen.
-### W 4.11: Verantwortungsmatrix
-- Skizzieren Sie den Aufbau einer Verantwortungsmatrix (RACI). Erklären Sie die Bedeutung der Eintragungen.
-- RACI-Matrix: Rollen (R, A, C, I) werden Arbeitspaketen zugeordnet: Responsible, Accountable, Consulted, Informed — klärt Verantwortlichkeiten und Kommunikationswege.
-### W 4.12: Gantt-Diagramm
-- Skizzieren Sie den Aufbau von Gantt-Diagrammen. Beschreiben Sie ihre Erstellung.
-- Gantt: Aufgaben vertikal, Zeitachse horizontal, Balken zeigen Dauer; Erstellung: Arbeitspakete, Dauerschätzung, Abhängigkeiten, Meilensteine eintragen.
-### W 4.13: Netzplantechnik
-- Wozu dient die Netzplantechnik? Welche unterschiedlichen Verfahren kennen Sie? Nennen Sie jeweils die Bezeichnung und Abkürzung des Verfahrens.
-- Netzplantechnik dient zur Ablauf- und Terminplanung mit Abhängigkeiten. Verfahren: CPM (Critical Path Method), PERT, MPM, GERT.
-### W 4.14: Begriffe der Netzplantechnik
-- Erklären Sie folgende Begriffe der Netzplantechnik: Vorgang, Ereignis, Pufferzeit, kritischer Pfad.
-- Vorgang: Tätigkeit mit Dauer; Ereignis: Knoten/Meilenstein; Pufferzeit: zeitlicher Spielraum; kritischer Pfad: längste Vorgangskette ohne Puffer, bestimmt Projektdauer.
-### W 4.15: Phasen der Netzplanerstellung
-- In welchen zwei Phasen erfolgt die Erstellung von Netzplänen? Beschreiben Sie die Schritte in den einzelnen Phasen.
-- Phasen: 1) Strukturierung (Vorgänge identifizieren, Abhängigkeiten festlegen), 2) Analyse (Dauern schätzen, früheste/späteste Zeiten berechnen, kritischer Pfad, Optimierung).
-### W 4.16: MPM-Netzplan
-- Welche Darstellungsform wird beim MPM für die Knoten verwendet? Erklären Sie die Bezeichnungen im Knoten.
-- MPM verwendet Aktivitätsknoten mit Kennzahlen (ID, Dauer, frühester/spätester Beginn/Ende). Die Knoten enthalten Zeitdaten zur Analyse.
-### W 4.17: Anordnungsbeziehungen
-- Welche Anordnungsbeziehungen (d. h. Verbindung mit Pfeilen) gibt es zwischen zwei MPM-Knoten? Erklären Sie diese anhand konkreter Beispiele.
-- Beziehungen: Finish-to-Start (FS), Start-to-Start (SS), Finish-to-Finish (FF), Start-to-Finish (SF). Beispiel FS: A beendet, dann startet B.
-### W 4.18: Aktionsplan
-- Welche Aufgabe erfüllt ein Aktionsplan? Welche Informationen werden dort eingetragen? Veranschaulichen Sie dies anhand eines konkreten Beispiels.
-- Aktionsplan: Listet Maßnahmen, Verantwortliche, Termine und Status. Beispiel: Testplan mit Verantwortlichem, Start/Ende, Ressourcen und Status (offen/erledigt).
-### W 5.1: Projektrisiko
-- Erklären Sie den Begriff Projektrisiko.
-- Projektrisiko = Möglichkeit, dass ein Ereignis eintritt, das negative oder positive Auswirkungen auf Projektziele (Zeit, Kosten, Qualität) hat.
-### W 5.2: Arten von Risiken
-- Welchen vier Kategorien können Projektrisiken zugeordnet werden? Finden Sie konkrete Beispiele zu jeder Kategorie.
-- Kategorien: technisch (z. B. Technologieversagen), organisatorisch/personell (z. B. Personalausfall), finanziell (z. B. Budgetüberschreitung), extern/marktlich (z. B. gesetzliche Änderung).
-### W 5.3: Risikomanagement
-- Beschreiben Sie die Vorgangsweise beim Risikomanagement.
-- Vorgang: Risikoidentifikation, Bewertung (Wahrscheinlichkeit × Auswirkung), Priorisierung, Maßnahmenplanung (Vermeiden, Reduzieren, Transfer, Akzeptanz), Monitoring und Reporting.
-### W 5.4: Identifikation von Risiken
-- Wie können Sie bei der Identifikation von Risiken vorgehen?
-- Methoden: Workshops, Brainstorming, Checklisten, Lessons-Learned-Analysen, Expertenbefragungen, SWOT-Analysen.
-### W 5.5: Methoden der Risikobewertung
-- Beschreiben Sie die Methoden der Risikobewertung.
-- Qualitativ: Risikomatrix (Niedrig/Mittel/Hoch) mit Beschreibung. Quantitativ: Monetäre Bewertung, Monte-Carlo-Simulation, Expected Value, Sensitivitätsanalysen.
-### W 5.6: Risikogestaltung
-- Welche Maßnahmen zur Risikogestaltung kennen Sie? Erklären Sie jede Maßnahmenart anhand eines konkreten Beispiels.
-- Maßnahmen: Vermeiden (Alternative wählen), Reduzieren (Tests, zusätzliches Personal), Transfer (Versicherung, Outsourcing), Akzeptanz (Risikorücklage einplanen).
-### W 5.7: Aufgaben des Projektcontrollings
-- Beschreiben Sie die Aufgaben des Projektcontrollings.
-- Aufgaben: Planung und Überwachung von Kosten, Terminen und Ressourcen; Reporting, Forecasting, Abweichungsanalysen, Unterstützung von Steuerungsentscheidungen.
-### W 5.8: Bereiche des Projektcontrollings
-- Welche Aspekte des Projekts werden vom Controlling betrachtet? Welche weiteren Aktivitäten unterstützen das Projektcontrolling?
-- Betrachtete Aspekte: Kosten, Termine, Qualität, Ressourcen. Unterstützung: Tools, Kennzahlen, Forecasting, Risikoüberwachung, Change-Management.
-### W 5.9: Terminkontrolle
-- Nennen Sie Gründe, die zu Terminüberschreitungen im Projekt führen können. Geben Sie mögliche Maßnahmen an, mit denen Terminverzögerungen wettgemacht werden können.
-- Gründe: Fehlplanung, Ressourcenmangel, Lieferverzögerungen, Scope Creep. Maßnahmen: Priorisierung, Parallelisierung, Überstunden, externes Outsourcing, Nutzung von Puffern.
-### W 5.10: Kostenkontrolle
-- Welche Darstellungen werden in der Kostenkontrolle verwendet? Worauf ist bei der Interpretation zu achten?
-- Darstellungen: Budget vs. Ist, Earned Value (EV) / Cost Performance Index (CPI), Kostenverlauf. Achtung: Zeitbezug bei Interpretation, Kumulierung und Ursachenanalyse.
-### W 5.11: Sachfortschrittskontrolle
-- Beschreiben Sie die verschiedenen Möglichkeiten zur Sachfortschrittskontrolle. Nennen Sie konkrete Einsatzbereiche für jedes der Verfahren.
-- Methoden: Meilensteinstatus (Bauprojekte), Prozent-Fertigstellung (Entwicklungsschätzungen), Deliverable-Checks/Abnahmetests (Software), Reviews und Inspektionen (Fertigung).
-### W 5.16: Projekthandbuch
-- Beschreiben Sie das Projekthandbuch. Erklären Sie, welche Aufgaben es hat, welche Inhalte enthalten sein müssen, welche Teile enthalten sein können.
-- Projekthandbuch: zentrales Nachschlagewerk mit Methoden, Rollen, Plänen und Regelungen des Projekts. Muss enthalten: Projektziele, Organisation, Reporting, Prozesse und wichtige Pläne. Kann enthalten: Checklisten, Vorlagen, Lessons Learned, Toolboxen.
-### W 5.24: Weitere Aufgaben des Projektmanagements
-- Geben Sie einen Überblick, welche weiteren Projektmanagement-Tätigkeiten im Projektverlauf durchgeführt werden können (mit kurzer Beschreibung).
-- Beispiele: Change-Management (Steuerung von Änderungen), Vertrags- und Lieferantenmanagement, Wissensmanagement, Schulungen, Qualitätssicherung, Compliance-Checks.
-### W 5.25: Projektabschluss
-- Erklären Sie, warum ein gut geplanter und gut umgesetzter Projektabschluss wichtig ist.
-- Ein strukturierter Abschluss sichert die Ergebnisübergabe, Dokumentation, Lessons Learned, Vertragsabschluss und die ordentliche Rückführung von Ressourcen.
-### W 5.26: Formen des Projektabschlusses
-- In welchem organisatorischen Rahmen kann der Projektabschluss erfolgen?
-- Formen: formale Abnahme durch Auftraggeber/Lenkungsausschuss, Übergabe an Linienorganisation, externes Review oder Audit.
-### W 5.27: Inhaltlich-fachliche Aufgaben am Projektabschluss
-- Welche inhaltlich-fachlichen Aufgaben sind am Projektabschluss durchzuführen? Veranschaulichen Sie diese anhand selbst gewählter Beispiele.
-- Aufgaben: Abschlusstests, Abnahmen, Erstellung Abschlussdokumentation, Wissensübergabe. Beispiel: Softwareprojekt: Endtests, Benutzerhandbuch, Übergabe an Betrieb.
-### W 5.28: Organisatorische Aufgaben am Projektabschluss
-- Welche organisatorischen Aufgaben sind am Projektabschluss durchzuführen? Veranschaulichen Sie diese anhand selbst gewählter Beispiele.
-- Aufgaben: Ressourcenrückführung, Abschlussberichte, Rechnungslegung, Vertragsabschluss, Abschlussmeetings. Beispiel: Teammitglieder zurück in Linie versetzen.
-### W 5.29: Emotional-soziale Aufgaben am Projektabschluss
-- Welche emotional-sozialen Aufgaben sind am Projektabschluss durchzuführen? Veranschaulichen Sie diese anhand selbst gewählter Beispiele.
-- Aufgaben: Anerkennung, Feedback, Abschlussveranstaltung, Lessons-Learned-Workshop — wichtig für Motivation und Wissenssicherung.
-### W 5.30: Zweistufiger Projektabschluss
-- Erklären Sie den zweistufigen Projektabschluss. Wie ist er durchzuführen?
-- Zweistufig: 1) Technischer Abschluss/Abnahme (Funktionalität/Übergabe), 2) Administrativer Abschluss (Abrechnung, Dokumentation, Lessons Learned). Schritte: Abnahme, Abschlussdokumente, Evaluation.
-### W 5.31: Tätigkeiten zum Projektabschluss
-- Beschreiben Sie die weiteren Tätigkeiten, die zum Projektabschluss meist noch durchgeführt werden.
-- Tätigkeiten: Archivierung, Nachkalkulation, Erfolgsmessung, Supportübergabe, Abschlusspräsentation, Abschluss der Verträge.
-### W 5.32: Groupware-Tools und Projektplattformen
-- Erklären Sie den Zweck und Aufbau von Groupware-Tools und Projektplattformen. Recherchieren Sie dazu gängige Produkte im Internet und nehmen Sie auf deren Funktionsbeschreibungen Bezug.
-- Zweck: Unterstützung von Zusammenarbeit, Dokumentenmanagement, Kommunikation und Aufgabenverfolgung. Produkte: Microsoft Teams/SharePoint, Google Workspace, Jira/Confluence, Trello, Asana — bieten Chat, Dateiablage, Tasks und Integrationen.
-### W 5.33: Informatik-Hilfsmittel im Projektverlauf
-- Geben Sie ausgehend von der Abbildung auf S. 5 (Phasen, Aufgaben und Dokumente im Projektverlauf) an, in welchen Projektabschnitten bestimmte Informatik-Hilfsmittel schwerpunktmäßig für bestimmte Aufgaben eingesetzt werden.
-- Beispielsweise: Vorstudie/Analyse: Recherche- und Analysetools; Planung: MS Project/Jira, Kalkulation: Excel; Umsetzung: Versionsverwaltung (Git), CI/CD-Tools; Tests: Testautomatisierung; Betrieb: Monitoring.
-### W 5.34: Projektmanagement-Software
-- Softwarepakete zur Unterstützung des Projektmanagements werden zunehmend webbasiert angeboten. Recherchieren Sie im Internet entsprechende Angebote – von kostenlosen Zugängen bis zu Varianten mit hohen Lizenzkosten. Vergleichen Sie diese nach Funktionsumfang und möglicher Eignung für Projekte im Rahmen des Unterrichts.
-- Kostenfreie/leichte Tools: Trello, Asana (Free), GitHub Projects — gut für Unterrichtsprojekte wegen einfacher Handhabung.
-- Umfangreiche Tools: Jira, MS Project, Monday.com — bieten komplexe Planung, Reporting und Workflows, eher für größere Projekte geeignet.
-- Empfehlung: Für Unterricht einfache, kollaborative Tools (Trello, Asana, GitHub Projects); für größere Projekte Jira/MS Project.
-## Gesamte Fragezählung
-- **Anzahl Hauptfragen (Überschriften '### W ...'):** 119
-- **Anzahl Unterfragen (Bullet-Zeilen mit Fragezeichen):** 74
+
+## 👤 2. Aufgaben des Projektmanagers & Zertifizierung
+
+Erklären Sie, welche Hauptaufgaben der Projektmanager im Rahmen eines Projekts hat.
+	*   Planung (Struktur, Termine, Kosten).
+	*   Führung und Motivation des Teams.
+	*   Kommunikation mit Stakeholdern.
+	*   Steuerung und Überwachung des Fortschritts.
+	*   Problemlösung und Konfliktmanagement.
+
+Erklären Sie, welche Aufgaben der Projektmanager zu Beginn jeder neuen Phase hat.
+	*   Review der vorangegangenen Phase.
+	*   Detaillierung der Planung für die kommende Phase.
+	*   Abholen der Freigabe (Commitment) vom Auftraggeber.
+	*   Einstimmen des Teams auf die neuen Aufgaben.
+
+Erklären Sie allgemein den Begriff der Zertifizierung.
+	Ein formaler Nachweis durch eine unabhängige Stelle, dass eine Person über definiertes Wissen und Kompetenzen in einem Fachgebiet (hier PM) verfügt.
+
+Beschreiben Sie die wichtigsten weltweit agierenden Projektmanagement-Institutionen.
+	*   **PMI (Project Management Institute):** Sitz in USA. Stark prozessorientiert.
+	*   **IPMA (International Project Management Association):** Sitz in der Schweiz (Dachverband). Stark kompetenzorientiert (Soft Skills + Methoden).
+	*   **AXELOS (früher OGC):** Sitz in UK. Herausgeber von PRINCE2 (Prozessmodell).
+
+Wissensbasis für Zertifikationen (Publikationen)
+	*   **PMI:** *PMBOK Guide* (Project Management Body of Knowledge). Fokus auf Prozesse und Wissensgebiete.
+	*   **IPMA:** *ICB* (Individual Competence Baseline). Fokus auf Kompetenzelemente (Perspective, People, Practice).
+	*   **PRINCE2:** *PRINCE2 Manual*. Fokus auf 7 Prozesse, 7 Themen, 7 Prinzipien.
+
+Wie sind in Österreich das PMI und die IPMA vertreten?
+	*   **IPMA:** Vertreten durch die **pma** (Projekt Management Austria).
+	*   **PMI:** Vertreten durch das **PMI Austria Chapter**.
+
+Welche Vorteile werden von einer Zertifizierung erwartet?
+	*   Nachweis von Qualifikation (Karrierevorteil).
+	*   Einheitliche Terminologie und Standards im Unternehmen.
+	*   Höhere Professionalität in der Projektabwicklung.
+
+Welche Zertifikate können beim PMI erworben werden?
+	*   **CAPM:** Certified Associate in Project Management (Einstieg).
+	*   **PMP:** Project Management Professional (Der Gold-Standard, erfordert Erfahrung).
+
+Welche Zertifikate können beim IPMA erworben werden? (4-Level-System)
+	*   **Level D:** Certified Project Management Associate (Wissen).
+	*   **Level C:** Certified Project Manager (Erfahrung in Teilprojekten/kleinen Projekten).
+	*   **Level B:** Certified Senior Project Manager (Erfahrung in komplexen Projekten).
+	*   **Level A:** Certified Projects Director (Leitung von Portfolios/Programmen).
+
+Was ist PRINCE2?
+	PRINCE2 (Projects IN Controlled Environments) ist eine prozessorientierte Methode für das Projektmanagement, die sehr stark auf den Business Case und definierte Rollen fokussiert ist.
+	*   **Zertifikate:** PRINCE2 Foundation (Grundlagen) und PRINCE2 Practitioner (Anwendung).
+
+---
+
+## 💡 3. Kreativitätstechniken
+
+Welche Kreativitätstechniken kennen Sie und wozu werden sie eingesetzt?
+	Sie werden eingesetzt, um neue Ideen zu generieren, Probleme zu lösen oder Innovationen zu fördern, besonders in der Start- oder Planungsphase.
+	*   **Brainstorming:** Spontanes Sammeln von Ideen in der Gruppe ohne Kritik.
+	*   **Methode 6-3-5:** Schriftliches Brainwriting. 6 Teilnehmer, 3 Ideen, 5 Minuten Zeit pro Runde, Weitergabe des Blattes.
+	*   **Morphologischer Kasten:** Zerlegen eines Problems in Parameter und Ausprägungen, um neue Kombinationen zu finden (analytisch-systematisch).
+	*   **Mindmapping:** Grafische Darstellung von Themen und Assoziationen ausgehend von einem zentralen Begriff.
+	*   **Delphi-Methode:** Mehrstufige Befragung von Experten, um zu einem Konsens oder einer Prognose zu gelangen (anonymisiert).
+
+---
+
+## 📝 4. Projektantrag, Vorstudie, Machbarkeit & Ziele
+
+Welche Punkte enthält der Projektantrag?
+	Titel, Ausgangslage, Grobziele, Nutzen, grober Zeitrahmen, geschätzte Kosten, Benennung des vorgeschlagenen Projektleiters.
+
+Welche Fragen sind im Rahmen der Vorstudie zu klären?
+	Ist das Projekt grundsätzlich machbar? Lohnt es sich (Wirtschaftlichkeit)? Welche Risiken bestehen grob? Welche Alternativen gibt es?
+
+Welche Rolle spielt die Machbarkeitsstudie?
+	Sie prüft die Realisierbarkeit in technischer, wirtschaftlicher, rechtlicher und organisatorischer Hinsicht. Das Ergebnis ist die Basis für die Entscheidung "Projekt starten" oder "verwerfen".
+
+Worin besteht die Variantenbildung?
+	Es werden verschiedene Lösungswege erarbeitet (z.B. "Make or Buy", verschiedene technische Ansätze), um die optimale Variante für die Umsetzung auszuwählen.
+
+Beschreiben Sie den Aufbau der 4-Felder-Matrix für die SWOT-Analyse.
+	Eine Matrix zur Strategieentwicklung:
+	*   **Strengths (Stärken):** Intern, positiv.
+	*   **Weaknesses (Schwächen):** Intern, negativ.
+	*   **Opportunities (Chancen):** Extern (Markt/Umfeld), positiv.
+	*   **Threats (Risiken):** Extern (Markt/Umfeld), negativ.
+
+In welchen Kategorien können Projektziele gesetzt werden?
+	*   **Leistungsziele:** Was soll genau das Ergebnis sein? (Qualität, Funktion).
+	*   **Terminziele:** Bis wann? (Meilensteine, Endtermin).
+	*   **Kostenziele:** Budget, Ressourcenverbrauch.
+	*   **Soziale Ziele:** Zufriedenheit der Mitarbeiter, Stakeholder-Akzeptanz.
+
+Durch welche Merkmale zeichnet sich eine gute Zielsetzung aus?
+	Nach der **SMART**-Formel:
+	*   **S**pezifisch (eindeutig).
+	*   **M**essbar (Kriterien zur Überprüfung).
+	*   **A**ttraktiv (motivierend).
+	*   **R**ealistisch (machbar).
+	*   **T**erminiert (zeitlich festgelegt).
+
+Aufgaben von Zielen im Projektmanagement
+	Orientierungsfunktion, Koordinationsfunktion (alle ziehen an einem Strang), Motivationsfunktion, Kontrollfunktion (Soll-Ist-Vergleich).
+
+Unterschied Vorgehensziele vs. Ergebnisziele
+	*   **Ergebnisziel:** Beschreibt den Zustand *nach* Projektende (z.B. "Die neue Software ist installiert").
+	*   **Vorgehensziel:** Beschreibt Meilensteine auf dem *Weg* dahin (z.B. "Das Pflichtenheft ist abgenommen").
+
+Was versteht man unter der Zielhierarchie?
+	Die Unterteilung von einem strategischen Oberziel in Unterziele bis hin zu operativen Maßnahmen. Sie stellt sicher, dass alle kleinen Ziele auf das Große einzahlen.
+
+Zielbeziehungen
+	*   **Zielidentität:** Ziele decken sich.
+	*   **Zielkomplementarität:** Erreichung von Ziel A fördert Ziel B.
+	*   **Zielkonkurrenz:** Erreichung von Ziel A behindert Ziel B (Konflikt).
+	*   **Zielneutralität:** Ziele beeinflussen sich nicht.
+
+---
+
+## 🌎 5. Projektumwelt & Stakeholder
+
+In welche Umwelten ist das System Projekt eingebettet?
+	*   **Soziale Umwelt:** Menschen, Gruppen, Kultur.
+	*   **Sachliche Umwelt:** Technologien, Geografie, Infrastruktur.
+	*   **Interne Umwelt:** Innerhalb des Unternehmens.
+	*   **Externe Umwelt:** Markt, Gesetzgeber, Kunden.
+
+Wozu wird eine Projektabgrenzung durchgeführt?
+	Um klar zu definieren, was *nicht* Teil des Projekts ist (Out-of-Scope), um "Scope Creep" (schleichende Umfangserweiterung) zu verhindern.
+
+Welchen Zweck hat die Kontextanalyse?
+	Sie erfasst alle relevanten Einflussfaktoren und Rahmenbedingungen (den Kontext), die auf das Projekt einwirken können, um Überraschungen zu vermeiden.
+
+Wann werden Personen oder Personengruppen als Stakeholder bezeichnet?
+	Wenn sie ein berechtigtes Interesse am Projektverlauf oder -ergebnis haben oder vom Projekt betroffen sind (aktiv oder passiv).
+
+Arten von Stakeholdern (Beispiele)
+	*   **Intern:** Auftraggeber, Projektteam, Betriebsrat, Management.
+	*   **Extern:** Kunden, Lieferanten, Behörden, Anwohner, Presse.
+
+Beschreiben Sie die Schritte der Stakeholderanalyse.
+	1.  **Identifikation:** Wer sind die Stakeholder?
+	2.  **Analyse:** Welche Interessen, Macht und Einstellung (+/-) haben sie?
+	3.  **Bewertung:** Wie groß ist ihr Einfluss auf das Projekt?
+	4.  **Maßnahmenplanung:** Wie gehen wir mit ihnen um (Kommunikationsplan)?
+
+Steuerung des Projektumfelds
+	Durch gezieltes Stakeholdermanagement: Regelmäßige Kommunikation, Einbindung in Entscheidungen, Marketing für das Projekt ("Projektmarketing"), Konfliktmanagement.
+
+---
+
+## 📝 6. Projektauftrag & Freigaben
+
+Zeitpunkt und Bedeutung des Projektauftrags
+	Er steht am Ende der Initialisierung und ist der formale Startschuss. Er ist der "Vertrag" zwischen Auftraggeber und Projektleiter. Ohne Auftrag kein Projekt.
+
+Notwendige Bestandteile des Projektauftrags
+	Projektname, Ziele (SMART), Start/Ende, Budget, Projektleiter-Benennung, grober Scope, Unterschriften.
+
+Was sind Freigaben?
+	Formale Entscheidungen (meist an Meilensteinen), die bestätigen, dass eine Phase erfolgreich abgeschlossen wurde und die nächste Phase (inkl. Budget) gestartet werden darf.
+
+Warum sind Budget und Ressourcen im Auftrag wichtig?
+	Weil der Projektleiter nur mit zugesicherten Ressourcen arbeiten kann. Ohne Budgetfreigabe ist er handlungsunfähig.
+
+Was ist eine Meilensteinliste?
+	Eine tabellarische Übersicht aller Meilensteine mit Terminen und zu erbringenden Ergebnissen. Sie dient der groben Terminüberwachung.
+
+---
+
+## 🚀 7. Projektstart
+
+Bedeutung des Projektstarts
+	Der Start legt das Fundament. Hier werden Weichen für die Kultur, das gemeinsame Verständnis und die Motivation gestellt. "Wie das Projekt beginnt, so endet es oft."
+
+Formen des Projektstarts
+	*   **Projektstart-Workshop:** Erarbeitung der Details mit dem Kernteam.
+	*   **Kick-off-Meeting:** Informationsveranstaltung für alle Beteiligten (große Runde).
+
+---
+
+## 🏗 8. Projektorganisationsformen
+
+Welche grundlegenden Organisationsformen können in Projekten eingesetzt werden?
+
+Task Force (Reine Projektorganisation)
+	*   **Merkmal:** Mitarbeiter werden komplett aus der Linie herausgelöst und arbeiten 100% für das Projekt.
+	*   **Vorteil:** Hohe Identifikation, schnelle Entscheidungen, volle Konzentration.
+	*   **Nachteil:** Reintegration der Mitarbeiter nach Projektende schwierig, teuer für das Unternehmen.
+
+Einfluss-Projektorganisation (Stabs-Organisation)
+	*   **Merkmal:** Projektleiter hat nur Koordinationsrecht (Stabstelle), keine Weisungsbefugnis. Macht liegt bei Linienmanagern.
+	*   **Vorteil:** Flexibler Personaleinsatz, kaum organisatorische Umstellung.
+	*   **Nachteil:** PL ist "Bettler", langsame Reaktionen, schwierige Durchsetzung.
+
+Matrix-Projektorganisation
+	*   **Merkmal:** Mitarbeiter verbleiben in der Abteilung, sind aber für das Projekt dem PL unterstellt. Geteilte Weisungsbefugnis (fachlich -> PL, disziplinarisch -> Linie).
+	*   **Vorteil:** Synergien, Fachwissen bleibt in der Abteilung, flexibel.
+	*   **Nachteil:** Konfliktpotenzial ("Diener zweier Herren"), hoher Kommunikationsaufwand.
+
+Projektorientiertes Unternehmen
+	Unternehmen, deren Kerngeschäft Projekte sind (z.B. Bauunternehmen, Softwarehäuser, Beratungen). Die Struktur ist auf Projekte ausgerichtet, nicht auf Abteilungen.
+
+---
+
+## 👥 9. Teamarbeit & Führung
+
+Herausforderungen der Teamarbeit & Teambildung
+	Neue Kollegen, unklare Rollen, unterschiedliche Arbeitsweisen. Bei der Bildung muss auf fachliche Kompetenz ("Hard Skills") und menschliche Passung ("Soft Skills") geachtet werden.
+
+Phasen der Teambildung nach Tuckman
+	1.  **Forming:** Kennenlernen, Abtasten, höflich.
+	2.  **Storming:** Konflikte, Machtkämpfe, Rollenfindung.
+	3.  **Norming:** Spielregeln entstehen, Wir-Gefühl wächst.
+	4.  **Performing:** Hochleistung, effiziente Arbeit.
+	(5. **Adjourning:** Auflösung).
+
+Virtuelle vs. Internationale Teams
+	*   **Virtuell:** Zusammenarbeit über Distanz mittels Medien (Herausforderung: Vertrauensaufbau).
+	*   **International:** Zusammenarbeit verschiedener Nationalitäten (Herausforderung: Kultur, Sprache, Zeitzonen).
+
+Kommunikation: Low- vs. High-Context
+	*   **Low-Context (z.B. DACH, USA):** Direkte Kommunikation, "Ja heißt Ja", Fokus auf das geschriebene Wort/Fakten.
+	*   **High-Context (z.B. Asien, Arabischer Raum, Südeuropa):** Indirekte Kommunikation, vieles wird "zwischen den Zeilen" gesagt, Beziehungen sind wichtiger als Verträge.
+
+Monochronic vs. Polychronic Time
+	*   **Monochron:** Eins nach dem anderen, Pünktlichkeit ist heilig (Zeit ist Geld).
+	*   **Polychron:** Vieles gleichzeitig, Termine sind flexibel, Beziehungen sind wichtiger als der Zeitplan.
+
+---
+
+## 📊 10. Strukturpläne & Planung
+
+Zweck von Strukturplänen (PSP - Projektstrukturplan)
+	Der PSP ist der "Plan der Pläne". Er zerlegt das Gesamtprojekt in teilbare, planbare und kontrollierbare Einheiten.
+
+Gliederung des PSP
+	*   **Objektorientiert:** Gliederung nach Bauteilen/Komponenten (z.B. Motor, Fahrwerk).
+	*   **Funktionsorientiert:** Gliederung nach Tätigkeiten (z.B. Konstruktion, Test).
+	*   **Phasenorientiert:** Gliederung nach zeitlichem Ablauf (z.B. Phase 1, Phase 2).
+	*   **Gemischt:** Kombination der oberen Formen.
+
+Arbeitspaket (AP)
+	Das kleinste Element im PSP. Es ist die Basis für die Termin- und Kostenplanung.
+	*   **Merkmale:** Eindeutig verantwortlich, definiertes Ergebnis, geschätzter Aufwand.
+
+Funktionsmatrix & Verantwortungsmatrix (RACI)
+	Zeigt, wer für welches Arbeitspaket zuständig ist.
+	*   **R**esponsible (Verantwortlich für Durchführung).
+	*   **A**ccountable (Rechenschaftspflichtig/Entscheider).
+	*   **C**onsulted (Muss gefragt werden).
+	*   **I**nformed (Muss informiert werden).
+
+Gantt-Diagramm
+	Balkenplan. Zeitliche Darstellung der Arbeitspakete auf einer Zeitachse. Zeigt Dauer, Start, Ende und Parallelitäten.
+
+Netzplantechnik
+	Zeigt die *logischen* Abhängigkeiten zwischen Vorgängen (Vorgänger/Nachfolger).
+	*   **Kritischer Pfad:** Die Kette von Vorgängen, bei denen jede Verzögerung das Projektende verschiebt (keine Pufferzeit).
+	*   **Begriffe:** FAZ (Frühester Anfang), FEZ (Frühester Ende), SAZ (Spätester Anfang), SEZ (Spätester Ende), Puffer (Zeitreserven).
+
+---
+
+## ⚠ 11. Risikomanagement & Controlling
+
+Risikomanagement Prozess
+	1.  **Identifikation:** Was kann passieren?
+	2.  **Bewertung:** Eintrittswahrscheinlichkeit x Schadenshöhe = Risikowert.
+	3.  **Maßnahmenplanung:** Vermeiden, Vermindern, Überwälzen (Versicherung), Akzeptieren.
+	4.  **Überwachung:** Regelmäßiger Review.
+
+Projektcontrolling (Regelkreis)
+	*   Planung (Soll).
+	*   Erfassung (Ist).
+	*   Soll-Ist-Vergleich (Abweichung?).
+	*   Analyse der Ursachen.
+	*   Steuerungsmaßnahmen einleiten.
+
+Methoden der Fortschrittskontrolle
+	*   **0/100-Methode:** 0% fertig bis Abschluss, dann 100% (vorsichtig).
+	*   **50/50-Methode:** 50% bei Start, 50% bei Ende.
+	*   **Schätzung:** Team schätzt Restaufwand (oft ungenau).
+	*   **Meilenstein-Trendanalyse (MTA):** Grafische Darstellung von Terminverschiebungen über die Zeit.
+
+---
+
+## 📘 12. Projekthandbuch & Abschluss
+
+Projekthandbuch
+	Die zentrale Zusammenstellung aller Informationen, Standards und Regelungen für das spezifische Projekt. Es ist der "Leitfaden" für die Teammitglieder (Wie dokumentieren wir? Wie kommunizieren wir?).
+
+Zweistufiger Projektabschluss
+	1.  **Inhaltlicher Abschluss:** Abnahme des Produkts durch den Kunden, Übergabe in den Betrieb.
+	2.  **Administrativer/Sozialer Abschluss:** Nachkalkulation, Teamauflösung, Abschlussfeier, Lessons Learned Workshop, Archivierung.
+
+Aufgaben am Projektabschluss
+	*   **Inhaltlich:** Restpunkte abarbeiten, Dokumentation finalisieren.
+	*   **Organisatorisch:** Ressourcen freigeben, Benutzerkonten schließen.
+	*   **Emotional:** Leistungen würdigen, Feedback geben, Konflikte beilegen, Feiern.
+
+---
+
+## 💻 13. Software
+
+Groupware & Plattformen
+	Dienen der Zusammenarbeit (Collaboration).
+	*   *Beispiele:* Microsoft Teams, Slack, Confluence (Wiki), SharePoint.
+	*   Sie ermöglichen Dateiaustausch, Chat, Videokonferenzen und gemeinsames Bearbeiten von Dokumenten.
+
+Projektmanagement-Software
+	*   **Planung/Gantt:** MS Project, Merlin (Mac).
+	*   **Aufgabenmanagement (Kanban/Agil):** Trello, Jira, Asana, Planner.
+	*   **Umfangreiche Suites:** Wrike, Monday.com.
+	*   **Funktionen:** Terminplanung, Ressourcenzuweisung, Kostenverfolgung, Reporting.
