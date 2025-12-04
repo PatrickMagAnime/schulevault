@@ -1,12 +1,4 @@
 ___
-# Projektmanagement – Wissenssammlung und Fragenkatalog
-
-Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist in Themenblöcke mit Überschriften und Unterüberschriften gegliedert, Fragen sind als Listenpunkte aufgeführt.
-
----
-
-## 📚 Wissen – Fragen
-
 ### W 1.1: Gründe für Projekte analysieren
 - Welche der Gründe sprechen für die Durchführung von Projekten im Betrieb?
   - Anmerkung: Die folgenden Zeilen scheinen die Gründe zu sein, die für Projekte sprechen, obwohl die Formatierung unklar ist:
@@ -58,9 +50,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
 - Welche Funktionen kann ein Projektmanager-Kreis übernehmen?
 
 ---
-
-## Wissen – Aufgaben des Projektmanagers
-
 ### W 1.13: Aufgaben des Projektmanagers
 - Erklären Sie, welche Hauptaufgaben der Projektmanager im Rahmen eines Projekts hat.
 
@@ -94,9 +83,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
 - Welche Zertifikate können zu PRINCE2 erworben werden?
 
 ---
-
-## 💡 Wissen – Kreativitätstechniken
-
 ### W 2.1: Kreativitätstechniken – Überblick
 - Welche Kreativitätstechniken kennen Sie? Beschreiben Sie diese.
 
@@ -112,9 +98,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
   - Delphi-Methode
 
 ---
-
-## 📝 Wissen – Projektantrag, Vorstudie, Machbarkeitsstudie
-
 ### W 2.4: Projektantrag
 - Welche Punkte enthält der Projektantrag?
 
@@ -132,9 +115,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
 - Beschreiben Sie den Aufbau der 4-Felder-Matrix für die SWOT-Analyse.
 
 ---
-
-## 🎯 Wissen – Ziele
-
 ### W 2.9: Zielkategorien
 - In welchen Kategorien können Projektziele gesetzt werden? Nennen Sie Beispiele zu jeder Kategorie.
 
@@ -159,9 +139,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
 - Erklären Sie die Bedeutung dieser Zielvereinbarung im Rahmen von Projekten.
 
 ---
-
-## 🌎 Wissen – Projektumwelt, Stakeholder
-
 ### W 2.16: Projektumwelten
 - In welche Umwelten ist das System Projekt eingebettet? Nennen Sie die Umweltformen sowie konkrete Beispiele dazu.
 
@@ -193,9 +170,6 @@ Dieses Dokument strukturiert die bereitgestellten Inhalte als Markdown. Es ist i
 - In welcher Weise kann die Steuerung des Projektumfelds erfolgen? Nennen Sie auch konkrete Maßnahmen.
 
 ---
-
-## 📝 Wissen – Projektauftrag, Freigaben, Meilensteine
-
 ### W 2.26: Zeitpunkt des Projektauftrags
 - In welcher Phase im Projektverlauf soll der Projektauftrag positioniert sein?
 
