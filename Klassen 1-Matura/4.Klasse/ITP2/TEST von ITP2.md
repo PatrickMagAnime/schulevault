@@ -1,6 +1,6 @@
-# Projektmanagement Wissen
-
-## 📚 1. Grundlagen und Projektarten
+[[4.ITP2]]
+___
+## Kapitel 1: Grundbegriffe des Projektmanagements
 
 Welche der Gründe sprechen für die Durchführung von Projekten im Betrieb?
 	*   **Lösung komplexer Probleme:** Aufgaben sind zu umfangreich für das Tagesgeschäft.
@@ -40,14 +40,6 @@ Welche Dokumente entstehen in den einzelnen Phasen?
 	*   **Planung:** Projektstrukturplan, Zeitplan (Gantt), Kostenplan, Ressourcenplan, Risikoanalyse.
 	*   **Durchführung:** Statusberichte, Protokolle, Änderungensanträge (Change Requests).
 	*   **Abschluss:** Projektabschlussbericht, Abnahmeprotokoll, Lessons Learned.
-
-Was sind Querschnittsaufgaben in Projekten? Nennen Sie einige Beispiele.
-	Aufgaben, die phasenübergreifend während der gesamten Projektlaufzeit stattfinden.
-	*   Risikomanagement
-	*   Qualitätsmanagement
-	*   Projektcontrolling
-	*   Dokumentation
-	*   Führung & Kommunikation
 
 Definieren Sie den Begriff Meilenstein.
 	Ein Meilenstein ist ein Ereignis von besonderer Bedeutung im Projektverlauf. Er hat eine Dauer von 0 (Zeitpunkt) und markiert oft das Ende einer Phase oder die Fertigstellung eines wichtigen Liefergegenstandes.
@@ -105,10 +97,6 @@ Welche Aufgaben kann ein Projektmanagement-Office (PMO) übernehmen?
 Welche Funktionen kann ein Projektmanager-Kreis übernehmen?
 	Ein Forum für den Erfahrungsaustausch (Best Practices, Lessons Learned), gegenseitige Unterstützung (Kollegiale Beratung) und Weiterentwicklung der PM-Standards im Unternehmen.
 
----
-
-## 👤 2. Aufgaben des Projektmanagers & Zertifizierung
-
 Erklären Sie, welche Hauptaufgaben der Projektmanager im Rahmen eines Projekts hat.
 	*   Planung (Struktur, Termine, Kosten).
 	*   Führung und Motivation des Teams.
@@ -160,7 +148,7 @@ Was ist PRINCE2?
 
 ---
 
-## 💡 3. Kreativitätstechniken
+## Kapitel 2: Projektbegründung
 
 Welche Kreativitätstechniken kennen Sie und wozu werden sie eingesetzt?
 	Sie werden eingesetzt, um neue Ideen zu generieren, Probleme zu lösen oder Innovationen zu fördern, besonders in der Start- oder Planungsphase.
@@ -169,10 +157,6 @@ Welche Kreativitätstechniken kennen Sie und wozu werden sie eingesetzt?
 	*   **Morphologischer Kasten:** Zerlegen eines Problems in Parameter und Ausprägungen, um neue Kombinationen zu finden (analytisch-systematisch).
 	*   **Mindmapping:** Grafische Darstellung von Themen und Assoziationen ausgehend von einem zentralen Begriff.
 	*   **Delphi-Methode:** Mehrstufige Befragung von Experten, um zu einem Konsens oder einer Prognose zu gelangen (anonymisiert).
-
----
-
-## 📝 4. Projektantrag, Vorstudie, Machbarkeit & Ziele
 
 Welche Punkte enthält der Projektantrag?
 	Titel, Ausgangslage, Grobziele, Nutzen, grober Zeitrahmen, geschätzte Kosten, Benennung des vorgeschlagenen Projektleiters.
@@ -223,10 +207,6 @@ Zielbeziehungen
 	*   **Zielkonkurrenz:** Erreichung von Ziel A behindert Ziel B (Konflikt).
 	*   **Zielneutralität:** Ziele beeinflussen sich nicht.
 
----
-
-## 🌎 5. Projektumwelt & Stakeholder
-
 In welche Umwelten ist das System Projekt eingebettet?
 	*   **Soziale Umwelt:** Menschen, Gruppen, Kultur.
 	*   **Sachliche Umwelt:** Technologien, Geografie, Infrastruktur.
@@ -255,10 +235,6 @@ Beschreiben Sie die Schritte der Stakeholderanalyse.
 Steuerung des Projektumfelds
 	Durch gezieltes Stakeholdermanagement: Regelmäßige Kommunikation, Einbindung in Entscheidungen, Marketing für das Projekt ("Projektmarketing"), Konfliktmanagement.
 
----
-
-## 📝 6. Projektauftrag & Freigaben
-
 Zeitpunkt und Bedeutung des Projektauftrags
 	Er steht am Ende der Initialisierung und ist der formale Startschuss. Er ist der "Vertrag" zwischen Auftraggeber und Projektleiter. Ohne Auftrag kein Projekt.
 
@@ -271,12 +247,9 @@ Was sind Freigaben?
 Warum sind Budget und Ressourcen im Auftrag wichtig?
 	Weil der Projektleiter nur mit zugesicherten Ressourcen arbeiten kann. Ohne Budgetfreigabe ist er handlungsunfähig.
 
-Was ist eine Meilensteinliste?
-	Eine tabellarische Übersicht aller Meilensteine mit Terminen und zu erbringenden Ergebnissen. Sie dient der groben Terminüberwachung.
-
 ---
 
-## 🚀 7. Projektstart
+## Kapitel 3: Projektstart und Projektorganisation
 
 Bedeutung des Projektstarts
 	Der Start legt das Fundament. Hier werden Weichen für die Kultur, das gemeinsame Verständnis und die Motivation gestellt. "Wie das Projekt beginnt, so endet es oft."
@@ -284,10 +257,6 @@ Bedeutung des Projektstarts
 Formen des Projektstarts
 	*   **Projektstart-Workshop:** Erarbeitung der Details mit dem Kernteam.
 	*   **Kick-off-Meeting:** Informationsveranstaltung für alle Beteiligten (große Runde).
-
----
-
-## 🏗 8. Projektorganisationsformen
 
 Welche grundlegenden Organisationsformen können in Projekten eingesetzt werden?
 
@@ -308,10 +277,6 @@ Matrix-Projektorganisation
 
 Projektorientiertes Unternehmen
 	Unternehmen, deren Kerngeschäft Projekte sind (z.B. Bauunternehmen, Softwarehäuser, Beratungen). Die Struktur ist auf Projekte ausgerichtet, nicht auf Abteilungen.
-
----
-
-## 👥 9. Teamarbeit & Führung
 
 Herausforderungen der Teamarbeit & Teambildung
 	Neue Kollegen, unklare Rollen, unterschiedliche Arbeitsweisen. Bei der Bildung muss auf fachliche Kompetenz ("Hard Skills") und menschliche Passung ("Soft Skills") geachtet werden.
@@ -337,7 +302,7 @@ Monochronic vs. Polychronic Time
 
 ---
 
-## 📊 10. Strukturpläne & Planung
+## Kapitel 4: Projektplanung
 
 Zweck von Strukturplänen (PSP - Projektstrukturplan)
 	Der PSP ist der "Plan der Pläne". Er zerlegt das Gesamtprojekt in teilbare, planbare und kontrollierbare Einheiten.
@@ -359,6 +324,9 @@ Funktionsmatrix & Verantwortungsmatrix (RACI)
 	*   **C**onsulted (Muss gefragt werden).
 	*   **I**nformed (Muss informiert werden).
 
+Was ist eine Meilensteinliste?
+	Eine tabellarische Übersicht aller Meilensteine mit Terminen und zu erbringenden Ergebnissen. Sie dient der groben Terminüberwachung.
+
 Gantt-Diagramm
 	Balkenplan. Zeitliche Darstellung der Arbeitspakete auf einer Zeitachse. Zeigt Dauer, Start, Ende und Parallelitäten.
 
@@ -369,7 +337,15 @@ Netzplantechnik
 
 ---
 
-## ⚠ 11. Risikomanagement & Controlling
+## Kapitel 5: Querschnittsaufgaben
+
+Was sind Querschnittsaufgaben in Projekten? Nennen Sie einige Beispiele.
+	Aufgaben, die phasenübergreifend während der gesamten Projektlaufzeit stattfinden.
+	*   Risikomanagement
+	*   Qualitätsmanagement
+	*   Projektcontrolling
+	*   Dokumentation
+	*   Führung & Kommunikation
 
 Risikomanagement Prozess
 	1.  **Identifikation:** Was kann passieren?
@@ -390,10 +366,6 @@ Methoden der Fortschrittskontrolle
 	*   **Schätzung:** Team schätzt Restaufwand (oft ungenau).
 	*   **Meilenstein-Trendanalyse (MTA):** Grafische Darstellung von Terminverschiebungen über die Zeit.
 
----
-
-## 📘 12. Projekthandbuch & Abschluss
-
 Projekthandbuch
 	Die zentrale Zusammenstellung aller Informationen, Standards und Regelungen für das spezifische Projekt. Es ist der "Leitfaden" für die Teammitglieder (Wie dokumentieren wir? Wie kommunizieren wir?).
 
@@ -405,10 +377,6 @@ Aufgaben am Projektabschluss
 	*   **Inhaltlich:** Restpunkte abarbeiten, Dokumentation finalisieren.
 	*   **Organisatorisch:** Ressourcen freigeben, Benutzerkonten schließen.
 	*   **Emotional:** Leistungen würdigen, Feedback geben, Konflikte beilegen, Feiern.
-
----
-
-## 💻 13. Software
 
 Groupware & Plattformen
 	Dienen der Zusammenarbeit (Collaboration).
