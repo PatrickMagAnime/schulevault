@@ -13,4 +13,3 @@ ___
 - 2. Ordnung **(3.73 – 3.80)**
 - Schwingungen **(3.84 – 3.95)**
 - SRDP-Aufgaben (z.B. [[Bakterienkultur]] a), [[Gebäudetechnik]] c), [[Bewegung eines Bootes]] a), [[Wirkstoffkonzentration]] b), [[Blut]] d), [[Leistungsdiagnostik im Sport]] d) )
-- 
