@@ -40,3 +40,13 @@ Umwelt:
 - Verkehrsfluss statt Staus senkt Emissionen.
 - Verlagerung auf Bahn/Schiff reduziert CO₂ und Luftschadstoffe.
 - Gemeinsame Standards fördern umweltfreundliche Technik und weniger Lärm.
+
+**88/3**
+![[Pasted image 20251211164843.png]]
+Folgen der neuen GAP und Anpassung an den Weltmarkt:
+- Weniger Interventionen/Preissicherung, stärkere Preisschwankungen, Kostendruck für Bauern.
+- Direktzahlungen, Umweltauflagen, mehr Landschaftspflege, Biodiversität, Förderung Bio-Landbau.
+- Strukturwandel: kleine Betriebe geben eher auf, Konzentration auf größere Höfe, regionale Arbeitslosigkeit möglich.
+- Wettbewerbsfähigkeit im Export steigt, aber Importdruck nimmt zu.
+- Regionale Qualität/Label fördern Tourismus (Kulturlandschaften, Agrartourismus).
+- Lagerbestände/Überproduktion sinken, Markt wird effizienter, aber Krisen anfälliger.
