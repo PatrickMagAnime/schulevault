@@ -17,4 +17,11 @@ Netzwerkforensik:
 	was ist ein IOC? Indicator of compromize (Welche spur findet man die ein angreifer ausnutzen könnte)
 	Dateibasierte,Netzwerkbasierte,Patterns in den logs, System-IOCs.
 	Malware bsp was wir gemacht haben (Redline Stealer), wie geht man vor bei der spurensuche? (aufällige muster, intervalle)
-	
+	Timeline 
+
+Penetration testing:
+	Phasen nach PES
+	Ersten 3 Punkte im Detail (Vorbereitungsphase zb )
+	Information gathering (Aktiv, Passiv)
+	Reconesaince ist wichtig
+	Thread modeling auch wichtig
