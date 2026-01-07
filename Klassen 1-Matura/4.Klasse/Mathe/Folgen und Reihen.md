@@ -18,10 +18,12 @@ n-tes folgeglied: $a_{n+1}=a_{n+3}$ (rekursive darstellung) $a_{1}=2$
 $a_n = 2^{(n-1)}$
 $a_n = 2n^2$
 ___
+![[Pasted image 20260107113626.png]]
+
+
 ![[Pasted image 20260107113211.png]]
-$a_201=1004$
+$a_{201}=1004$
 
 ![[Pasted image 20260107113246.png]]
-143mal
-
-
+1+2+3+4+5+6+7+8+9+10+11+12
+78mal
