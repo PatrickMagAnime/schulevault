@@ -6,3 +6,14 @@ Zahlenfolgen: geordnete liste von zahlen
 	Die formel wird **bildungsgesetz** genannt
 
 Bsp: (2,5,8,11,...)
+n-tes folgeglied: $a_{n+1}=a_{n+3}$ (rekursive darstellung) $a_{1}=2$
+
+![[Pasted image 20260107102950.png]]
+-1,1,-1,1,-1,1
+0,1/3,2/4,3/5,4/6,5/7
+![[Pasted image 20260107102959.png]]
+1,-1,1,-1,1,-1
+
+![[Pasted image 20260107103014.png]]
+
+
