@@ -15,6 +15,8 @@ n-tes folgeglied: $a_{n+1}=a_{n+3}$ (rekursive darstellung) $a_{1}=2$
 1,-1,1,-1,1,-1
 1,1,2,3,5,8
 ![[Pasted image 20260107103014.png]]
-$a_{n}+1=$
+$a_n = 2^{(n-1)}$
+$a_n = 2n^2$
+
 
 
