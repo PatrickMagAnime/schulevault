@@ -13,4 +13,14 @@ Arten von Sozialversicherung:
 - Pensionsversicherung
 Man muss dort versichert sein.
 
-ASVG=Allgemeine Sozial Verischerungs Gesetz
+ASVG= Allgemeine Sozial Verischerungs Gesetz
+
+Vollversichert: man ist in allen 4 Versicherungsarten Versichert.
+Teilversichert: man ist nicht in allen 4 Arten versichert
+
+Versicherungsverhältnis ist das Rechtliche Erhältnis zwischen Leistungsempfänger und Leistungserbringer.
+SV-Träger: Krankenkasse
+
+Leistungen die erbracht werden:
+- Geldleistungen
+- Sachleistungen
