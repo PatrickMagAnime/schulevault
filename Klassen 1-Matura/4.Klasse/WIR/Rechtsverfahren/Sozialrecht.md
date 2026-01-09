@@ -24,3 +24,6 @@ SV-Träger: Krankenkasse
 Leistungen die erbracht werden:
 - Geldleistungen
 - Sachleistungen
+Je nach Versicherungsfall werden einer der beiden Leistungen erbracht.
+
+### 2 Arbeitlsosenversicherung
