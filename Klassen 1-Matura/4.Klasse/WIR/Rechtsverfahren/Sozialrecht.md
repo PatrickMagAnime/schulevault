@@ -32,3 +32,5 @@ Arbeitslosengeld (50-75%) 20 Wochen
 Notstandshilfe (75-100%) 52 Wochen
 
 Arbeitsfähigkeit: jemand der in der lage ist zu arbeiten
+
+Anwaltschaft: unter den verstehen wir die arbeitslosen verpflichtigen tätigkeit inerhalb einer
