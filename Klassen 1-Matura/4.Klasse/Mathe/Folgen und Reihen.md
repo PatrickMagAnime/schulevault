@@ -58,6 +58,7 @@ $d=\frac{10-1}{9}=1$
 
 ![[Pasted image 20260107113211.png]]
 $a_{201}=1004$
+es ist immer +5. $\frac{1000}{5}=200$ und es beginnt mit 4. Also ab $a_{201}$ ist es größer als 1000
 
 ![[Pasted image 20260107113246.png]]
 1+2+3+4+5+6+7+8+9+10+11+12
