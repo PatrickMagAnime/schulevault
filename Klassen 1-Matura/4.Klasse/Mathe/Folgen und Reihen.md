@@ -85,5 +85,5 @@ $a_n = \left( \frac{4}{5} \right)·\left( \frac{1}{5} \right)^{n-1}$
 
 
 ![[Pasted image 20260113171401.png]]
-20 → 24 in 5 Jahren: $20·(1+r)^{5}=24$
-$1+r=\left( \frac{24}{20} \right)^{\frac{1}{5}}=1.2^{\frac{1}{5}}$ = r≈1.037087−1≈0.03709 ≈ 3.71% p.a.
+von 20 zu 24 in 5 Jahren: $20·(1+r)^{5}=24$
+$1+r=\left( \frac{24}{20} \right)^{\frac{1}{5}}=1.2^{\frac{1}{5}}$ = r≈1.037087−1≈0.03709 ≈ 3.71%
