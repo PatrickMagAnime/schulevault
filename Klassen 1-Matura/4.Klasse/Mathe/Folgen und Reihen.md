@@ -1,3 +1,4 @@
+[[4.Mathe]]
 ___
 Zahlenfolgen: geordnete liste von zahlen
 	bsp: (1,2,3,4,5,6,7,...)
