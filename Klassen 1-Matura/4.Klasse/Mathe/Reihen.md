@@ -13,3 +13,5 @@ konvergente reihe ist es wenn es einen grenzwert gibt. ansonsten ist es divergen
 ![[Pasted image 20260114110731.png]]
 
 **a)**
+in der formel einsetzen vom grünen bild oben. es kommt $\frac{4}{3}$ raus.
+$\frac{\frac{1}{4^n}}{\frac{1}{4^n}-1}$ oder wir stellen eif alles um am anfang mit potenzregel. es kommt 
