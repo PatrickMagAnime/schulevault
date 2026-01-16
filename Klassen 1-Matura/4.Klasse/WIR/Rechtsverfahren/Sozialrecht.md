@@ -42,9 +42,20 @@ Versicherungsfälle:
 - Mutterschaft
 1.
 Krankheit ist ein regelwiedriger körper zustand oder geistes wiederiger zustand der eine medizinische heil behandlung notwendig macht.
-Kranken versicherung sind immer sachleistungen (ärtzliche hilfe, spital behandlung, medikamente, heilbeihilfe)
-
+Kranken versicherung sind immer **sachleistungen (ärtzliche hilfe, spital behandlung, medikamente, heilbeihilfe)**
 Es gilt immer das Finalprinzip: es wird nur darauf geschaut was die konsequenz von der Krankheit ist. (es wird nicht geschaut wie es dazu gekommen ist)
 
 2.
 (krankenkassa)Kranken geld bekommt man wenn die Krankheits dauer zu lange war und die entgeltvorauszahlung abgelaufen ist.
+
+3.
+leistet die krankenkassa. es gibt geldleistungen und sachleistungen. sachleistungen sind die selben wie bei krankeheiten.
+**Wochengeld:** Für schwangere frauen ist es verboten für 1monat davor und 1monat danach einer beschäftigung nachzugehen.
+wochen geld kann gleich viel wie der gehalt sein.
+**Kindebetreuungs geld (karenz geld):** mutter oder vater dürfen bis zum 3ten gebuhrstag des kindes unbezahlten urlaub in anspruch nehmen.
+karenzgeld wird jährlich angepasst an die inflation usw. umso kürzer die karenzzeit, desto mehr karenzgeld dann.
+
+### 4 Unfallversicherung
+Erbring nicht leistungen bei unfällen sondern nur bei bestimmten arten.
+- Arbeitsunfall
+- Berufunfall
