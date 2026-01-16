@@ -34,3 +34,11 @@ Notstandshilfe (75-100%) 52 Wochen
 Arbeitsfähigkeit: jemand der in der lage ist zu arbeiten
 
 Anwaltschaft: unter den verstehen wir die arbeitslosen verpflichtigen tätigkeit inerhalb einer
+
+### 3 Krankenversicherung
+Versicherungsfälle:
+- Krankheit
+- (Arbeitsunfähigkeit) Unfall
+- Mutterschaft
+
+Krankheit ist ein regelwiedriger körper zustand oder geistes wiederiger zustand der eine medizinische heil behandlung notwendig macht.
