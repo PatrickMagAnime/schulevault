@@ -59,3 +59,4 @@ karenzgeld wird jährlich angepasst an die inflation usw. umso kürzer die karen
 Erbring nicht leistungen bei unfällen sondern nur bei bestimmten arten.
 - Arbeitsunfall
 - Berufunfall
+Entweder bei entstandene beeinträchtigungen oder bei tot.
