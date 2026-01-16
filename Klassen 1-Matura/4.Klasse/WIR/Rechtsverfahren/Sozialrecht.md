@@ -61,4 +61,6 @@ Erbring nicht leistungen bei unfällen sondern nur bei bestimmten arten.
 - Berufunfall
 Entweder bei entstandene beeinträchtigungen oder bei tot.
 
-Ein arbeitsunfall ist ein unfall, der sich im zeitlichen, örtlichen und ursächlichen zusammenhang mit der dienstleistung ereignet.
+Ein **arbeitsunfall** ist ein unfall, der sich im zeitlichen, örtlichen und ursächlichen zusammenhang mit der dienstleistung ereignet.
+
+Eine **berufskrankheit** ist eine krankheit die mit hoher warscheinlcihkeit aufgrund der berufsausübung entstanden ist.
