@@ -43,20 +43,38 @@ ___
 ![[Pasted image 20260120213603.png|500]]
 Ich werde immer von n=3 ausgehen.
 **a)**
-$\frac{3}{27}=0,111'$
-Es würde sich 0 nähern. die reihe ist absolut konvergent.
-Aber:
+Rechnung:
+$\left| \frac{a_{n+1}}{a_n} \right| = \frac{n+1}{3^{n+1}} \cdot \frac{3^n}{n} = \frac{n+1}{n} \cdot \frac{3^n}{3^n \cdot 3} = \left( 1 + \frac{1}{n} \right) \cdot \frac{1}{3}$
 
+Grenzwert:
+$L = \lim_{n \to \infty} \left[ \left( 1 + \frac{1}{n} \right) \cdot \frac{1}{3} \right] = 1 \cdot \frac{1}{3} = \frac{1}{3}$
+
+Da $L = \frac{1}{3}$ kleine als 1, ist die Reihe konvergent.
 
 **b)**
-$\frac{27}{9}=3$
-Ergebniss würde immer größer als 1 sein. die reihe ist divergent
+Rechnung:
+$\left| \frac{a_{n+1}}{a_n} \right| = \frac{3^{n+1}}{(n+1)^2} \cdot \frac{n^2}{3^n} = \frac{3^n \cdot 3}{3^n} \cdot \frac{n^2}{(n+1)^2} = 3 \cdot \left( \frac{n}{n+1} \right)^2$
+
+Grenzwert:
+$L = \lim_{n \to \infty} \left[ 3 \cdot \left( \frac{1}{1 + \frac{1}{n}} \right)^2 \right] = 3 \cdot 1^2 = 3$
+
+Da $L = 3$ größer als 1 ist , isst die Reihe divergent.
 
 **c)**
-$\frac{1}{9}=0,111'$
-Es würde sich 0 nähern. die reihe ist absolut konvergent.
+Rechnung:
+$\left| \frac{a_{n+1}}{a_n} \right| = \frac{1}{(n+1)^2} \cdot \frac{n^2}{1} = \frac{n^2}{(n+1)^2} = \left( \frac{n}{n+1} \right)^2$
+
+Grenzwert:
+$L = \lim_{n \to \infty} \left( \frac{1}{1 + \frac{1}{n}} \right)^2 = 1^2 = 1$
+
+Da $L = 1$, liefert das Quotientenkriterium keine entetscheidung
 
 **d)**
-$\frac{0.125}{9}= 0.013888'$
-Es würde sich 0 nähern. die reihe ist absolut konvergent.
+Rechnung:
+$\left| \frac{a_{n+1}}{a_n} \right| = \frac{0,5^{n+1}}{(n+1)^2} \cdot \frac{n^2}{0,5^n} = \frac{0,5^n \cdot 0,5}{0,5^n} \cdot \left( \frac{n}{n+1} \right)^2 = 0,5 \cdot \left( \frac{n}{n+1} \right)^2$
+
+Grenzwert:
+$L = \lim_{n \to \infty} \left[ 0,5 \cdot \left( \frac{1}{1 + \frac{1}{n}} \right)^2 \right] = 0,5 \cdot 1^2 = 0,5$
+
+Da $L = 0,5$ kleiner als 1, ist die Reihe konvergent
 
