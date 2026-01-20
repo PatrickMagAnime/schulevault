@@ -39,3 +39,11 @@ Hauptnenner bilden ($2 \cdot 2187 = 4374$):
 $R_8 = \frac{6561}{4374} - \frac{6560}{4374} = \frac{1}{4374}$
 $R_8 \approx 0,0002286$
 ___
+![[Pasted image 20260120213317.png|700]]
+![[Pasted image 20260120213603.png|500]]
+Ich werde immer von n=3 ausgehen.
+**a)**
+$\frac{3}{27}=0,111'$
+Es würde sich 0 nähern. die reihe ist absolut konvergent.
+
+
