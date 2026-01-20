@@ -28,16 +28,14 @@ Für $k = 8$:
 $S_8 = 1 \cdot \frac{1 - \left( \frac{1}{3} \right)^8}{1 - \frac{1}{3}} = \frac{1 - \frac{1}{6561}}{\frac{2}{3}}$
 $S_8 = \frac{6560}{6561} \cdot \frac{3}{2} = \frac{3280}{2187} \approx 1,49977$
 
-2. Der Fehler (Restglied $R_8$):
-
-Der Fehler ergibt sich aus der Differenz zwischen dem exakten Grenzwert $S$ und der Näherung $S_8$:
+Der Fehler (Restglied $R_8$):
+Der Fehler ergibt sich zwischen dem grenzwert S und der Näherung $S_8$
 
 $R_8 = S - S_8$
-
 $R_8 = \frac{3}{2} - \frac{3280}{2187}$
 
 Hauptnenner bilden ($2 \cdot 2187 = 4374$):
 
 $R_8 = \frac{6561}{4374} - \frac{6560}{4374} = \frac{1}{4374}$
-
 $R_8 \approx 0,0002286$
+___
