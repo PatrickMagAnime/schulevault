@@ -45,5 +45,18 @@ Ich werde immer von n=3 ausgehen.
 **a)**
 $\frac{3}{27}=0,111'$
 Es würde sich 0 nähern. die reihe ist absolut konvergent.
+Aber:
 
+
+**b)**
+$\frac{27}{9}=3$
+Ergebniss würde immer größer als 1 sein. die reihe ist divergent
+
+**c)**
+$\frac{1}{9}=0,111'$
+Es würde sich 0 nähern. die reihe ist absolut konvergent.
+
+**d)**
+$\frac{0.125}{9}= 0.013888'$
+Es würde sich 0 nähern. die reihe ist absolut konvergent.
 
