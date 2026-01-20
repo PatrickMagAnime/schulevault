@@ -41,7 +41,7 @@ $R_8 \approx 0,0002286$
 ___
 ![[Pasted image 20260120213317.png|700]]
 ![[Pasted image 20260120213603.png|500]]
-Ich werde immer von n=3 ausgehen.
+
 **a)**
 Rechnung:
 $\left| \frac{a_{n+1}}{a_n} \right| = \frac{n+1}{3^{n+1}} \cdot \frac{3^n}{n} = \frac{n+1}{n} \cdot \frac{3^n}{3^n \cdot 3} = \left( 1 + \frac{1}{n} \right) \cdot \frac{1}{3}$
