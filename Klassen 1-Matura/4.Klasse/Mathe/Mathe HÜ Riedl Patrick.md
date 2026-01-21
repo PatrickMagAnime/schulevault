@@ -8,6 +8,7 @@ $\sum_{n=0}^{\infty} \frac{1}{3^n} = 1 + \frac{1}{3} + \frac{1}{9} + \frac{1}{27
 Konvergenz weil:
 ![[Pasted image 20260114110903.png|500]]
 Die vorliegende Reihe ist eine geometrische Reihe der Form $\sum_{n=0}^{\infty} a \cdot q^n$ mit:
+**Bildungsgestz** nennt man die formel der reihe!!!
 $a = 1$
 Bruch ist $\frac{1}{3}$ also q ist unter 1 und deswegen konvergent
 
@@ -41,7 +42,7 @@ $R_8 \approx 0,0002286$
 ___
 ![[Pasted image 20260120213317.png|700]]
 ![[Pasted image 20260120213603.png|500]]
-
+das g ist:
 **a)**
 Rechnung:
 $\left| \frac{a_{n+1}}{a_n} \right| = \frac{n+1}{3^{n+1}} \cdot \frac{3^n}{n} = \frac{n+1}{n} \cdot \frac{3^n}{3^n \cdot 3} = \left( 1 + \frac{1}{n} \right) \cdot \frac{1}{3}$
