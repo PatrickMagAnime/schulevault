@@ -8,4 +8,5 @@ blinde signaturen einer nachricht sollte auch nur eine gültige signatur erzeuge
 
 Ist nicht erfüllt:
 A hat von B signierte nachricht m,
-$s_{2}^d=(s*r_{2})^e =(m^d*r_{2})^e=m^{de}*r_{2}^e=m*r_{2}^e$
+$s_{2}^d=(s*r_{2})^e =(m^d*r_{2})^e=m^{de}*r_{2}^e=m*r_{2}^e=m_{2}$ mod n
+Abhilfe: Hashfunktion verwenden!
