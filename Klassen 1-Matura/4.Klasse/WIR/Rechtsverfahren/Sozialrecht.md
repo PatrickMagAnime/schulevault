@@ -69,3 +69,5 @@ Sachleistung:
 - Unfall heil behandlung (rehabilitation)
 - versehrtenrente (MdE) ab 20% bekommt man die. zb daumen fehlt: 10%
 - integritäts abgeltung (verschuldung ist entweder **vorsätzlich** (absichtlich, wissentlich, bedingter vorsatz) oder fahrlässig(grobe, leichte, entschuldbare))
+
+Wenn jemand stirbt dann hat ... die kosten der bestattung zu bezahlen.
