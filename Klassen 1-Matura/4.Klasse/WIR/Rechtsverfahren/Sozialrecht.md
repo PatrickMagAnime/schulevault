@@ -67,4 +67,5 @@ Eine **berufskrankheit** ist eine krankheit die mit hoher warscheinlcihkeit aufg
 
 Sachleistung:
 - Unfall heil behandlung (rehabilitation)
-- 
+- versehrtenrente (MdE) ab 20% bekommt man die. zb daumen fehlt: 10%
+- integritäts abgeltung (verschuldung ist entweder vorsätzlich oder fahrlässig)
