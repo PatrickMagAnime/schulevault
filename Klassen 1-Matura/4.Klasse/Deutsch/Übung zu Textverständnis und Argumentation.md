@@ -16,7 +16,7 @@ Finde möglichst präzise Fragen, anhand derer du deine Argumentation aufbauen k
 - **Findest du, dass auch an der HTL eine zweite Fremdsprache unterrichtet werden sollte? Warum bzw. warum nicht**
 - **Rechtfertigen die neuen Unterrichtsfächer die Kürzungen in den Fremdsprachen? Warum bzw. warum nicht**
 
-- Findest du das man KI in zukunst mehr grbrauchen wird als Fremdsprachen?
+- Findest du das man KI in zukunft mehr grbrauchen wird als Fremdsprachen?
 - Was ist der Unterschied zwischen Unterricht mit KI über eine Fremdprache als wie Unterricht mit einem echten Menschen?
 - Findest du, dass man auf der HTL KI Unterricht haben sollte? Warum bzw. warum nicht?
 - Hast du Lösungsansätze, und welcher ist am besten?
