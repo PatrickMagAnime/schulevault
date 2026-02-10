@@ -5,7 +5,7 @@ Lies den hochgeladenen Artikel und bearbeite folgende Arbeitsaufgaben.
 - **Worum geht es im Kern bei der dargestellten Thematik**
 Es geht darum das Sprachstunden mit KI Unterricht eingetauscht werden.
 - **Welche unterschiedlichen Positionen beziehen die erwähnten Kommentare und wie argumentieren sie ihre Forderungen**
-Die Leute sind teils für den KI Unterreicht aber auch teils gegen den KI Unterricht weil Fremdsprachen wichtig sind.
+Die Leute sind teils für den KI Unterreicht aber auch teils gegen den KI Unterricht weil Fremdsprachen wichtig sind. Die Unterstützung vom Herrn Bildungsdirektor Christoph Wiederkehr.  
 - **Welche Position beziehst du in dieser Diskussion? Auch wenn du kein Gymnasium besuchst**
 Im bin für den KI Unterricht daher Politische Bildung sowie KI und Informatik die Zukunft sind.
 
@@ -20,5 +20,3 @@ Finde möglichst präzise Fragen, anhand derer du deine Argumentation aufbauen k
 - Was ist der Unterschied zwischen Unterricht mit KI über eine Fremdprache als wie Unterricht mit einem echten Menschen?
 - Findest du, dass man auf der HTL KI Unterricht haben sollte? Warum bzw. warum nicht?
 - Hast du Lösungsansätze, und welcher ist am besten?
-
-
