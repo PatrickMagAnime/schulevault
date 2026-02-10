@@ -19,6 +19,6 @@ Finde möglichst präzise Fragen, anhand derer du deine Argumentation aufbauen k
 - Findest du das man KI in zukunst mehr grbrauchen wird als Fremdsprachen?
 - Was ist der Unterschied zwischen Unterricht mit KI über eine Fremdprache als wie Unterricht mit einem echten Menschen?
 - Findest du, dass man auf der HTL KI Unterricht haben sollte? Warum bzw. warum nicht?
-- Hast du Lösungsansätze 
-- **Finde noch weitere Fragen!** Notiere deine Gedanken, am besten bereits strukturiert und in Form einer Gliederung, die dir hilft, einen argumentativen Beitrag zu dieser Diskussion zu verfassen.
+- Hast du Lösungsansätze, und welcher ist am besten?
+
 
