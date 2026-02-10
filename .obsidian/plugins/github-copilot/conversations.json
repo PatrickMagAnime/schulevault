@@ -1,6 +1,17 @@
 {
   "conversations": [
     {
+      "id": "1770727435350",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1770727435350,
+      "updatedAt": 1770727435350,
+      "model": {
+        "label": "GPT-o4-mini",
+        "value": "o4-mini"
+      }
+    },
+    {
       "id": "1759241504080",
       "title": "erzähl mir was über elektro te...",
       "messages": [
@@ -344,18 +355,7 @@
         "label": "GPT-5",
         "value": "gpt-5"
       }
-    },
-    {
-      "id": "1757678231500",
-      "title": "New Conversation",
-      "messages": [],
-      "createdAt": 1757678231500,
-      "updatedAt": 1757678231500,
-      "model": {
-        "label": "GPT-5",
-        "value": "gpt-5"
-      }
     }
   ],
-  "activeConversationId": "1759241504080"
+  "activeConversationId": "1770727435350"
 }
