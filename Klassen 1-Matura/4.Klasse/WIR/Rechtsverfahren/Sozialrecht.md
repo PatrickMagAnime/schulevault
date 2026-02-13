@@ -77,3 +77,6 @@ Es gibt 3 Versicherungsfälle
 - Alters
 - geminderte Arbaeitsfähigkeit
 - Tod
+
+Jährliche Beitragsgrundlage ist mal1,78%
+zB: 
