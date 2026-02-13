@@ -79,5 +79,4 @@ Es gibt 3 Versicherungsfälle
 - Tod
 
 Jährliche Beitragsgrundlage ist mal1,78%
-zB: 2000$dot
-14=28000/100$*$1,78=498,4€ dann Pensions gutschrift
+zB: 2000mal14=28000/100mal1,78=498,4€ dann Pensions gutschrift
