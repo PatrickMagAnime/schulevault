@@ -75,8 +75,8 @@ Wenn jemand stirbt dann hat ... die kosten der bestattung zu bezahlen.
 ### 5 Pensionversicherung
 Es gibt 3 Versicherungsfälle
 - Alters
-- geminderte Arbaeitsfähigkeit
+- geminderte Arbeitsfähigkeit
 - Tod
 
 Jährliche Beitragsgrundlage ist mal1,78%
-zB: 
+zB: 2000*14=28000/100*1,78=498,4€ dann Pensions gutschrift
