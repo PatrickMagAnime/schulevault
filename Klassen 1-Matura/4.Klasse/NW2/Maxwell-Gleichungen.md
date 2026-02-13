@@ -1,4 +1,4 @@
-[[4.NW2]]
+q[[4.NW2]]
 ___
 Differentialform:
 $\nabla\cdot\mathbf{E} = \dfrac{\rho}{\varepsilon_0}$
