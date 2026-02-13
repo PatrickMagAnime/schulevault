@@ -71,3 +71,9 @@ Sachleistung:
 - integritäts abgeltung (verschuldung ist entweder **vorsätzlich** (absichtlich, wissentlich, bedingter vorsatz) oder fahrlässig(grobe, leichte, entschuldbare))
 
 Wenn jemand stirbt dann hat ... die kosten der bestattung zu bezahlen.
+
+### 5 Pensionversicherung
+Es gibt 3 Versicherungsfälle
+- Alters
+- geminderte Arbaeitsfähigkeit
+- Tod
