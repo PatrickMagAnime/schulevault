@@ -10,3 +10,8 @@ Szenario: Öffentliche Ausschreibung, jeder Bietende legt sich auf ein Angebot f
 **1.** Bietende erfahren nicht über andere Angebote
 -> Geheimhaltung
 **2.** Bietende können ihr Angebot nicht mehr ändern
+
+einfache digitale Umsetzung: Hashfunktion h öffentliche n(y) 
+1) da h Einwegfunktion
+2) da h Kollisions resistent (d.h  (h) ungleich (h') für y ungleich y')
+
