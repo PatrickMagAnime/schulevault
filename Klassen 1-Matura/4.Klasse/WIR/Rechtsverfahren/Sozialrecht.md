@@ -80,3 +80,4 @@ Es gibt 3 Versicherungsfälle
 
 Jährliche Beitragsgrundlage ist mal1,78%
 zB: 2000mal14=28000/100mal1,78=498,4€ dann Pensions gutschrift
+
