@@ -1,3 +1,5 @@
+[[4.Mathe]]
+___
 Methode zur trennung der variablen
 
 $x+y*y'=0$, $y(4)=3$

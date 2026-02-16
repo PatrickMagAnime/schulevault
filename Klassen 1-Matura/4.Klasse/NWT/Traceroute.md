@@ -1,3 +1,5 @@
+[[4.NWT]]
+___
 Wenn die Time To Live (TTL) eines Datenpakets abläuft, sendet der Router, der das Paket verwirft, eine ICMP-Nachricht (Internet Control Message Protocol) vom Typ "**Time Exceeded**" zurück an den Absender.
 
 **Zusammenfassung des Traceroute-Prozesses:**
