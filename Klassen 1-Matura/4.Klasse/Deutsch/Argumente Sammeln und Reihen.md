@@ -1,5 +1,6 @@
 [[4.Deutsch]]
 ___
+![[Pasted image 20260224132803.png]]
 ##### Unsere Kleidung - Ein Faires Produkt?
 - **Unsere Kleidung ist kein Faires Produkt daher diese von Kindern hergestellt werden.**
 - **Unsere Kleidung ist kein faires Produkt daher bei derer Produktion viel zu viel Wasser verschwendet wird.**
