@@ -10,7 +10,7 @@ ___
 ##### Gesundheitspolitik
 - **Es sollte keine Gesundheitspolitik nur von einer einzigen Person ausgehen, weil Fehler passieren könnten.**
 - **Gesundheitspolitik ist oft unfair, weil Menschen mit viel Geld oft schneller Termine bekommen als andere.**
-- Gute Gesundheitspolitik muss den Fachkräftemangel bekämpfen, damit das Personal in Krankenhäusern nicht überlastet wird.**
-- Gesundheitspolitik sollte mehr Geld in die Vorsorge stecken, damit Menschen gar nicht erst schwer krank werden.**
-- Die Politik muss sicherstellen, dass Medikamente für alle bezahlbar bleiben und nicht nur dem Profit der Firmen dienen.**
+- Gute Gesundheitspolitik muss den Fachkräftemangel bekämpfen, damit das Personal in Krankenhäusern nicht überlastet wird.
+- Gesundheitspolitik sollte mehr Geld in die Vorsorge stecken, damit Menschen gar nicht erst schwer krank werden.
+- Die Politik muss sicherstellen, dass Medikamente für alle bezahlbar bleiben und nicht nur dem Profit der Firmen dienen.
 - **Gesundheitspolitik muss auch die psychische Gesundheit stärken, da diese oft gegenüber körperlichen Krankheiten vernachlässigt wird.**
