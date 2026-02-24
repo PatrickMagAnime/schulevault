@@ -1,4 +1,4 @@
-[[4.Deutsch]]
+	[[4.Deutsch]]
 ___
 ![[Pasted image 20260224132803.png]]
 ##### Unsere Kleidung - Ein Faires Produkt?
