@@ -48,4 +48,6 @@ Das AGBG ist gedeckt mit dem abdeckten system und hat 5 große Kapitel:
 - Vertragsrecht: regelt die Rechtsverhältnisse, die sich aus Verträgen ergeben, wie zum Beispiel die Vertragsfreiheit, die Vertragsbindung oder die Vertragsverletzung.
 
 ##### 2. Rechtssubjekte und Rechtsobjekte
-Rechtssubjekte: sind Personen 
+Rechtssubjekte: sind Personen (natürliche oder juristische (Nicht rechtsanwalt!))
+Rechtsobjekte: sind Sachen 
+
