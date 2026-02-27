@@ -31,4 +31,15 @@ ABGB: Allgemeines Bürgerliches Gesetzbuch
 
 Das AGBG ist gedeckt mit dem abdeckten system und hat 5 große Kapitel:
 - Allgemeiner Teil
-- 
+- Schuldrecht
+- Sachrecht
+- Familienrecht **(Fragt er nicht)**
+- Erbrecht
+
+Erbrecht: regelt die Rechtsverhältnisse, die sich aus dem Tod einer Person ergeben, wie zum Beispiel die Erbfolge, die Erbengemeinschaft oder die Testamentsvollstreckung.
+
+Familienrecht hat wieder 2 Kapitel: **(Fragt er nicht)**
+- Ehevertrag (Mann und Frau)
+- Recht und Pflicht erziehung von Kindern
+
+Sachrecht: regelt die Rechtsverhältnisse, die sich auf Sachen beziehen, wie zum Beispiel das Eigentum, das Besitz oder die Dienstbarkeiten.
