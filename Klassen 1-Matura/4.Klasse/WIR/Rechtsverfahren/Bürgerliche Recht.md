@@ -15,4 +15,5 @@ Subjektives Recht: ist das Recht, das einer Person zusteht, weil sie eine bestim
 
 Privatrecht: regelt die Beziehungen zwischen den Bürgern untereinander. Es umfasst das Zivilrecht, das Handelsrecht und das Arbeitsrecht.
 
-was ist Hoheitsgewalt: jemand darf etwas machen was der staat erlaubt aber anderen nicht.
+Was ist Hoheitsgewalt: jemand darf etwas machen was der staat erlaubt aber anderen nicht.
+
