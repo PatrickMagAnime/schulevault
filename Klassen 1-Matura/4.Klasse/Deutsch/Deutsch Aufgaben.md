@@ -90,3 +90,30 @@ Du sollst im Text **markieren und benennen** (Mehrfachnennungen möglich):
 - **Vorstellung der Rednerin** (Name, Gruppe, warum sie spricht) + **Funktion**: schafft Glaubwürdigkeit
 
 Wenn du mir ein Foto von **S.110 (Fortsetzung)** gibst, kann ich dir die Analyse noch genauer bis zum Ende machen (inkl. konkreter Textstellen).
+
+
+
+### ganze rede
+Guten Tag zusammen,
+
+habt ihr euch schon einmal gefragt, warum ein T‑Shirt manchmal weniger kostet als ein Döner? Es wirkt wie ein Schnäppchen – aber irgendjemand bezahlt trotzdem den Preis. Und das sind oft nicht wir, sondern Menschen in Fabriken und am Ende auch unsere Umwelt.
+
+Ich bin der Meinung: Unsere Kleidung ist viel zu oft kein faires Produkt – und genau deshalb sollten wir unser Kaufverhalten ändern.
+
+Erstens: Hinter billiger Mode steckt häufig Ausbeutung. In vielen Produktionsländern arbeiten Menschen für sehr wenig Geld, oft unter gefährlichen Bedingungen. Wenn ein Kleidungsstück extrem billig ist, dann liegt das selten an „Zauberei“, sondern an gesparten Löhnen und schlechten Arbeitsbedingungen.
+
+Zweitens: Fast Fashion schadet der Umwelt. Für Baumwolle wird viel Wasser verbraucht, beim Färben gelangen Chemikalien in Flüsse und durch ständige neue Kollektionen entsteht ein riesiger Müllberg. Kleidung wird heute oft nur wenige Male getragen – und danach weggeworfen. Das ist weder nachhaltig noch sinnvoll.
+
+Drittens: Auch wir haben mehr Einfluss, als wir denken. Jeder Kauf ist eine kleine Entscheidung. Kaufen wir blind das Billigste, unterstützen wir genau dieses System. Kaufen wir bewusster, senden wir ein anderes Signal.
+
+Natürlich höre ich das Gegenargument: „Faire Kleidung ist zu teuer.“ Aber stimmt das wirklich? Vielleicht ist nicht faire Kleidung zu teuer – sondern wir kaufen zu viel. Weniger Teile, dafür bessere Qualität: Das spart oft sogar Geld, weil die Kleidung länger hält. Außerdem kann man Kleidung tauschen, secondhand kaufen oder reparieren.
+
+Was können wir also konkret tun?
+Zum einen: weniger kaufen und nur das, was wir wirklich brauchen.
+Zum anderen: auf Siegel und transparente Marken achten.
+Und außerdem: Secondhand ausprobieren – das ist meist günstiger und viel nachhaltiger.
+
+Am Ende geht es um eine einfache Frage: Wollen wir Mode, die nur gut aussieht – oder Mode, die auch fair ist?
+Ich finde: Wir sollten nicht auf Kosten anderer Menschen und der Umwelt sparen. Darum: Kauft weniger, kauft bewusster – und macht Kleidung wieder zu etwas Wertvollem.
+
+Danke fürs Zuhören.
