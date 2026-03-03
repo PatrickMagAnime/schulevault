@@ -64,7 +64,7 @@ Das musst du markieren/merken:
 
 ---
 
-## Bild 7 – **Aufgabe 14: Rede sprachlich anpassen (kurz was du tun sollst)**
+## **Aufgabe 14: Rede sprachlich anpassen (kurz was du tun sollst)**
 Du sollst den Kunze-Text **für ein Publikum von Maturant:innen** umschreiben:
 - einfacher / klarer
 - kürzere Sätze
@@ -75,7 +75,7 @@ Wenn du mir sagst, ob du dazu **eine fertige Umschreibung** brauchst, mache ich 
 
 ---
 
-## Bild 8 – **Aufgabe 17: Analyse einer Rede (Severn Suzuki) – Randnotizen, was du markieren sollst**
+## **Aufgabe 17: Analyse einer Rede (Severn Suzuki) – Randnotizen, was du markieren sollst**
 Du sollst im Text **markieren und benennen** (Mehrfachnennungen möglich):
 
 - **Einstiegssatz** (sie stellt sich vor)  
@@ -90,8 +90,3 @@ Du sollst im Text **markieren und benennen** (Mehrfachnennungen möglich):
 - **Vorstellung der Rednerin** (Name, Gruppe, warum sie spricht) + **Funktion**: schafft Glaubwürdigkeit
 
 Wenn du mir ein Foto von **S.110 (Fortsetzung)** gibst, kann ich dir die Analyse noch genauer bis zum Ende machen (inkl. konkreter Textstellen).
-
----
-
-### Mini-Frage, damit ich es exakt so mache wie du’s brauchst:
-Willst du, dass ich dir jetzt auch **eine komplette Gliederung (Einleitung–Hauptteil–Schluss)** als fertigen Textplan für die **Meinungsrede „Kleidung“** schreibe (mit passenden Sprachbausteinen)?
