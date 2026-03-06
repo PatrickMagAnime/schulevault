@@ -60,7 +60,7 @@ man kann träger von rechten und pflichten sein; ab Geburt bis Tod.
 
 ###### Geschäftsfähigkeit
 - Kinder unter 7 Jahren: nicht geschäftsfähig
-- Kinder zwischen 7 und 14 Jahren: beschränkt geschäftsfähig (dürfen nur mit Zustimmung der Eltern Verträge abschließen, z.B. Taschengeldgeschäfte)
+- Kinder zwischen 7 und 14 Jahren: beschränkt geschäftsfähig (Zustimmung der Eltern Verträge abschließen)
 - einfache Rechtsgeschäfte, z.B. Kauf von Süßigkeiten, dürfen sie tätigen)
 - Jugendliche zwischen 14 und 18 Jahren: beschränkt geschäftsfähig (dürfen Verträge abschließen, aber Eltern können widersprechen)
 - Erwachsene ab 18 Jahren: voll geschäftsfähig (können Verträge abschließen und sind rechtlich verantwortlich)
