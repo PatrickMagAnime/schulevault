@@ -65,3 +65,4 @@ man kann träger von rechten und pflichten sein; ab Geburt bis Tod.
 - Jugendliche zwischen 14 und 18 Jahren: beschränkt geschäftsfähig (dürfen Verträge abschließen, aber Eltern können widersprechen)
 - Erwachsene ab 18 Jahren: voll geschäftsfähig (können Verträge abschließen und sind rechtlich verantwortlich)
 - Abhängig von Geisteszustand
+
