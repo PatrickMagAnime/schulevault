@@ -51,3 +51,9 @@ Das AGBG ist gedeckt mit dem abdeckten system und hat 5 große Kapitel:
 Rechtssubjekte: sind Personen (natürliche oder juristische (Nicht rechtsanwalt!))
 Rechtsobjekte: sind Sachen 
 
+Rechts-fähikeit ist die Fähigkeit träger von rechten und Pflichten zu sein.
+Geschäftsfähigkeit ist die Fähigkeit durch eigenes Rechtsgeschäftliches Handeln Rechte und Pflichten zu erwerben.
+Delikts-fähikeit ist die Fähigkeit aus eigenem rechtswidrigen verhalten Schadens-ersatzpflichtig zu werden.
+
+###### Rechtsfähigkeit 
+man kann träger von rechten und pflichten sein
