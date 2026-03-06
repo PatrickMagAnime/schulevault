@@ -56,4 +56,5 @@ Geschäftsfähigkeit ist die Fähigkeit durch eigenes Rechtsgeschäftliches Hand
 Delikts-fähikeit ist die Fähigkeit aus eigenem rechtswidrigen verhalten Schadens-ersatzpflichtig zu werden.
 
 ###### Rechtsfähigkeit 
-man kann träger von rechten und pflichten sein
+man kann träger von rechten und pflichten sein; ab Geburt bis Tod.
+
