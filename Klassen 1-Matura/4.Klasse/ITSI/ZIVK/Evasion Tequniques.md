@@ -14,4 +14,15 @@ dead code: nop = no operation (code macht pause, sorgt dafür das die obfuscatio
 
 Metasploitframework auslassen!
 
-#### Post-Exploitation nach P
+#### Post-Exploitation nach PTES
+Strategien für Pentester:
+Post exploitation ist ...
+
+- Pillaging (Informationen Sammeln, IP-Adressen usw.)
+- Persistence (Zugang sichern)
+- Lateral Movement (Ausbreitung)
+- Privilege Escalation (Privilegien Erweitern)
+
+
+lolbin = living o
+lolbas
