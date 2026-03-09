@@ -24,5 +24,5 @@ Post exploitation ist ...
 - Privilege Escalation (Privilegien Erweitern)
 
 
-lolbin = living on the land (vorinstallierte programme nutzen um privilegien zu bekommen)
+lolbin = living off the land (vorinstallierte programme nutzen um privilegien zu bekommen)
 lolbas = living off the land (von system integrierte system dateien nutzen um privilegien zu erhöhen)
