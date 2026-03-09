@@ -1,0 +1,17 @@
+[[4.ITSI]]
+___
+Antivirenprogramme prüfen mittels signaturen bekannter malwares ob ein solches Programm installiert ist.
+
+#### Evasion
+Obfuscation: code wird so verändert das, das antiviren programm es icht mehr erkennen kann.
+Highlevel code wird dann zu bytes umgewandelt.
+![[Pasted image 20260309085132.png|800]]
+
+dead code: nop = no operation (code macht pause, sorgt dafür das die obfuscation anders aussieht)
+
+#### Advanced Obfuscation: LLM Obfuscation
+
+
+Metasploitframework auslassen!
+
+#### Post-Exploitation nach P
