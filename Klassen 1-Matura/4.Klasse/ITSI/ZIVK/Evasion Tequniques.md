@@ -44,3 +44,6 @@ Active Directory: Verzeichnisdienst von Microsoft, ermöglicht die Verwaltung vo
 und anderen Ressourcen in einem Netzwerk.
 Bloodhound: Tool zur Visualisierung von Beziehungen und Berechtigungen in Active Directory, um potenzielle Angriffsvektoren zu identifizieren.
 
+Collecter: sammelt Informationen über Benutzer, Gruppen, Computer und Berechtigungen in Active Directory.
+Analyzer: analysiert die gesammelten Daten, um potenzielle Angriffsvektoren zu identifizieren, z.B. privilegierte Konten, Gruppenmitgliedschaften und Berechtigungen.
+Visualizer: erstellt eine grafische Darstellung der Beziehungen und Berechtigungen in Active Directory, um die Angriffsvektoren besser zu verstehen und zu planen.
