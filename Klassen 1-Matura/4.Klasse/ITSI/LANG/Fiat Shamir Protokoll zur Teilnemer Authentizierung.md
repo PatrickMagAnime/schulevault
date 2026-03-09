@@ -9,3 +9,6 @@ B: Verifier
 Commitment:
 Challenge:
 Response:
+
+Vorteile: geringe rechenleistung erforderlich
+Nachteile: 
