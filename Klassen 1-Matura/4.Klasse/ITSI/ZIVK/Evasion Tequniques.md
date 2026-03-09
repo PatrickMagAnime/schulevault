@@ -7,7 +7,7 @@ Obfuscation: code wird so verändert das, das antiviren programm es icht mehr er
 Highlevel code wird dann zu bytes umgewandelt.
 ![[Pasted image 20260309085132.png|800]]
 
-dead code: nop = no operation (code macht pause, sorgt dafür das die obfuscation anders aussieht)
+dead code: zB nop = no operation (code macht pause, sorgt dafür das die obfuscation anders aussieht)
 
 #### Advanced Obfuscation: LLM Obfuscation
 
@@ -24,5 +24,5 @@ Post exploitation ist ...
 - Privilege Escalation (Privilegien Erweitern)
 
 
-lolbin = living o
-lolbas
+lolbin = living on the land (vorinstallierte programme nutzen um privilegien zu bekommen)
+lolbas = living off the land (von system integrierte system dateien nutzen um privilegien zu erhöhen)
