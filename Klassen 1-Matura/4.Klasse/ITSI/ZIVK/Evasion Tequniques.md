@@ -47,3 +47,9 @@ Bloodhound: Tool zur Visualisierung von Beziehungen und Berechtigungen in Active
 Collecter: sammelt Informationen über Benutzer, Gruppen, Computer und Berechtigungen in Active Directory.
 Analyzer: analysiert die gesammelten Daten, um potenzielle Angriffsvektoren zu identifizieren, z.B. privilegierte Konten, Gruppenmitgliedschaften und Berechtigungen.
 Visualizer: erstellt eine grafische Darstellung der Beziehungen und Berechtigungen in Active Directory, um die Angriffsvektoren besser zu verstehen und zu planen.
+
+#### Risiko
+Risiko = Eintrittswahrscheinlichkeit * Schadenshöhe
+Threat: potenzielle Gefahr, die Schaden verursachen könnte.
+Vulnerability: Schwachstelle, die von einem Angreifer ausgenutzt werden könnte.
+Risiko: das ereigniss, das ein Angreifer ausnutzen könnte, um Schaden zu verursachen, basierend auf der Eintrittswahrscheinlichkeit und der Schadenshöhe.
