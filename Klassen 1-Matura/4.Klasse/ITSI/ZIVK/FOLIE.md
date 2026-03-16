@@ -11,3 +11,7 @@ Das web war nur gedacht um forschungen auszutauschen. Jetzt wird es genutzt das 
 Mit javascript kann man jetzt auch apps bauen.
 
 PWA: Progressive Web Appps
+
+Cursed Web: jeder der eine öffentliche ip adresse hat kann sachen online stellen. 
+
+Pentesting? rules of engagement und scope.
