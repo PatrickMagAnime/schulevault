@@ -15,3 +15,5 @@ PWA: Progressive Web Appps
 Cursed Web: jeder der eine öffentliche ip adresse hat kann sachen online stellen. 
 
 Pentesting? rules of engagement und scope.
+
+OWASP für guides nutzen.
