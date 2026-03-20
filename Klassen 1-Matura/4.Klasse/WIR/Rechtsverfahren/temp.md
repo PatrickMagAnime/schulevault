@@ -46,4 +46,11 @@ was es bringt:
 Parteien sind an vereinbarte Rechte und Pflichten gebunden. Diese Bindung gilt grundsätzlich inter partes, also nur zwischen den Vertragsparteien. Ausnahmen können bestehen, wenn Verträge Schutzwirkungen zugunsten Dritter entfalten oder wenn gesetzliche Anknüpfungen eine Außenwirkung begründen.
 
 **Bindung durch Willenserklärungen**
-Ein Angebot kann für eine bestimmte Zeit bindend sein, sodass es nicht einseitig frei verändert oder widerrufen werden kann, solange es noch angenommen werden kann. Auch Gestaltungsrechte (etwa Anfechtung, Rücktritt) entfalten Bindungswirkung, sobald sie wirksam ausgeübt werden; sie verändern die Rechtslage verbindlich für die Beteiligten.
+Ein Angebot kann für eine bestimmte Zeit bindend sein, sodass es nicht einseitig frei verändert oder widerrufen werden kann, solange es noch angenommen werden kann. Auch Gestaltungsrechte (etwa Anfechtung, Rücktritt) entfalten Bindungswirkung, sobald sie wirksam ausgeübt werden.
+___
+wie werden rechtsgeschäfte ausgelegt?
+
+**Rechtsgeschäfte**
+Rechtsgeschäfte, genauer: die in ihnen enthaltenen Willenserklärungen, sind auslegungsfähig wenn sie mehrdeutig sind und auslegungsbedürftig, wenn die Erklärenden unterschiedliche Verständnisse für sich beanspruchen. Bei einem eindeutigen Sinn oder bei einem übereinstimmenden Vertragsverständnis bleibt kein Raum für eine Auslegung.
+
+hab das von da btw: https://www.rechteasy.at/wiki/auslegung/
