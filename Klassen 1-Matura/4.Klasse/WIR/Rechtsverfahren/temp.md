@@ -43,7 +43,7 @@ was es bringt:
 ## Bindungswirkung in Verträgen und Willenserklärungen
 
 **Privatrechtliche Bindung**
-Im Privatrecht entsteht Bindungswirkung vor allem durch Verträge. Parteien sind an vereinbarte Rechte und Pflichten gebunden. Diese Bindung gilt grundsätzlich inter partes, also nur zwischen den Vertragsparteien. Ausnahmen können bestehen, wenn Verträge Schutzwirkungen zugunsten Dritter entfalten oder wenn gesetzliche Anknüpfungen eine Außenwirkung begründen.
+Parteien sind an vereinbarte Rechte und Pflichten gebunden. Diese Bindung gilt grundsätzlich inter partes, also nur zwischen den Vertragsparteien. Ausnahmen können bestehen, wenn Verträge Schutzwirkungen zugunsten Dritter entfalten oder wenn gesetzliche Anknüpfungen eine Außenwirkung begründen.
 
 **Bindung durch Willenserklärungen**
 Ein Angebot kann für eine bestimmte Zeit bindend sein, sodass es nicht einseitig frei verändert oder widerrufen werden kann, solange es noch angenommen werden kann. Auch Gestaltungsrechte (etwa Anfechtung, Rücktritt) entfalten Bindungswirkung, sobald sie wirksam ausgeübt werden; sie verändern die Rechtslage verbindlich für die Beteiligten.
