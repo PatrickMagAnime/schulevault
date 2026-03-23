@@ -33,3 +33,4 @@ httpbin.org
 
 Browser nimmt immer dateien die index heißen wenn nichts im path/query ist.
 
+![[Pasted image 20260323084911.png | 800]]
