@@ -18,3 +18,15 @@ Pentesting? rules of engagement und scope.
 
 OWASP für guides nutzen.
 
+Jedesmal wenn man auf eine Webseite geht wird code ausgeführt. Alles in einer Sandbox des Browser Tabs.
+Es gibt Front end (Visuell Sichtbare sachen auf einer Seite) und das Backend (Die logik des Servers der Website).
+
+Auf der Clientseite kann man code ausführen sowie den code analysieren.
+
+Eine URL (Uniform Resource Locator) ist:
+https (protocol)
+httpbin.org 
+:443 (port)
+/get (Path)
+?user=marco&admin=1 (query string)
+(hashtag)test (fragment)
