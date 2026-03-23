@@ -27,6 +27,9 @@ Eine URL (Uniform Resource Locator) ist:
 https (protocol)
 httpbin.org 
 :443 (port)
-/get (Path)
+/get (Path) oder ein redirect der nur das backend versteht (API calls)
 ?user=marco&admin=1 (query string)
 (hashtag)test (fragment)
+
+Browser nimmt immer dateien die index heißen wenn nichts im path/query ist.
+
