@@ -34,3 +34,8 @@ httpbin.org
 Browser nimmt immer dateien die index heißen wenn nichts im path/query ist.
 
 ![[Pasted image 20260323084911.png | 800]]
+
+
+###### **HTTP:**
+Stateless: man kann 3 anfragen senden und nur eine antwort bekommen.(man kann auch gar keine bekommen)
+State: Sachen werden sich von der Anwendung gemerkt. Cookies werden gespeichert sowie dann beim laden geladen.
