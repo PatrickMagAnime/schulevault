@@ -51,7 +51,6 @@ $\Delta V = \frac{4}{3}\pi \left((10{,}05)^3 - 10^3\right)$
 
 **Näherung mit Differential:**
 $dV = 4\pi r^2,dr$
-
 $dV = 4\pi \cdot 10^2 \cdot 0{,}05 = 20\pi$
 
 **Relativer Fehler:**
