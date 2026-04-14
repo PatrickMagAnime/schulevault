@@ -38,3 +38,24 @@ $dy = \frac{1}{2} \cdot (-0{,}002) = -0{,}001$
 
 $\Delta y = \ln(1{,}998) - \ln(2)$
 ___
+
+![[Pasted image 20260414231747.png]]
+Gegeben:
+$d = 20,\text{cm} \Rightarrow r = 10,\text{cm}, \quad \Delta d = 0{,}1,\text{cm} \Rightarrow dr = 0{,}05,\text{cm}$
+
+Volumen der Kugel:
+$V = \frac{4}{3}\pi r^3$
+
+**Exakte Volumenzunahme:**
+$\Delta V = \frac{4}{3}\pi \left((10{,}05)^3 - 10^3\right)$
+
+**Näherung mit Differential:**
+$dV = 4\pi r^2,dr$
+
+$dV = 4\pi \cdot 10^2 \cdot 0{,}05 = 20\pi$
+
+**Relativer Fehler:**
+$\text{rel. Fehler} = \frac{|\Delta V - dV|}{\Delta V}$
+___
+
+![[Pasted image 20260414232208.png]]
