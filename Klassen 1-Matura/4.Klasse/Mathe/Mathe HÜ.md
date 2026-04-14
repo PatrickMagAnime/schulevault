@@ -59,3 +59,26 @@ $\text{rel. Fehler} = \frac{|\Delta V - dV|}{\Delta V}$
 ___
 
 ![[Pasted image 20260414232208.png]]
+Gegebene Werte
+$d = 50,0\,\text{cm}$    
+$\Delta d = 0,5\,\text{cm}$ 
+Relativer Fehler Durchmesser: $\frac{\Delta d}{d} = \frac{0,5}{50} = 0,01 = 1\%$ 
+
+**a)** 
+Volumen $V = \frac{1}{6} \pi d^3$
+Absoluter Maximalfehler ($dV$):
+$V'(d) = \frac{1}{2} \pi d^2$
+$dV \approx V'(d) \cdot \Delta d = \frac{1}{2} \cdot \pi \cdot 50^2 \cdot 0,5 \approx 1963,5\,\text{cm}^3$
+
+Relativer Maximalfehler:
+$\frac{dV}{V} = \frac{\frac{1}{2} \pi d^2 \cdot \Delta d}{\frac{1}{6} \pi d^3} = 3 \cdot \frac{\Delta d}{d} = 3 \cdot 1\% = 3\%$
+
+**b)** 
+Oberfläche $O = \pi d^2$
+
+Absoluter Maximalfehler ($dO$):
+$O'(d) = 2 \pi d$
+$dO \approx O'(d) \cdot \Delta d = 2 \cdot \pi \cdot 50 \cdot 0,5 \approx 157,08\,\text{cm}^2$
+
+Relativer Maximalfehler:
+$\frac{dO}{O} = \frac{2 \pi d \cdot \Delta d}{\pi d^2} = 2 \cdot \frac{\Delta d}{d} = 2 \cdot 1\% = 2\%$
