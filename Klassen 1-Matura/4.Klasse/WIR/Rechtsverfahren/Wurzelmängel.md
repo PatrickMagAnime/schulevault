@@ -17,3 +17,8 @@ man unterscheidet **Inhaltlich** oder an diesem Ort zu gewieser zeit zu dieser A
  - Arglist
 list ist bewusste täuschung: der erklärende wird absichtlich duch vorspiegelung falscher tatsachen, zum vertragsabschluss bewogen
 - Drohung
+Psychisch bedrohen oder Physisch bedrohen
+- Irrtum
+Motivirrtum: Ist ein irrtum im beweggrund (mein bruder heiratet nächste woche und ich soll die torte besorgen, hichzeit findet jz aber nicht statt(geirrt das hochzeit stattfindet))
+Geschäftsirrtum: ist ein irrtum über den inhalt des vertrages. man kauft schoko torte aber man weis nd das man allergishch gegen inhalte sind
+Erklärungsirrtum: irrtum gegen den inhalt der abgegebenen erklärung. 
