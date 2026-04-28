@@ -1,6 +1,7 @@
 [[4.Mathe]]
 ___
 #### 1.19 
+![[Pasted image 20260428230315.png]]
 **a)**
 
 Gegeben:  
@@ -15,7 +16,7 @@ $dz = \frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy = 2dx + 
 
 $dz = 2(-0{,}05) + 0{,}10 = -0{,}10 + 0{,}10 = 0$
 
-**→ Näherung:**  
+**Näherung:**  
 $\Delta z \approx 0$
 
 **Exakt:**  
@@ -48,7 +49,7 @@ $z_1 = \frac{1{,}22}{3{,}54} \approx 0{,}34463$
 $\Delta z \approx 0{,}00177$
 
 ---
-
+![[Pasted image 20260428230336.png]]
 #### **1.20**
 
 Volumen:  
@@ -79,7 +80,7 @@ $dV = 18\pi (2\cdot8\cdot(-0{,}1) - 2\cdot6\cdot0{,}2)$
 $dV = 18\pi(-1{,}6 - 2{,}4) = 18\pi(-4) = -72\pi \approx -226{,}2$
 
 ---
-
+![[Pasted image 20260428230350.png]]
 #### **1.23**
 
 Gegeben:  
@@ -88,8 +89,6 @@ $x = 50{,}0 \pm 0{,}2,\quad y = 10{,}0 \pm 0{,}1$
 Gesamtfehler:  
 $\Delta z = \Delta x + \Delta y = 0{,}3$
 
-
-
 ### **Summe $z = x + y$**
 
 Maximaler Fehler bei:  
@@ -97,8 +96,6 @@ $x = 50{,}2,\quad y = 10{,}1 \Rightarrow z \text{ maximal}$
 
 Minimal bei:  
 $x = 49{,}8,\quad y = 9{,}9$
-
-
 
 ### **Differenz $z = x - y$**
 
