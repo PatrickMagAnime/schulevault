@@ -1,6 +1,5 @@
 [[4.Mathe]]
 ___
-
 #### 1.19 
 **a)**
 
@@ -50,7 +49,7 @@ $\Delta z \approx 0{,}00177$
 
 ---
 
-# **1.20**
+#### **1.20**
 
 Volumen:  
 $V = \pi h (R^2 - r^2)$
@@ -59,7 +58,6 @@ Gegeben:
 $r=6{,}0,; R=8{,}0,; h=18$  
 $dr=+0{,}20,\quad dR=-0{,}10$
 
----
 
 ### **a) exakt**
 
@@ -71,7 +69,6 @@ $V_1 = 431{,}46\pi$
 
 $\Delta V = (431{,}46 - 504)\pi = -72{,}54\pi \approx -227{,}9$
 
----
 
 ### **b) Differential**
 
@@ -83,7 +80,7 @@ $dV = 18\pi(-1{,}6 - 2{,}4) = 18\pi(-4) = -72\pi \approx -226{,}2$
 
 ---
 
-# **1.23**
+#### **1.23**
 
 Gegeben:  
 $x = 50{,}0 \pm 0{,}2,\quad y = 10{,}0 \pm 0{,}1$
@@ -91,7 +88,7 @@ $x = 50{,}0 \pm 0{,}2,\quad y = 10{,}0 \pm 0{,}1$
 Gesamtfehler:  
 $\Delta z = \Delta x + \Delta y = 0{,}3$
 
----
+
 
 ### **Summe $z = x + y$**
 
@@ -101,7 +98,7 @@ $x = 50{,}2,\quad y = 10{,}1 \Rightarrow z \text{ maximal}$
 Minimal bei:  
 $x = 49{,}8,\quad y = 9{,}9$
 
----
+
 
 ### **Differenz $z = x - y$**
 
@@ -113,7 +110,7 @@ $x = 49{,}8,\quad y = 10{,}1$
 
 ---
 
-# **1.26**
+#### **1.26**
 
 $\rho = \frac{m}{V}$
 
@@ -133,8 +130,6 @@ $V = \frac{\pi h^2}{3}(3r - h)$
 Gegeben:  
 $h = 54 \pm 0{,}5,\quad r = 48 \pm 0{,}5$
 
----
-
 ### Ableitungen
 
 $\frac{\partial V}{\partial h} = \pi(2hr - h^2)$  
@@ -148,8 +143,6 @@ $\Rightarrow \frac{\partial V}{\partial h} = 2268\pi$
 
 $\frac{\partial V}{\partial r} = 54^2\pi = 2916\pi$
 
----
-
 ### Fehler:
 
 $\Delta V \approx |2268\pi|\cdot0{,}5 + |2916\pi|\cdot0{,}5$
@@ -158,7 +151,6 @@ $\Delta V = 0{,}5\pi(2268+2916) = 2592\pi$
 
 $\Delta V \approx 8144\ \text{mm}^3$
 
----
 
 ### Volumen:
 
@@ -166,7 +158,3 @@ $V = \frac{\pi}{3}\cdot54^2\cdot(144-54)$
 $= \frac{\pi}{3}\cdot2916\cdot90 = 87480\pi$
 
 $V \approx 274800\ \text{mm}^3$
-
----
-
-Wenn du willst, mach ich dir das als **perfekt formatierten Obsidian-Block zum Copy-Paste** oder rechne noch 1.19 c 👍
