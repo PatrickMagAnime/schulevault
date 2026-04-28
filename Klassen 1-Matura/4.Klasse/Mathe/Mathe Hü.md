@@ -106,7 +106,7 @@ Minimal:
 $x = 49{,}8,\quad y = 10{,}1$
 
 ---
-
+![[Pasted image 20260428230619.png]]
 #### **1.26**
 
 $\rho = \frac{m}{V}$
@@ -114,9 +114,9 @@ $\rho = \frac{m}{V}$
 Relative Fehler:  
 $\frac{\Delta \rho}{\rho} \approx \frac{\Delta m}{m} + \frac{\Delta V}{V}$
 
-$= 3% + 2% = 5%$
+= 3% + 2% = 5%
 
-**→ Forderung (4%) nicht erfüllbar**
+**Forderung (4%) nicht erfüllbar**
 
 ---
 
