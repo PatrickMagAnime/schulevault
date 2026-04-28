@@ -119,7 +119,7 @@ $\frac{\Delta \rho}{\rho} \approx \frac{\Delta m}{m} + \frac{\Delta V}{V}$
 **Forderung (4%) nicht erfüllbar**
 
 ---
-
+![[Pasted image 20260428230641.png]]
 # **1.34**
 
 $V = \frac{\pi h^2}{3}(3r - h)$
@@ -147,7 +147,6 @@ $\Delta V \approx |2268\pi|\cdot0{,}5 + |2916\pi|\cdot0{,}5$
 $\Delta V = 0{,}5\pi(2268+2916) = 2592\pi$
 
 $\Delta V \approx 8144\ \text{mm}^3$
-
 
 ### Volumen:
 
