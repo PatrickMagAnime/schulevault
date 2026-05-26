@@ -23,6 +23,6 @@ https://de.wikipedia.org/wiki/Aufkl%C3%A4rung
 Der Sturm und Drang entstand teilweise als Gegenbewegung zur Aufklärung. Junge Autoren fanden, dass Gefühle wichtiger sind als reine Vernunft. Deshalb zeigen ihre Werke oft starke Emotionen, Leidenschaft und Protest gegen gesellschaftliche Zwänge.
 
 Ein bekannter Vertreter ist Johann Wolfgang von Goethe mit Die Leiden des jungen Werthers. Die Hauptfigur handelt sehr emotional und scheitert schließlich an ihren Gefühlen.
-
+https://de.wikipedia.org/wiki/Sturm_und_Drang
 Während die Aufklärung den Menschen durch Vernunft und Bildung verbessern wollte, stellte der Sturm und Drang Gefühle, Freiheit und Individualität in den Vordergrund. Beide Epochen beeinflussten die deutsche Literatur stark, verfolgen aber unterschiedliche Vorstellungen davon, wie Menschen leben und handeln sollten.
 
