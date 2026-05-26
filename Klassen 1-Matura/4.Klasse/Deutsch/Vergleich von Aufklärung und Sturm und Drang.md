@@ -22,7 +22,7 @@ Ein wichtiger Vertreter ist Gotthold Ephraim Lessing mit dem Drama _Nathan der W
 
 Der Sturm und Drang entstand teilweise als Gegenbewegung zur Aufklärung. Junge Autoren fanden, dass Gefühle wichtiger sind als reine Vernunft. Deshalb zeigen ihre Werke oft starke Emotionen, Leidenschaft und Protest gegen gesellschaftliche Zwänge.
 
-Ein bekannter Vertreter ist Johann Wolfgang von Goethe mit _Die Leiden des jungen Werthers_. Die Hauptfigur handelt sehr emotional und scheitert schließlich an ihren Gefühlen.
+Ein bekannter Vertreter ist Johann Wolfgang von Goethe mit _Die Leiden des jungen Werthers. Die Hauptfigur handelt sehr emotional und scheitert schließlich an ihren Gefühlen.
 
 **Fazit**
 
