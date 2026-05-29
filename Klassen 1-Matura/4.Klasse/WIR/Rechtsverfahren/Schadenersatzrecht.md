@@ -17,3 +17,8 @@ sämtliche andere ideelle schäden kann man vernachlässigen aber schmerzensgeld
 - Rechtswidrigkeit
 	deliktische rechtwidrigkeit
 	vertragliche rechtswidrigkeit
+
+- Verschulden
+	ist die vorwerfbarkeit von rechtswidrigen verhalten
+	Vorsatz: Absicht, Wissentlich, Bedingten
+	Fahrlässigkeit: Grobe fahr. leichte fahr. fehlleistung
