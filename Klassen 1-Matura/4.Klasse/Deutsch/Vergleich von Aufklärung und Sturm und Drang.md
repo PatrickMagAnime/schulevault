@@ -16,7 +16,8 @@ Die Aufklärung und der Sturm und Drang sind zwei literarische Epochen des 18. J
 
 Die Literatur der Aufklärung wollte die Menschen durch Vernunft verbessern. Autoren glaubten, dass Bildung und logisches Denken zu einer besseren Gesellschaft führen. Häufig wurden moralische Botschaften vermittelt.
 
-Ein wichtiger Vertreter ist Gotthold Ephraim Lessing mit dem Drama _Nathan der Weise_. Dort stehen Toleranz und vernünftiges Handeln im Mittelpunkt.
+Ein wichtiger Vertreter ist Gotthold Ephraim Lessing mit dem Drama 
+Nathan der Weise. Dort stehen Toleranz und vernünftiges Handeln im Mittelpunkt.
 https://de.wikipedia.org/wiki/Aufkl%C3%A4rung
 ### Sturm und Drang
 
