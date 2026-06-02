@@ -10,9 +10,9 @@ Die Aufklärung und der Sturm und Drang sind zwei literarische Epochen des 18. J
 | Ziel der Literatur          | Belehren und erziehen            | Emotionen zeigen und Individualität betonen   |
 | Sprache                     | Klar, sachlich, verständlich     | Emotional, oft kraftvoll und spontan          |
 | Typische Figuren            | Vernünftige Bürger               | Geniale Einzelgänger und Rebellen             |
-| Verhältnis zur Gesellschaft | Ordnung und Moral wichtig        | Kritik an Regeln und Autoritäten              |
+| Verhältnis zur Gesellschaft | Ortnung und Moral wichtig        | Kritik an Regeln und Autoritäten              |
 
-###  die Aufklärung
+### die Aufklärung
 
 Die Literatur der Aufklärung wollte die Menschen durch Vernunft verbessern. Autoren glaubten, dass Bildung und logisches Denken zu einer besseren Gesellschaft führen. Häufig wurden moralische Botschaften vermittelt.
 
