@@ -323,6 +323,6 @@ Beide Modelle liefern eine fast perfekte mathematische Anpassung an die Datenpun
 Da genau $n = 5$ Datenpunkte gegeben sind, kann ein Polynom vom Grad $4$ ($5$ unbekannte Koeffizienten) ein lineares Gleichungssystem exakt lösen. Die Kurve geht exakt durch jeden einzelnen Punkt, weshalb die Abweichung überall Null ist ($SS_{res} = 0 \rightarrow R^2 = 1$).
 
 **Ökonomisch nicht sinnvoll**, weil:
-* Es kommt zum "Overfitting" (Überanpassung).
+* Es kommt zum "Overfitting".
 * Der Kurvenverlauf zwischen den Punkten schlägt extreme, unrealistische Wellen (Wiggle-Effekt).
 * Extrapolationen (Prognosen außerhalb der Daten) werden völlig unbrauchbar.
