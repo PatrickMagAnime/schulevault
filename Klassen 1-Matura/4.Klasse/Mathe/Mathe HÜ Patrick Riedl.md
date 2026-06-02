@@ -326,3 +326,83 @@ Da genau $n = 5$ Datenpunkte gegeben sind, kann ein Polynom vom Grad $4$ ($5$ un
 * Es kommt zum "Overfitting".
 * Der Kurvenverlauf zwischen den Punkten schlägt extreme, unrealistische Wellen (Wiggle-Effekt).
 * Extrapolationen (Prognosen außerhalb der Daten) werden völlig unbrauchbar.
+___
+![[Pasted image 20260602222318.png]]
+Gegeben:
+$P_1=(1|3), P_2=(3|4), P_3=(4|7), P_4=(6|10), P_5=(8|11)$
+$n = 5$
+
+*a)* Lineare Ausgleichsfunktion
+Modell: $y = k \cdot x + d$
+
+Mittelwerte:
+$\bar{x} = \frac{1 + 3 + 4 + 6 + 8}{5} = 4{,}4$
+$\bar{y} = \frac{3 + 4 + 7 + 10 + 11}{5} = 7$
+
+Steigung $k$ und Achsenabschnitt $d$
+$\sum (x_i - \bar{x})^2 = (-3{,}4)^2 + (-1{,}4)^2 + (-0{,}4)^2 + (1{,}6)^2 + (3{,}6)^2 = 11{,}56 + 1{,}96 + 0{,}16 + 2{,}56 + 12{,}96 = 29{,}2$
+$\sum (x_i - \bar{x})(y_i - \bar{y}) = (-3{,}4)(-4) + (-1{,}4)(-3) + (-0{,}4)(0) + (1{,}6)(3) + (3{,}6)(4) = 13{,}6 + 4{,}2 + 0 + 4{,}8 + 14{,}4 = 37$
+$k = \frac{37}{29{,}2} \approx 1{,}2671$
+$d = 7 - 1{,}2671 \cdot 4{,}4 \approx 1{,}4247$
+
+Funktion
+$y = 1{,}2671x + 1{,}4247$
+
+*b)* Quadratische Ausgleichsfunktion
+Modell: $y = a \cdot x^2 + b \cdot x + c$
+_Regressionsrechnung via TR:_
+
+Koeffizienten:
+$a \approx -0{,}0702$
+$b \approx 1{,}9053$
+$c \approx 0{,}3004$
+
+Funktion:
+$y = -0{,}0702x^2 + 1{,}9053x + 0{,}3004$
+
+*c)* Kubische Ausgleichsfunktion
+Modell: $y = a \cdot x^3 + b \cdot x^2 + c \cdot x + d$
+_Regressionsrechnung via TR:_
+
+Koeffizienten:
+$a \approx -0{,}0138$
+$b \approx 0{,}1146$
+$c \approx 1{,}1959$
+$d \approx 0{,}9806$
+
+Funktion:
+$y = -0{,}0138x^3 + 0{,}1146x^2 + 1{,}1959x + 0{,}9806$
+
+*d)* Exponentialfunktion
+Modell: $y = c \cdot e^{b \cdot x}$
+_Regressionsrechnung via TR (GTR / GeoGebra nutzt hierfür $\ln(y)$ zur Linearisierung):_
+
+Koeffizienten:
+$c \approx 2{,}5412$
+$b \approx 0{,}2031$
+
+Funktion:
+$y = 2{,}5412 \cdot e^{0{,}2031x}$
+
+*e)* Logarithmische Funktion
+Modell: $y = a + b \cdot \ln x$
+_Regressionsrechnung via TR:_
+
+Koeffizienten:
+$a \approx 2{,}3397$
+$b \approx 4{,}2511$
+
+Funktion:
+$y = 2{,}3397 + 4{,}2511 \cdot \ln x$
+
+*f)* Interpretation der Angemessenheit (Bestimmtheitsmaß $R^2$)
+
+Werte aus dem TR / GeoGebra:
+
+- **Lineares Modell (a):** $R^2 \approx 0{,}9594$
+- **Quadratisches Modell (b):** $R^2 \approx 0{,}9676$
+- **Kubisches Modell (c):** $R^2 \approx 0{,}9712$
+- **Exponentialmodell (d):** $R^2 \approx 0{,}9225$
+
+Interpretation:
+Das kubische Modell besitzt mit $R^2 \approx 0{,}9712$ den höchsten Wert und beschreibt die Kurve rein mathematisch am besten, dicht gefolgt vom quadratischen Modell ($0{,}9676$). Das lineare Modell ist mit knapp $96\%$ ebenfalls eine sehr gute und einfachere Annäherung. Das Exponentialmodell liefert für diese Datenpunkte die geringste Anpassungsgüte.
