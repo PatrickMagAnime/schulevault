@@ -30,3 +30,17 @@ Meiner Meinung nach ergänzen sich beide Sichtweisen. Vernunft hilft dabei, Prob
 https://de.wikipedia.org/wiki/Sturm_und_Drang
 Während die Aufklärung den Menschen durch Vernunft und Bildung verbessern wollte, stellte der Sturm und Drang Gefühle, Freiheit und Individualität in den Vordergrund. Beide Epochen beeinflussten die deutsche Literatur stark, verfolgen aber unterschiedliche Vorstellungen davon, wie Menschen leben und handeln sollten.
 
+### Bezug auf Musik
+- **In der Aufklärung (Kopf & Ordnung):**
+    Musik musste genau wie die Wissenschaft **logisch, klar strukturiert und harmonisch** sein. Komponisten folgten strengen mathematischen Regeln. Die Musik sollte den Verstand erfreuen, ausgeglichen sein und keine extremen, unvorhersehbaren Ausbrüche haben (ein typisches Beispiel ist die barocke Kirchenmusik oder die frühe Klassik).
+    
+- **Im Sturm und Drang (Herz & Rebellion):**
+    Hier bricht die Musik völlig aus den Regeln aus. In der Musik nennt man diese Phase auch oft **"empfindsamer Stil"**. Die Stücke spiegeln die Literatur wider: Es gibt **plötzliche, krasse Wechsel von laut zu leise**, unerwartete Pausen, wilde Rhythmen und dramatische Melodien. Die Musik sollte den Zuhörer emotional regelrecht durchschütteln. Ein wichtiger Komponist dafür war z. B. Carl Philipp Emanuel Bach (ein Sohn von J.S. Bach).
+
+
+
+
+
+
+
+
